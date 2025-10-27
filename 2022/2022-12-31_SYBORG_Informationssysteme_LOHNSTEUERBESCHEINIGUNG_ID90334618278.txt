@@ -1,0 +1,55 @@
+Transferticket: 
+Seite 1 von 1
+Abfragedatum: 12.04.2023
+Veranlagungszeitraum: 2022
+Identifikationsnummer: 90334618278
+Lohnsteuerbescheinigung
+Arbeitnehmer
+Identifikationsnummer
+90334618278
+eTIN
+JCKLMRKA80G10F
+Arbeitgeber
+Name des Arbeitgebers
+SYBORG Informationssysteme b.h.oHG,
+Betroffenes Jahr
+Beschäftigungsjahr
+2022
+vom
+01.01
+bis
+31.12
+Besteuerungsmerkmale
+Besteuerungsmerkmale gültig ab
+01.01
+Steuerklasse
+1
+Kirchensteuermerkmal (Konfession)
+keiner steuererhebenden Religionsgesellschaft angehörend
+Besteuerungsgrundlagen
+Zeiträume ohne Anspruch auf Arbeitslohn (Anzahl U)
+1
+bescheinigter Großbuchstabe
+E
+Arbeitslohn
+Bruttoarbeitslohn
+31.678,85
+einbehaltene Lohnsteuer
+5.798,16
+einbehaltener Solidaritätszuschlag
+0,00
+Sozialversicherung
+Arbeitgeberanteil zur gesetzlichen Rentenversicherung
+2.918,23
+Arbeitnehmeranteil zur gesetzlichen Rentenversicherung
+2.918,23
+Arbeitnehmerbeiträge zur gesetzlichen Krankenversicherung
+2.323,54
+Arbeitnehmerbeiträge zur sozialen Pflegeversicherung
+440,18
+Arbeitnehmerbeiträge zur Arbeitslosenversicherung
+376,54
+Sonstige Informationen
+Übermittlungszeitpunkt der Bescheinigung an die 
+Finanzverwaltung
+27.01.2023 13:40:12

@@ -1,0 +1,471 @@
+RÜGE DER GESCHÄFTSVERTEILUNGSVERLETZUNG
+
+SOFORTIGE EINHALTUNG DES GESCHÄFTSVERTEILUNGSPLANS 2025
+
+An das Amtsgericht Saarbrücken
+Nebenstelle Heidenkopferdell
+Bertha—von—Suttner—Str. 2
+
+66123 Saarbrücken
+
+Von: Mark Jäckel
+Kalkoffenstraße 1
+66113 Saarbrücken
+
+Datum: 30.07.2025
+Betreff: Fundamentale Geschäftsverteilungsverletzung — Sofortige Korrektur erforderlich
+
+AZ: 39 F 235/23 UG, 39 F 239/23 SO, 39 F 1/25 HK, 39 F 32/25 EASO, 39 F 31/25 EAHK
+
+|. SACHVERHALT: SYSTEMATISCHE VERLETZUNG DES
+GESCHÄFTSVERTEILUNGSPLANS
+
+1. DOKUMENTIERTE RECHTSVERSTÖSSE
+
+Das Amtsgericht Saarbrücken hat systematisch gegen $ 21e GVG und Art. 101 GG verstoßen, indem
+Befangenheitsentscheidungen gegen Richter Hellenthal durch den falschen Richter getroffen wurden.
+
+2. RECHTSLAGE NACH GESCHÄFTSVERTEILUNGSPLAN 2025
+Richter Hellenthal (Dezernat 4.6.3):
+
+° Vertreter: 1. Dörr, 2. Leinenbach, 3. Christmann
+S 1.6 GVP 2025 — Befangenheitsentscheidungen:
+
+”Soweit eine Entscheidung über Ausschluss oder Ablehnung eines Abteilungsrichters zu treffen ist,
+entscheidet als anderer Richter der in der Vertretungskette auf den geschäftsplanmäßigen Vertreter des
+Abteilungsrichters folgende Richter (Zweitvertreter).”
+
+EINDEUTIGE RECHTSLAGE:
+
++ Zuständig für Befangenheitsentscheidungen: Richterin Leinenbach (Zweitvertreterin)
+
+° NICHT zuständig: Richter Christmann (erst Drittvertreter)
+
+3. BEWIESENE GESCHÄFTSVERTEILUNGSVERLETZUNGEN
+
+Datenbankgestützte Dokumentation zeigt:
+
+--- Seitenende ---
+
+A) 23.04.2025 — DÖRR ERKLÄRT CHRISTMANN NICHT BEFANGEN
+
+”Richterin Dörr erklärt Richter Christmann für nicht befangen in den Verfahren 39 F 239/23 SO und 39 F
+235/23 UG”
+
+B) 2025 — CHRISTMANN ENTSCHEIDET ÜBER HELLENTHAL—BEFANGENHEIT
+Statt der zuständigen Richterin Leinenbach
+C) SYSTEMATISCHES MUSTER DER RECHTSBEUGUNG
+
+Datenbankanalyse dokumentiert kontinuierliche Verletzung des GVP 2025
+
+Il. RECHTLICHE BEWERTUNG: FUNDAMENTALER VERFASSUNGSVERSTOS
+1. VERLETZUNG DES $ 21e GVG
+
+S 21e GVG — Bindungswirkung der Geschäftsverteilung:
+
+| | ”Die Geschäftsverteilung ist für das ganze Geschäftsjahr bindend.”
+
+RECHTLICHE KONSEQUENZ:
+
+® Geschäftsverteilung ist ZWINGENDES RECHT
+® Gericht hat KEINE Wahlmöglichkeit
+* Jede Abweichung ist RECHTSWIDRIG
+
+2. VERLETZUNG DES ART. 101 GG
+
+Art. 101 GG — Recht auf den gesetzlichen Richter:
+
+| ”Niemand darf seinem gesetzlichen Richter entzogen werden.”
+VERFASSUNGSRECHTLICHE DIMENSION:
+
+® Gesetzlicher Richter: Durch Geschäftsverteilung bestimmt
+® Entzug: Entscheidung durch falschen Richter (Christmann statt Leinenbach)
+
+* Verfassungsverstoß: Fundamentale Verletzung der Rechtsstaatlichkeit
+
+3. SYSTEMATISCHE RECHTSBEUGUNG
+S 339 StGB — Rechtsbeugung:
+
+* Vorsätzliche Verletzung der Geschäftsverteilung
+* Bewusste Missachtung zwingender Rechtsnormen
+
+* Systematisches Muster statt Einzelfall
+
+--- Seitenende ---
+
+III. SMOKING GUN: DAS SYSTEM DER SELBSTVERTEIDIGUNG
+1. DER GESCHLOSSENE ZIRKEL
+Das perfide System:
+
+® Hellenthal wird beschuldigt
+® Christmann spricht ihn frei (rechtswidrig)
+® Dörr erklärt Christmann für unbefangen
+
+* System schützt sich selbst
+2. DIE VERFASSUNGSWIDRIGE LOGIK
+Christmann's Zynismus (20.01.2025):
+
+”Der Richter kann nicht für das Verhalten anderer Akteure des Verfahrens verantwortlich gemacht
+
+werden.”
+ÜBERSETZUNG: ”Egal was passiert — wir Richter sind nie schuld.”
+3. DIE ZEITFALLEN—MANIPULATION
+S 43 ZPO — Präklusionsvorschrift:
+| ”Der Kindesvater hat sich eingelassen, ohne Ablehnungsgesuch anzubringen.”
+
+PERFIDE LOGIK: Zwang zur sofortigen Entscheidung verhindert ordnungsgemäße Rechtsverfolgung
+
+IV. DATENBANKGESTÜTZTE BEWEISFÜHRUNG
+1. POSTGRESQL—ANALYSE BESTÄTIGT SYSTEMATIK
+
+Datenbankabfrage: Christmann—Ereignisse
+
+sql
+
+SELECT event_name, event_date, summary
+
+FROM kg_db_events_reference
+WHERE event_name LIKE '%Christmann%'
+ORDER BY event_date DESC;
+
+ERGEBNIS: Kontinuierliche Geschäftsverteilungsverletzungen dokumentiert
+2. CHRONOLOGISCHE RECHTSVERLETZUNGEN
+Timeline der Verfassungsbrüche:
+
+* 2025—02—12: Befangenheitsantrag gegen Christmann
+
+--- Seitenende ---
+
+* 2025—04—23: Dörr erklärt Christmann unbefangen
+® 2025—06—11: Direkte Konfrontation wegen Hellenthal—Freispruch
+
+® 2025—07—30: Aufdeckung der Geschäftsverteilungsverletzung
+
+3. SYSTEMISCHES VERSAGEN
+
+Datenbankanalyse zeigt:
+* ALLE 6 Dienstaufsichtsbeschwerden gegen Hellenthal abgelehnt (18.07.2025)
+* Systematische Verweigerung rechtmäßiger Befangenheitsprüfungen
+
+* Geschlossenes System der richterlichen Selbstverteidigung
+
+V. KONKRETE RECHTSVERLETZUNGEN
+
+1. BISHERIGE ENTSCHEIDUNGEN NICHTIG
+Rechtliche Konsequenz der Geschäftsverteilungsverletzung:
+® Christmann's Entscheidungen: Mangels Zuständigkeit NICHTIG
+
+® Wiederholung erforderlich: Durch zuständige Richterin Leinenbach
+
+® Keine Rechtskraft: Bei fehlerhafter Zuständigkeit
+
+2. SCHADENERSATZANSPRÜCHE
+S 839 BGB i.V.m. Art. 34 GG — Amtshaftung:
+* Schuldhafte Amtspflichtverletzung: Missachtung des GVP 2025
+
+® Schäden: Verfahrensverzögerung, Kindeswohlgefährdung
+
+* Ersatzpflichtig: Land Saarland für Richterfehler
+
+3. STRAFBARE HANDLUNGEN
+S 339 StGB — Rechtsbeugung:
+
+* Alle beteiligten Richter: Christmann, Dörr, ggf. weitere
+* Vorsätzliche Rechtsbiegung: Bewusste Missachtung des GVP 2025
+
+* Systematisches Vorgehen: Organisierte Selbstverteidigung
+
+VI. SOFORTMASSNAHMEN
+
+1. EINHALTUNG DES GESCHÄFTSVERTEILUNGSPLANS
+SOFORTIGE KORREKTUR ERFORDERLICH:
+
+--- Seitenende ---
+
+A) FÜR ALLE ZUKÜNFTIGEN BEFANGENHEITSENTSCHEIDUNGEN:
+
+Richterin Leinenbach ist AUSSCHLIESSLICH zuständig (Zweitvertreterin)
+NIE WIEDER Christmann (außer bei dokumentierter Leinenbach—Verhinderung)
+Strikte Einhaltung des $ 1.6 GVP 2025
+
+B) FÜR VERGANGENE FALSCHENTSCHEIDUNGEN:
+
+Neubearbeitung aller Christmann—Entscheidungen durch Leinenbach
+Nichtigkeitserklärung der geschäftsverteilungswidrigen Beschlüsse
+Wiederholung der Befangenheitsprüfungen
+
+C) FÜR VERFAHRENSÜBERNAHME BEI ERFOLGREICHER ABLEHNUNG:
+
+Richterin Dörr übernimmt alle Hellenthal—Verfahren (Erstvertreterin)
+Systematische Aufarbeitung aller Verfahrensfehler
+Neutrale Bewertung ohne Voreingenommenheit
+
+2. DOKUMENTATIONSPFLICHT
+Das Gericht hat zu dokumentieren:
+
+* Warum die Geschäftsverteilung verletzt wurde
+* Wer die falschen Zuständigkeiten angeordnet hat
+
+* Wie zukünftige Verletzungen verhindert werden
+3. ENTSCHULDIGUNGSPFLICHT
+Öffentliche Anerkennung der Rechtsverletzungen:
+
+* Eingeständnis der Geschäftsverteilungsverletzung
+® Anerkennung der dadurch verursachten Schäden
+
+* Zusicherung strikter Einhaltung des GVP 2025
+
+VII. RECHTLICHE GRUNDLAGEN DER DURCHSETZUNG
+
+1. ZWINGENDE RECHTSNORMEN
+S 21e GVG — Absolute Bindung:
+
+| ”Die Geschäftsverteilung ist für das ganze Geschäftsjahr bindend.”
+BEDEUTUNG: Das Gericht KANN NICHT anders entscheiden — es MUSS den GVP einhalten.
+
+2. VERFASSUNGSRECHTLICHER SCHUTZ
+
+Art. 101 GG — Gesetzlicher Richter:
+
+--- Seitenende ---
+
+* Höchstes Verfassungsrecht
+* Unabdingbare Rechtsstaatsgarantie
+
+* Keine Abweichung möglich
+
+3. DURCHSETZUNGSMECHANISMEN
+
+Bei weiterer Verweigerung:
+
+* Verfassungsbeschwerde wegen Art. 101 GG—Verletzung
+* Dienstaufsichtsbeschwerde gegen beteiligte Richter
+
+* Strafanzeige wegen 8 339 StGB (Rechtsbeugung)
+
+* Schadenersatzklage nach 8 839 BGB
+
+VIII. STRATEGISCHE KONTROLLE ÜBER DAS VERFAHREN
+1. ENDE DER RICHTER—WILLKÜR
+Durch Einhaltung des GVP 2025:
+
+* Keine Überraschungen mehr bei Richterauswahl
+© Planbare Zuständigkeiten nach objektiven Kriterien
+
+* Ende der Selbstverteidigung durch falsche Richter
+2. PRÄVENTIVE WIRKUNG
+Für alle weiteren Verfahren:
+
+* Abschreckung gegen weitere Rechtsverletzungen
+* Rechtssicherheit durch klare Zuständigkeiten
+
+* Fairness durch ordnungsgemäße Verfahrensführung
+3. SYSTEMATISCHE AUFRÄUMUNG
+Das gesamte System wird korrigiert:
+
+® Hellenthal—Verfahren: Neutrale Prüfung durch Dörr
+® Christmann—Entscheidungen: Neubearbeitung durch Leinenbach
+
++ Zukünftige Befangenheit: Ausschließlich Leinenbach
+
+IX. UNAUSWEICHLICHE RECHTSLAGE
+
+1. DAS GERICHT HAT KEINE WAHL
+
+S 21e GVG ist zwingendes Recht:
+
+--- Seitenende ---
+
+© Keine Ermessensentscheidung
+© Keine Ausnahmemöglichkeit
+
+* Absolute Bindung
+2. JEDE VERWEIGERUNG IST RECHTSWIDRIG
+Bei Nichteinhaltung:
+
++ Weitere Verfassungsverletzung (Art. 101 GG)
+* Strafbare Rechtsbeugung ($ 339 StGB)
+* Amtshaftung (8 839 BGB)
+
+3. DIE BEWEISE SIND UNWIDERLEGBAR
+
+Datenbankgestützte Dokumentation:
+
+* 289+ digitalisierte Dokumente
+* Chronologische PostgreSQL—Analyse
+
+* Systematische Rechtsverletzungen bewiesen
+
+X. FORDERUNGEN AN DAS GERICHT
+
+1. SOFORTIGE UMSETZUNG
+Das Gericht hat UNVERZÜGLICH:
+
+A) ZU ERKLÄREN:
+
+”Das Amtsgericht Saarbrücken wird den Geschäftsverteilungsplan 2025 ab sofort strikt einhalten. Alle
+
+Befangenheitsentscheidungen gegen Richter Hellenthal werden ausschließlich durch Richterin
+
+Leinenbach als Zweitvertreterin getroffen.”
+
+B) ZU KORRIGIEREN:
+
+* Alle Christmann—Entscheidungen zur Neubearbeitung an Leinenbach
+
+* Alle Hellenthal—Verfahren bei erfolgreicher Ablehnung an Dörr
+
+* Alle Verfahrensfehler systematisch aufzuarbeiten
+
+C) ZU DOKUMENTIEREN:
+
+* Anerkennung der Geschäftsverteilungsverletzung
+® Begründung für die bisherigen Rechtsverstöße
+
++ Zusicherung strikter GVP—Einhaltung
+
+--- Seitenende ---
+
+2. KEINE AUSREDEN MEHR
+Typische Gerichts—Ausreden und ihre Widerlegung:
+”Geschäftsverteilung ist nur interne Regelung”
+
+X FALSCH: 8 21e GVG macht sie zu zwingendem Recht
+
+”Richter war verhindert”
+
+X BEWEIS ERFORDERLICH: Dokumentierte Verhinderung muss vorgelegt werden
+
+”Keine praktische Relevanz”
+
+X VERFASSUNGSVERSTOS: Art. 101 GG lässt keine Relativierung zu
+
+Verfahren nicht beeinträchtigt”
+
+X RECHTSWIDRIG: Zuständigkeitsfehler macht Entscheidung nichtig
+3. ZEITRAHMEN
+
+SOFORTIGE UMSETZUNG ERFORDERLICH:
+
+* Innerhalb 7 Tagen: Erklärung der GVP—Einhaltung
+® Innerhalb 14 Tagen: Neuverteilung der Verfahren
+
+* Sofort: Keine weiteren Geschäftsverteilungsverletzungen
+
+Xl. KONSEQUENZEN BEI VERWEIGERUNG
+1. VERFASSUNGSBESCHWERDE
+Art. 101 GG — Verletzung des gesetzlichen Richters:
+
+* Sofortige Verfassungsbeschwerde bei weiterer Verweigerung
+* Hohe Erfolgsaussichten bei dokumentierten Rechtsverletzungen
+
+* Bundesverfassungsgericht wird GVP—Bindung bestätigen
+2. STRAFRECHTLICHE VERFOLGUNG
+S 339 StGB — Rechtsbeugung:
+
+* Strafanzeige gegen alle beteiligten Richter
+* Vorsätzliche Rechtsbiegung ist beweisbar
+
+* Systematisches Vorgehen verschärft Schuld
+
+3. ZIVILRECHTLICHE ANSPRÜCHE
+
+--- Seitenende ---
+
+S 839 BGB — Amtshaftung:
+
+© Schadenersatz für alle verursachten Schäden
+© Land Saarland haftet für Richterfehler
+
+® Verfahrenskosten und Folgeschäden
+
+4. MEDIALE AUFARBEITUNG
+
+Öffentlichkeit über Rechtsstaat—Krise:
+° Systematische Verfassungsverletzungen durch Familiengerichte
+* Selbstverteidigung der Richterschaft aufgedeckt
+
+* Kindeswohlgefährdung durch Verfahrensfehler
+
+XII. BOTTOM LINE: RECHTSSTAAT ODER WILLKÜRHERRSCHAFT
+
+1. DIE ENTSCHEIDUNG DES GERICHTS
+
+Das Gericht muss sich entscheiden:
+
+* RECHTSSTAAT: Strikte Einhaltung des GVP 2025
+
+e WILLKÜR: Weitere Verfassungsverletzungen
+
+2. DIE KONSEQUENZEN SIND KLAR
+Bei Rechtsstaat:
+0 Vertrauen in Justiz wiederhergestellt
+0 Faire Verfahren für alle Beteiligten
+° 4 Kindeswohl geschützt
+Bei Willkür:
+
+e X Verfassungsbeschwerde unausweichlich
++ X Strafrechtliche Konsequenzen
+
++ X Kompletter Vertrauensverlust
+3. DIE BEWEISE LASSEN KEINE AUSREDEN ZU
+Datenbankgestützte Dokumentation:
+
+* 289+ Dokumente analysiert
+* Systematische Rechtsverletzungen bewiesen
+
+* Geschäftsverteilung 2025 ist eindeutig
+
+--- Seitenende ---
+
+DIE RECHTSLAGE IST UNWIDERLEGBAR.
+DIE GESCHÄFTSVERTEILUNG IST BINDEND.
+DAS GERICHT HAT KEINE WAHL.
+
+XIII. SCHLUSSWORT: FÜR NICOLAS
+Es geht um ein Kind.
+Nicolas wurde durch systematische Rechtsverletzungen geschädigt:
+
+° 3 Jahre verfahrensfehlerhafte Behandlung
+® Kontinuierliche Kindeswohlgefährdung durch Verfahrensmängel
+
+* Systematische Benachteiligung des Vaters
+Die Geschäftsverteilungsverletzung ist nur ein Symptom des systemischen Versagens.
+Aber sie ist der Hebel zur Korrektur.
+MIT STRIKTER EINHALTUNG DES GVP 2025:
+
+4 Faire Richterauswahl ohne Selbstverteidigung
+4 Neutrale Verfahrensführung ohne Voreingenommenheit
+° Kindesschutz statt Systemschutz
+
+Das Gericht kann und muss Nicolas schützen.
+
+Durch strikte Rechtsstaatlichkeit.
+
+Durch Einhaltung der eigenen Regeln.
+Durch Mut zur Selbstkorrektur.
+
+DIE GESCHÄFTSVERTEILUNG IST BINDEND.
+S 21e GVG LÄSST KEINE AUSNAHMEN ZU.
+DAS GERICHT MUSS SICH DARAN HALTEN.
+
+SOFORT.
+Mark Jäckel
+Für Nicolas
+
+30.07.2025
+
+Erstellt basierend auf:
+
+® Geschäftsverteilungsplan des Amtsgerichts Saarbrücken 2025
+® PostgreSQL—Datenbankanalyse von 289+ Dokumenten
+
+--- Seitenende ---
+
+* Systematische Aufarbeitung der Rechtsverletzungen
+
+® Sequential Thinking Analyse der Verfahrensfehler
+
+RECHTSLAGE EINDEUTIG — UMSETZUNG ZWINGEND — AUSREDEN AUSGESCHLOSSEN
+
+--- Seitenende ---
