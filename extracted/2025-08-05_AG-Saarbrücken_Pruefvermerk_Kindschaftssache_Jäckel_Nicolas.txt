@@ -1,0 +1,42 @@
+Prüfvermerk vom 05.08.2025, 09:14:41
+Die unten aufgeführten Dokumente sind elektronisch eingegangen. Die technische Prüfung der elektronischen Dokumente hat 
+folgendes Ergebnis erbracht:
+Angaben zur Nachricht:
+Sicherer Übermittlungsweg aus einem besonderen Anwaltspostfach.
+Eingangszeitpunkt:
+05.08.2025, 09:01:44
+Absender:
+Wolfgang Becker
+Nutzer-ID des Absenders:
+DE.BRAK.2f53bae0-313a-4069-8161-fc9b186fcefc.c0f2
+Aktenzeichen des Absenders:
+70104
+ 
+Empfänger:
+Amtsgericht Saarbrücken
+Aktenzeichen des Empfängers:
+39 F 1/25 HK
+ 
+Betreff der Nachricht:
+Kindschaftssache Jäckel Nicolas
+Text der Nachricht:
+Nachrichtenkennzeichen:
+NRW_B11754377303492a5d84609-7e46-4598-a761-4c30e8a44a23
+Angaben zu den Dokumenten:
+Dateiname
+Format
+Informationen zu(r) qualifizierten elektronischen Signatur(en)
+Qualifiziert
+signiert 
+nach ERVB?
+durch
+Berufsbezogenes 
+Attribut
+am
+Prüfergebnis
+Scan20250805081557.pdf
+pdf
+nein
+xjustiz_nachricht.xml
+xml
+nein
