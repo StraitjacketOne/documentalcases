@@ -1,0 +1,33 @@
+25.11.25, 18:22 Mein Justizpostfach | Eingangsbestätigung
+
+Eingangsbestätigung vom 25.11.2025, 18:20:51
+
+Angaben zur Nachricht:
+
+Sicherer Übermittlungsweg aus dem Postfach— und Versanddienst eines OZG—
+Nutzerkontos.
+
+Eingang auf dem Server: 25.11.2025, 18:11:53
+
+Empfänger: Frank Schubert
+
+Nutzer—ID des Empfängers: DE.BRAK.bba7457d—262e—46ce—8225—
+e01d8c5ccfb2.8e01
+
+Nachrichtenkennzeichen: BRAK_1764090713335087d12bb—60c7—
+
+4874—84bb—aa37219a1f60
+
+Angaben zu den Dokumenten:
+
+Dateiname Format
+
+xjustiz_nachricht.xml xml
+
+2025—11—25_Jäckel_Anfrage_Pflichtverteidiger_28Ds6Js423.pdf | pdf
+
+about:blank
+
+1/1
+
+--- Seitenende ---
