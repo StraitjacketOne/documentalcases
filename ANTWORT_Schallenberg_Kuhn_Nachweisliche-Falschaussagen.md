@@ -183,7 +183,7 @@ Frau Lena Kuhn hat nachweislich:
 **Geplanter Termin:** 9:30 Uhr (wie alle bisherigen Termine)
 **Tatsächlicher Termin:** 9:00 Uhr (30 Minuten früher!)
 **Mark informiert:** NEIN
-**Mark erscheint:** ca. 9:10 Uhr
+**Mark erscheint:** ca. 9:40 Uhr (10 Minuten nach Ursprungszeit)
 
 **PRAXYS-Protokoll (Rebecca Wilhelm):**
 > "Kontakt um 9:30 Uhr abgebrochen, da Vater nicht kam."
@@ -314,6 +314,118 @@ Frau Lena Kuhn hat nachweislich:
 
 ---
 
+### **ZUSÄTZLICHE MANIPULATION: DAS SYSTEMATISCHE MUSTER VON PRAXYS**
+
+#### **13.12.2022 - EINE WOCHE VOR DEM 20.12.2022**
+
+**PRAXYS-Protokoll 5 dokumentiert:**
+
+> "Der Vater ist der Meinung, dass der Kontakt schon um 9:00 Uhr stattfindet und diskutiert mit der Besuchsbegleitung. Er ist der Meinung, es wäre sinnvoll, die Probleme hier in PrakSys mit der Kindsmutter zu klären. **Der Vater wartet anschließend noch 20 Minuten im Auto hinter dem Haus.**"
+
+**Quelle:** `2022-12-13_PRAKSYS_REBECCA-WILHELM_BESUCHSKONTAKT-PROTOKOLL-05.txt`, Zeilen 4-6
+
+**DIE BEDEUTUNG:**
+- **EINE WOCHE VORHER** ist Mark bereits verwirrt über die Terminzeit (9:00 vs 9:30)
+- **PRAXYS SAH DIE VERWIRRUNG** - dokumentierte sie sogar
+- **PRAXYS KLÄRTE NICHT AUF** - ließ Mark in dem Irrglauben
+- **EINE WOCHE SPÄTER (20.12.2022)** - nutzen sie diese Verwirrung, um den Kontakt zu beenden
+
+**→ DAS IST VORSATZ, KEINE VERSEHEN!**
+
+---
+
+#### **22.11.2022 - PRAXYS DOKUMENTIERT "ENTSCHULDIGTE ABWESENHEIT" KORREKT**
+
+**PRAXYS-Protokoll 3 dokumentiert:**
+
+> "Vater war pünktlich, hat ein Attest vom Arzt für den ausgefallenen T[ermin]"
+
+**PRAXYS-Gesamtbericht (02.03.2023) dokumentiert:**
+
+> "22.11.2022 Vater hatte einen Arzttermin, reicht im Nachgang Bescheinigung nach"
+
+**Quelle:**
+- `2022-12-02_PRAKSYS_REBECCA-WILHELM_BESUCHSKONTAKT-PROTOKOLL-03.txt`, Zeilen 3-4
+- `2023-03-02_PrakSys_Wilhelm_Umgangsbericht_{ohne-AZ}.txt`, Zeile 34
+
+**DIE BEDEUTUNG:**
+- Mark hatte Neurologietermin für Nicolas
+- Mark teilte dies Kuhn telefonisch mit (mehrmals!)
+- Mark brachte ärztliches Attest
+- **PRAXYS DOKUMENTIERTE ES KORREKT als entschuldigte Abwesenheit**
+
+**→ PRAXYS WUSSTE WIE MAN KORREKT DOKUMENTIERT!**
+
+---
+
+#### **VERGLEICH: NOVEMBER vs. DEZEMBER**
+
+| **Datum** | **Situation** | **Dokumentation** | **Unterschied** |
+|-----------|---------------|-------------------|-----------------|
+| **22.11.2022** | Arzttermin mitgeteilt, Attest nachgereicht | "Vater hatte Arzttermin, Bescheinigung nachgereicht" | **KORREKT** |
+| **13.12.2022** | Zeitverwirrung 9:00 vs 9:30 | "Vater meint Kontakt um 9:00, diskutiert" | **KEINE AUFKLÄRUNG** |
+| **20.12.2022** | Termin vorgezogen ohne Info | "Vater erschien nicht" | **VERSCHWEIGT TERMINVERSCHIEBUNG** |
+
+**DIE FRAGE:**
+- Warum wird am 22.11.2022 eine entschuldigte Abwesenheit korrekt dokumentiert?
+- Warum wird am 13.12.2022 die Zeitverwirrung NICHT aufgeklärt?
+- Warum wird am 20.12.2022 die Terminverschiebung VERSCHWIEGEN?
+
+**→ WEIL ES EINE SYSTEMATISCHE MANIPULATION IST!**
+
+---
+
+#### **DAS PROTOKOLL 6 - DIE ABSICHT WIRD SICHTBAR**
+
+**PRAXYS-Protokoll 6 vom 20.12.2022:**
+
+**Zeile 1-2:**
+> "Mutter 10 Minuten später, da Busse nicht gefahren sind."
+
+**Zeile 4-5:**
+> "Kontakt um 9:30 Uhr abgebrochen, da Vater nicht kam."
+
+**Quelle:** `2022-12-13_PRAKSYS_REBECCA-WILHELM_BESUCHSKONTAKT-PROTOKOLL-06.txt`
+
+**DIE MANIPULATION IST PERFIDE:**
+1. **Termin heimlich vorgezogen:** Von 9:30 auf 9:00 Uhr
+2. **Mutter 10 Minuten zu spät:** Kam erst um 9:10 (Bus)
+3. **Kontakt um 9:30 beendet:** Genau zur ursprünglichen Terminzeit!
+4. **Vater kommt um 9:40:** 10 Minuten nach ursprünglicher Zeit
+5. **Protokoll:** "Vater kam nicht"
+
+**WARUM WURDE DER KONTAKT UM 9:30 BEENDET?**
+- **Nicht um 9:00** (neuer Termin)
+- **Nicht um 9:10** (als Mutter kam)
+- **Sondern um 9:30** (alter Termin)
+
+**→ SIE WOLLTEN SICHERSTELLEN, DASS MARK ZU SPÄT KOMMT!**
+
+---
+
+#### **WARUM MACHT EINE SOZIALARBEITERIN SO ETWAS?**
+
+Diese Frage steht im Zentrum dieser gesamten Manipulation.
+
+**Die Fakten zeigen:**
+- PRAXYS konnte korrekt dokumentieren (22.11.2022 - Arzttermin)
+- PRAXYS sah die Zeitverwirrung (13.12.2022 - "meint 9:00 Uhr")
+- PRAXYS klärte nicht auf (ließen Mark in Verwirrung)
+- PRAXYS beendete Kontakt genau zur Ursprungszeit (9:30 statt 9:00 oder 9:10)
+- PRAXYS verschwiegen die Terminverschiebung in ALLEN Berichten
+
+**Kuhn erhielt:**
+- Das Protokoll vom 13.12.2022 (Zeitverwirrung)
+- Den Anruf vom 10.01.2023 (Erklärung der Manipulation)
+- Den Bericht vom 02.03.2023 (verschweigt Terminverschiebung)
+
+**Kuhn übermittelte ans Gericht:**
+> "Am 20.12.2022 erschien der Kindesvater nicht zum vereinbarten Umgangstermin."
+
+**OHNE DIE ENTLASTENDEN TATSACHEN ZU ERWÄHNEN!**
+
+---
+
 ## TEIL 3: SYSTEMATISCHE MANIPULATION - GESAMTÜBERSICHT
 
 ### **MUSTER DER VERSCHLEIERUNG:**
@@ -322,6 +434,8 @@ Frau Lena Kuhn hat nachweislich:
 |-----------|--------------|------------------|-------------------|
 | **31.08.2022** | Gefahrenmeldung (E-Mail) | Keine Reaktion | Bereitschaftsdienst |
 | **01.09.2022** | Weiterleitung an Meiser | "Keine E-Mail bekommen" | Meiser |
+| **22.11.2022** | Arzttermin (Neurologie) | KORREKT dokumentiert mit Attest | PRAXYS (Beweis!) |
+| **13.12.2022** | Zeitverwirrung 9:00 vs 9:30 | Dokumentiert, aber NICHT aufgeklärt | PRAXYS/Wilhelm |
 | **15.12.2022** | Weiterleitung an Kuhn | "Nicht abspielbar" | Kuhn |
 | **20.12.2022** | Terminverschiebung | Vater nicht informiert | PRAXYS/Wilhelm |
 | **20.12.2022** | PRAXYS-Protokoll | Verschweigt Terminverschiebung | Wilhelm |
@@ -379,7 +493,7 @@ Frau Lena Kuhn hat nachweislich:
 
 #### **FALSCHAUSSAGE 2: "ERSCHIEN NICHT" (11.05.2023)**
 - **Kuhn ans Gericht:** "Am 20.12.2022 erschien der Kindesvater nicht"
-- **Tatsache:** Termin vorgezogen, Vater nicht informiert, erschien 9:10 Uhr
+- **Tatsache:** Termin vorgezogen (9:00 statt 9:30), Vater nicht informiert, erschien 9:40 Uhr (10 Min nach Ursprungszeit)
 - **Kuhn wusste seit 10.01.2023:** Terminverschiebung im Telefonat besprochen
 - **→ VERSCHWEIGEN ENTLASTENDER TATSACHEN**
 
