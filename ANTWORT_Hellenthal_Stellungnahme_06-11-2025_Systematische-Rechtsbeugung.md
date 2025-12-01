@@ -422,7 +422,7 @@ Zehn Tage vor Marks Antrag erschien ein PRAKSYS-Bericht von Iris Klein, der syst
 
 **KUHN (11.05.2023):**
 - "Am 20.12.2022 erschien der Kindesvater nicht zum vereinbarten Umgangstermin"
-- **BEWEIS:** Terminverschiebung verschwiegen, Kuhn wusste davon seit 10.01.2023
+- **BEWEIS:** Terminverschiebung verschwiegen, obwohl Kuhn spätestens im Telefonat vom 10.01.2023 damit konfrontiert wurde (dokumentiert)
 - **HELLENTHAL:** Akzeptiert ohne Prüfung
 
 **PRAXYS (02.03.2023):**
@@ -698,7 +698,7 @@ Zehn Tage vor Marks Antrag erschien ein PRAKSYS-Bericht von Iris Klein, der syst
 
 **Das Gericht möge prüfen:**
 - E-Mail-Affäre (15 Monate Unterdrückung → Kind gefährdet)
-- PRAXYS-Manipulation 20.12.2022 (Kuhn wusste seit 10.01.2023)
+- PRAXYS-Manipulation 20.12.2022 (Kuhn spätestens am 10.01.2023 konfrontiert, dokumentiert)
 - Doppelstandard: USB-Stick vs. Hetze-Akzeptanz
 - Doppelstandard: Korruptionsverdacht vs. Verleumdungsschutz
 - "Betrifft nicht den Richter"-Logik (Christmann)

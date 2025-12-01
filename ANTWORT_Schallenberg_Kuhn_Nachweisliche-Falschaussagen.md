@@ -302,7 +302,7 @@ Frau Lena Kuhn hat nachweislich:
 ### **STRAFRECHTLICHE BEDEUTUNG:**
 
 #### **Prozessbetrug durch Aktenmanipulation**
-- Kuhn weiß seit 10.01.2023 von der Terminverschiebung
+- Kuhn wurde spätestens am 10.01.2023 mit der Terminverschiebung konfrontiert (dokumentiertes Telefonat)
 - Kuhn akzeptiert am 02.03.2023 den manipulierten PRAXYS-Bericht
 - Kuhn nutzt am 11.05.2023 diesen Bericht für die Gerichtsstellungnahme
 - Kuhn verschweigt die Terminverschiebung **NIEMALS schriftlich**
@@ -494,7 +494,7 @@ Diese Frage steht im Zentrum dieser gesamten Manipulation.
 #### **FALSCHAUSSAGE 2: "ERSCHIEN NICHT" (11.05.2023)**
 - **Kuhn ans Gericht:** "Am 20.12.2022 erschien der Kindesvater nicht"
 - **Tatsache:** Termin vorgezogen (9:00 statt 9:30), Vater nicht informiert, erschien 9:40 Uhr (10 Min nach Ursprungszeit)
-- **Kuhn wusste seit 10.01.2023:** Terminverschiebung im Telefonat besprochen
+- **Kuhn wurde spätestens am 10.01.2023 konfrontiert:** Terminverschiebung im Telefonat besprochen (dokumentiert)
 - **→ VERSCHWEIGEN ENTLASTENDER TATSACHEN**
 
 #### **FALSCHAUSSAGE 3: "KEINE GEFAHRENMELDUNGEN"**
