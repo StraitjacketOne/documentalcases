@@ -1,0 +1,74 @@
+DocuMagic Broken Links Report
+==============================
+Erstellt: 2025-12-15
+Export-Datei: documagic_export_2025-12-15.html
+
+ZUSAMMENFASSUNG
+---------------
+Geprüfte Links: 672 externe, 661 interne
+Defekte Links: 14 (alle 404 Not Found)
+Erfolgsquote: 97.9%
+
+================================================================================
+DATEIEN ZUM HOCHLADEN (existieren lokal, fehlen auf Server)
+================================================================================
+
+1. 2024-10-07_Praksys_IRIS_Klein_Gericht.pdf
+   Lokal: /mnt/i/data/documents/original/2024-10-07_Praksys_IRIS_Klein_Gericht.pdf
+   URL: https://www.schnecki.info/documents/original/2024-10-07_Praksys_IRIS_Klein_Gericht.pdf
+
+2. GAJäckelMarkSiegfried_22072025.pdf
+   Lokal: /mnt/i/data/documents/original/GAJäckelMarkSiegfried_22072025.pdf
+   URL: https://www.schnecki.info/documents/original/GAJ%C3%A4ckelMarkSiegfried_22072025.pdf
+
+3. Nachrichtentext.pdf
+   Lokal: /mnt/i/data/documents/original/Nachrichtentext.pdf
+   URL: https://www.schnecki.info/documents/original/Nachrichtentext.pdf
+
+================================================================================
+DATEIEN FEHLEN KOMPLETT (weder lokal noch auf Server)
+================================================================================
+
+Diese Dateien sind in der Datenbank referenziert, existieren aber nirgendwo:
+
+1. 2023-03-23_RA-Lehne_Weitere-Unterlagen_ohne-AZ.pdf
+2. 2024-02-20_KlauckiTschlussi.pdf
+3. 2024-05-15_Klaucki_Antlage.pdf
+4. hirsch.pdf
+5. 2024-12-29_Jäckel_Beschwerde-Einstellung-Diebstahl_26Js830-22_Email-von-2022.pdf
+6. carius_Komplize_Berg.pdf
+7. carius_Komplize_Brand.pdf
+8. 39F1-25-DienstlicheStellungnahmeErgänzung_FBA02254-4CC0-461C-9442-16B0BD7D3E9C.pdf
+9. CamScanner 11.11.2025 22.19.pdf
+10. 2025-11-25_Jäckel_Anfrage_Pflichtverteidiger.pdf
+11. 2025-12-03_Jäckel_AG-Lebach_ Schriftsatz_zur_Vollstreckungsabwehrklage_13C268_25.pdf
+
+================================================================================
+MÖGLICHE ÄHNLICHE DATEIEN (zur Prüfung)
+================================================================================
+
+Für "KlauckiTschlussi":
+  - 2024-07-29_KlauckiTschlussiPsychiKlapsi.pdf (ähnlicher Name)
+
+Für "CamScanner 11.11.2025":
+  - CamScanner 01.12.2025 11.19 (1).pdf
+  - CamScanner 14.10.25 10.59.pdf
+  - CamScanner 28.09.2024 02.45.pdf
+  (Datum 11.11.2025 existiert nicht)
+
+================================================================================
+LINK-CHECKER TOOL
+================================================================================
+
+Pfad: /home/hyde/hyde-projects/apps/documagic/scripts/check-links.mjs
+
+Verwendung:
+  node check-links.mjs <export.html> [options]
+
+Optionen:
+  --internal-only    Nur interne Links prüfen
+  --external-only    Nur externe Links prüfen
+  --timeout <ms>     Timeout für HTTP-Requests (default: 10000)
+  --concurrency <n>  Parallele Requests (default: 3)
+  --delay <ms>       Pause zwischen Batches (default: 200)
+  --verbose          Zeige auch erfolgreiche Links
