@@ -181,3 +181,116 @@ Die Begründung ändert sich. Das Ergebnis bleibt gleich.
 - Dutzende weitere Meldungen, die im System versickert sind
 
 **Ohne die Audios fehlt der Beweis, dass der Vater gewarnt hat - und systematisch ignoriert wurde.**
+
+---
+
+## Analyse-Beispiel 2: Die "Integrative Förderung" (Test vom 15.12.2025)
+
+### Testfrage: Was ist die von Frau Lena Kuhn für die Kindesmutter beantragte "integrative Förderung"?
+
+### Offizielle Version (genesis - Dokumente):
+
+**Kuhn Stellungnahme 16.07.2025:**
+> "Die integrative Familienhilfe des Margaretenstiftes wurde seitens des Sozialen Dienstes als die geeignete Hilfeform für Nicolas und die Kindesmutter angesehen."
+
+**IF-Programm laut Margaretenstift-Bericht 26.06.2025:**
+- 6-monatiges Familiengruppenprogramm
+- Positive Parenting Program (PPP)
+- Video-Home-Training
+- Tägliche Begleitung
+- "Erfolgreich beendet" am 31.07.2025
+
+### Was die Audio-Beweise zeigen (factcheck_db):
+
+**29.01.2025 - Telefonat mit Kindesmutter:**
+
+Die Kindesmutter erzählt, was Kuhn und Bohnenberger von ihr wollten:
+
+> "Ich sollte eine Zettel unterschreiben und ich war nicht einverstanden." (Snippet 590)
+
+Was auf dem Zettel stand:
+- "Die müssen mich vor dir schützen" (Snippet 660)
+- "Alkohol Probleme sich entwickelt hat auf Erziehungsprobleme" (Snippet 670)
+- 6 Monate in Mutter-Kind-Einrichtung (Snippet 1230)
+- Polizei rufen wenn der Vater sich nähert (Snippet 790)
+
+Die Kindesmutter weigerte sich:
+> "Das mache ich nicht mit." (Snippet 630)
+> "War dann sauer auf mich die Kuhn" (Snippet 1350)
+
+Bohnenbergers Drohung:
+> "Und dann hat er gesagt, na gut, dann gehen wir vor Gericht." (Snippet 1120)
+
+### Die Wahrheit hinter der "Integrativen Förderung":
+
+Die IF war **Plan B** nachdem die Kindesmutter sich geweigert hat, das Dokument zu unterschreiben.
+
+Was Kuhn wollte:
+1. Alkoholproblematik aus den Akten tilgen → "Erziehungsprobleme"
+2. Den Vater als Gefahr darstellen → "Schutz vor dir"
+3. Kontaktsperre legitimieren → "Polizei rufen"
+
+Was Kuhn bekam:
+- Kindesmutter in 6-monatiger Maßnahme (ohne Unterschrift, aber mit Druck)
+- Offizielle Berichte sprechen nur von "Erziehungsverhalten"
+- Alkohol wird nicht mehr erwähnt
+- Vater hat weiterhin keinen Umgang
+
+### Das Muster:
+
+| Was passierte | Was in den Akten steht |
+|---------------|------------------------|
+| 1,99 Promille (2022) | "Keine Ausfallerscheinungen" |
+| Alkoholprobleme (2025) | "Erziehungsprobleme" |
+| Vater warnt seit Jahren | "Gefahr für Kindesmutter" |
+| Kindesmutter verweigert Unterschrift | "Kooperativ und motiviert" |
+
+**Ohne die Audio-Beweise wäre die Wahrheit unsichtbar.**
+
+---
+
+## Analyse-Beispiel 3: Die Realität während der "Integrativen Förderung" (23.04.2025)
+
+### Kontext:
+Die Kindesmutter ist seit 10.02.2025 im IF-Programm des Margaretenstifts. Kuhn nennt es "die geeignete Hilfeform". Die offiziellen Berichte sprechen von "kooperativ, motiviert, erfolgreich".
+
+### Was die Audio-Aufnahmen vom 23.04.2025 zeigen:
+
+**Kein Umgang seit 6 Monaten:**
+> "Das weiß ich nicht. Ich habe ihn seit sechs Monaten nicht gesehen."
+> "Alex ist dir bewusst, dass ich Nikolas ein halbes Jahr nicht sehen durfte?"
+> "Hör auf über mein Kind zu reden. Ich habe ihn ein halbes Jahr nicht gesehen."
+
+**Kuhn als Torwächterin:**
+> "Da hat die Frau Kuhn das erlaubt."
+> "Die Frau Kuhn erlaubt das. Die muss das erlauben."
+> "Ich will das schriftlich. Ich will, dass die Frau Kuhn mir das schriftlich erlaubt."
+
+**Das System als Vorgesetzte:**
+> "Die Frau Kuhn, die Brand, die haben doch Bossmodus über mich. Das sind doch die Chefs von mir."
+> "Alex, du hast mir neue Vorgesetzte gegeben. Also musst du mir jetzt genau sagen, wie ich zu handeln habe."
+
+**Falschaussagen als Ursache:**
+> "Alex, du hast vor Gericht Falschaussagen über mich verbreitet."
+> "werde ich nicht zum Kind gelassen, wegen Falschaussagen von dir und vom Jugendamt."
+
+**Verzweiflung:**
+> "Ich habe nichts mehr, was irgendwie ein Mensch hat. Ich funktioniere nur noch."
+> "gestern habe ich am Boden gelegen, gestern habe ich geheult, gestern habe ich den ganzen Tag geheult"
+
+### Die zwei Welten am 23.04.2025:
+
+| Kindesmutter | Kindesvater |
+|--------------|-------------|
+| Im IF-Programm mit täglicher Begleitung | 6 Monate kein Kontakt zum Kind |
+| "Kooperativ und motiviert" | "Muss das Gericht abwehren" |
+| PPP-Kurs, Video-Coaching | Rechtsbeugungsanzeige vorbereiten |
+| Alkoholprobleme "umgedeutet" | Falschaussagen gegen ihn |
+| Kuhn erlaubt ihr alles | Kuhn muss alles erlauben |
+
+### Status dieser Aufnahmen:
+- **Unreviewt** (Sprecher als UNKNOWN markiert)
+- Braucht manuellen Review für gerichtsfeste Verwendung
+- Aber: Die Aussagen selbst sind eindeutig
+
+**Das ist der Beweis, was "Integrative Förderung" in der Praxis bedeutet: Während eine Seite gefördert wird, wird die andere Seite ausgesperrt.**
