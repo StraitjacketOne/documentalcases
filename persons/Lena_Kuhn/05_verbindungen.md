@@ -1,11 +1,62 @@
 # Lena Kuhn - Verbindungsnetz
 
 **Erstellt:** 2025-12-18
+**Aktualisiert:** 2025-12-18
 **Zweck:** Dokumentation aller Beziehungen und Abhaengigkeiten
 
 ---
 
-## Beziehungen im Ueberblick
+## WICHTIG: Organisatorische Trennung
+
+**Kuhn's Manipulation:** Sie sagte Mark "Ich gehoere nicht zu denen" und "Ich bin auch in einem ganz anderen Gebaeude" - um sein Vertrauen zu gewinnen, als er nach 6 Monaten Psychoterror durch die Mutter psychisch am Ende war. Sie stellte sich als "Hoffnungsengel" dar.
+
+**Die Wahrheit:** Jugendamt und Sozialer Dienst sind ZWEI verschiedene Abteilungen - aber sie arbeiten ZUSAMMEN gegen den Vater.
+
+---
+
+## Organisationsstruktur RVS
+
+```
+REGIONALVERBAND SAARBRUECKEN
+            │
+    ┌───────┴───────┐
+    │               │
+JUGENDAMT      SOZIALER DIENST
+(Verwaltung)    (Fallarbeit)
+    │               │
+    ├─ Schallenberg  ├─ Bohnenberger
+    │  (Leitung)     │
+    ├─ Brand         ├─ KUHN ←── "Ich gehoere nicht zu denen"
+    │                │           (LUEGE - sie gehoert dazu!)
+    ├─ Bluth         │
+    │                │
+    └─ Meiser        │
+       (frueher)     │
+                     │
+    ┌────────────────┘
+    │
+    ↓ beauftragt
+    │
+TRAEGER
+    │
+    ├─ PRAKSYS
+    │     ├─ Susanne Wilhelm (Mutter, Leitung)
+    │     └─ Rebecca Wilhelm (Tochter, Betreuerin)
+    │
+    └─ Margaretenstift (IF)
+
+SEPARAT:
+    │
+BEREITSCHAFTSDIENST (namenlos)
+    │
+    └─ "Rufen Sie die Polizei" (Abwimmeln)
+       Email: bereitschaft-rvsb@dwsaar.de
+       Beleg: 31.08.2022 Email, 24.09.2022 Telefonat
+```
+
+---
+
+## Beziehungen im Detail
 
 ### Kuhn ERTEILT Auftraege an:
 
@@ -25,90 +76,112 @@
 
 ### Kuhn KOOPERIERT mit:
 
-| Akteur | Institution | Art | Beleg |
-|--------|-------------|-----|-------|
-| Bohnenberger | JA RVS | Gemeinsame Noetigung zur Falschaussage | Audio 29.01.2025 |
-| Beate Brand | JA RVS | Koordination gegen Vater | Anzeige fuehrte zu Hausdurchsuchung |
-| Nina Meiser | JA RVS (frueher) | Uebergabe/Vorgaengerin? | 2022 Dokumente |
+| Akteur | Abteilung | Art | Beleg |
+|--------|-----------|-----|-------|
+| Bohnenberger | Sozialer Dienst | Gemeinsame Noetigung | Audio 29.01.2025 |
+| Beate Brand | Jugendamt | Koordination, Anzeige | Fuehrte zu Hausdurchsuchung |
+| Bereitschaftsdienst | RVS/DW Saar | Abwimmeln des Vaters | 24.09.2022 Telefonat |
 
 ### Kuhn BERICHTET AN:
 
 | Akteur | Institution | Art | Beleg |
 |--------|-------------|-----|-------|
 | Angelika Schallenberg | JA-Leitung RVS | Vorgesetzte | Organigramm |
-| Richter Hellenthal | AG Saarbruecken | Stellungnahmen ans Gericht | 11.05.2023 Falschaussage |
+| Richter Hellenthal | AG Saarbruecken | Stellungnahmen | 11.05.2023 Falschaussage |
 
 ---
 
-## Netzwerk-Visualisierung
+## Netzwerk-Visualisierung (korrigiert)
 
 ```
+                         [GERICHT]
                     [Richter Hellenthal]
-                           ↑
-                    Stellungnahmen
-                           ↑
-     [Schallenberg] ←── [LENA KUHN] ──→ [Carius]
-          ↑                 ↓                ↓
-      Vorgesetzte      Auftraege        schuetzt
-          ↑                 ↓                ↓
-                     ┌──────┴──────┐
-                     ↓             ↓
-               [PRAKSYS]    [Margaretenstift]
-                     ↓
-            ┌────────┴────────┐
-            ↓                 ↓
-    [Rebecca Wilhelm]  [Susanne Wilhelm]
-       (Tochter)          (Mutter)
-
-
-    Parallel-Achse (JA intern):
-
-    [Kuhn] ←→ [Bohnenberger] ←→ [Brand]
-              (Noetigung)      (Anzeige)
+                            ↑
+                     Stellungnahmen
+                            ↑
+┌───────────────────────────┼───────────────────────────┐
+│         JUGENDAMT         │      SOZIALER DIENST      │
+│        (Verwaltung)       │       (Fallarbeit)        │
+│                           │                           │
+│  [Schallenberg] ←─────────┼──→ [Bohnenberger]         │
+│       ↓ schuetzt          │         ↕ Noetigung       │
+│    [Brand] ──────────────→│←─── [LENA KUHN] ←─────────┼──→ [Carius]
+│       │                   │          ↓                │    (schuetzt)
+│       │ Anzeige           │      Auftraege            │
+│       ↓                   │          ↓                │
+│  Hausdurchsuchung         │     [TRAEGER]             │
+│                           │          │                │
+└───────────────────────────┼──────────┼────────────────┘
+                            │          │
+                            │    ┌─────┴─────┐
+                            │    ↓           ↓
+                            │ [PRAKSYS]  [Margaretenstift]
+                            │    │
+                            │    ├─ [Susanne Wilhelm] Mutter
+                            │    └─ [Rebecca Wilhelm] Tochter
+                            │
+                     [BEREITSCHAFTSDIENST]
+                            │
+                     "Rufen Sie die Polizei"
+                      (Abwimmeln seit 2022)
 ```
 
 ---
 
-## Schluesselerkenntnis: Die Befehlskette
+## Die Manipulation: "Ich gehoere nicht zu denen"
 
-```
-GERICHT (Hellenthal)
-        ↑
-        | glaubt
-        |
-JUGENDAMT (Kuhn)
-        ↑
-        | beauftragt
-        |
-TRAEGER (PRAKSYS/Margaretenstift)
-        ↑
-        | fuehrt aus
-        |
-MITARBEITER (Wilhelm/Wilhelm)
-```
+### Was Kuhn sagte (ca. Dezember 2022):
+- "Ich gehoere nicht zu denen"
+- "Ich bin auch in einem ganz anderen Gebaeude"
 
-**Das Problem:** Hellenthal glaubt Kuhn. Kuhn beauftragt Traeger. Traeger berichten was Kuhn will.
-Der Vater hat keine Chance in dieser Kette.
+### Die Realitaet:
+- Kuhn IST Teil des Systems
+- Sie arbeitet MIT Bohnenberger (Noetigung 29.01.2025)
+- Sie BERICHTET an Schallenberg
+- Sie wird von Brand, Carius, Hellenthal GESCHUETZT
+
+### Warum das perfide ist:
+Mark war nach 6 Monaten Psychoterror durch die alkoholkranke Mutter am Ende. Kuhn stellte sich als "Hoffnungsengel" dar - jemand der ANDERS ist, der ihm HELFEN will. Sie erschlich sich sein Vertrauen und nutzte es gegen ihn.
+
+---
+
+## Der Bereitschaftsdienst
+
+### Kontakt:
+- Email: bereitschaft-rvsb@dwsaar.de
+- Name: Unbekannt (nicht identifiziert)
+
+### Dokumentierte Vorfaelle:
+
+| Datum | Ereignis | Beleg |
+|-------|----------|-------|
+| 31.08.2022 | Mark dankt fuer "Unterstuetzung" | Email + Screenshot |
+| 24.09.2022 | 9:38 Min Telefonat - systematisches Abwimmeln | Audio-Transkript |
+
+### Taktik "48-Stunden-Falle":
+1. Mark meldet Kindeswohlgefaehrdung
+2. Bereitschaftsdienst: "Rufen Sie die Polizei"
+3. Polizei: "Rufen Sie das Jugendamt"
+4. Niemand handelt
+5. Nach 48h: "Wurde ja geprueft, keine Gefaehrdung"
+
+### Zitat Bereitschaftsdienst (24.09.2022):
+> "Es vergeht kein Wochenende, wo mir die Kollegin nicht erzaehlt, dass Sie anrufen."
+
+→ Sie WUSSTEN dass Mark verzweifelt ist. Sie taten NICHTS.
 
 ---
 
 ## Beweisstaerke der Verbindungen
 
-| Verbindung | Beweisstaerke | Quelle |
-|------------|---------------|--------|
+| Verbindung | Staerke | Quelle |
+|------------|---------|--------|
 | Kuhn → PRAKSYS | STARK (Audio) | "Das ist der Auftrag von der Frau Kuhn" |
-| Kuhn ↔ Bohnenberger | STARK (Audio) | Noetigung gemeinsam durchgefuehrt |
-| Carius → Kuhn (Schutz) | STARK (Dokument) | Einstellung trotz Beweislage |
-| Kuhn → Hellenthal | STARK (Dokument) | Falschaussage ans Gericht |
-| Schallenberg → Kuhn (Schutz) | MITTEL (Dokument) | Befangenheit abgelehnt |
-
----
-
-## Offene Fragen
-
-- Wer hat Kuhn urspruenglich auf den Fall angesetzt?
-- Gibt es Verbindungen zwischen Kuhn und der Kindesmutter ausserhalb der Akten?
-- Wie ist das Verhaeltnis Kuhn ↔ Spang-Heidecker (Verfahrensbeistaedin)?
+| Kuhn ↔ Bohnenberger | STARK (Audio) | Noetigung gemeinsam 29.01.2025 |
+| Kuhn "nicht zu denen" | STARK (Audio) | Manipulation erschlichen |
+| Carius → Kuhn (Schutz) | STARK (Dokument) | Einstellung 11.08.2025 |
+| Bereitschaftsdienst Abwimmeln | STARK (Audio + Email) | 31.08. + 24.09.2022 |
+| Brand → Hausdurchsuchung | STARK (Dokument) | Anzeige fuehrte zur Durchsuchung |
 
 ---
 
@@ -116,8 +189,18 @@ Der Vater hat keine Chance in dieser Kette.
 
 | Datum | Dokument | Relevante Verbindung |
 |-------|----------|---------------------|
-| 10.06.2024 | PRAKSYS Audio Am Holzbrunnen | Kuhn → PRAKSYS Auftrag |
+| 31.08.2022 | Email Dank Bereitschaftsdienst | Mark glaubte noch an Hilfe |
+| 24.09.2022 | Telefonat Bereitschaftsdienst | 48-Stunden-Falle dokumentiert |
+| 10.06.2024 | PRAKSYS Audio | Kuhn → PRAKSYS Auftrag |
 | 29.01.2025 | Audio Noetigung | Kuhn ↔ Bohnenberger |
 | 11.08.2025 | StA Einstellung | Carius → Kuhn Schutz |
 | 11.05.2023 | JA-Stellungnahme | Kuhn → Hellenthal Falschaussage |
-| 12.09.2025 | JA-Stellungnahme Schallenberg | Schallenberg → Kuhn Schutz |
+
+---
+
+## Offene Fragen
+
+- Wer ist die namenlose Person vom Bereitschaftsdienst?
+- Gibt es weitere Verbindungen Kuhn ↔ Kindesmutter?
+- Wie ist das Verhaeltnis Kuhn ↔ Spang-Heidecker (Verfahrensbeistaedin)?
+- Wer hat Kuhn urspruenglich auf den Fall angesetzt?
