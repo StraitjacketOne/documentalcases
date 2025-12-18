@@ -56,12 +56,42 @@ Kein Wort über Alkoholproblematik. Nur "Erziehungsverhalten".
 
 ---
 
-### 4. Die Falschaussage zum 20.12.2022 (KERNBEWEIS)
+### 4. Das MUSTER: Kuhn informiert, gibt nicht weiter
+
+#### FALL A: 22.11.2022 (Protokoll 02)
+
+**Was geschah:**
+- Vater hatte Neurologen-Termin (zentral vermittelt, zwingend fuer Krankmeldung)
+- Vater rief MEHRFACH an, sprach mit Kuhn
+- **Vater wollte nur 1 Stunde vorziehen - hat GEBETTELT**
+- Kuhn sagte: "Das obliegt dem Traeger"
+- **Kuhn informierte PRAKSYS NICHT**
+
+**Ergebnis:** Vater als "nicht erschienen" dokumentiert.
+
+**Audio:** NICHT vorhanden
+
+---
+
+#### FALL B: 20.12.2022 (Protokoll 06) - KERNBEWEIS
 
 **Referenz:** `ANALYSE/BEWEISKETTE_Kuhn-Falschaussage_20-12-2022.md`
 
 **Was geschah:**
 Am 20.12.2022 wurde ein PRAKSYS-Umgangstermin von 9:30 auf 9:00 Uhr vorgezogen - ohne den Vater zu informieren. Der Vater kam zum urspruenglichen Termin. PRAKSYS dokumentierte: "Vater nicht erschienen."
+
+**Audio/Email:** VORHANDEN ("fette Kuh" Email beweist Marks Version)
+
+---
+
+#### DAS MUSTER
+
+| Datum | Kuhn informiert? | PRAKSYS informiert? | Dokumentation |
+|-------|------------------|---------------------|---------------|
+| 22.11.2022 | JA (mehrfach, gebettelt) | NEIN | "nicht erschienen" |
+| 20.12.2022 | JA (Email 05.01.23 beweist) | NEIN | "nicht erschienen" |
+
+**Zweimal das gleiche Muster. Einmal OHNE Audio, einmal MIT Beweis.**
 
 **Die Beweiskette:**
 
