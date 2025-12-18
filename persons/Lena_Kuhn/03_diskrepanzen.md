@@ -56,6 +56,42 @@ Kein Wort über Alkoholproblematik. Nur "Erziehungsverhalten".
 
 ---
 
+### 4. Die Falschaussage zum 20.12.2022 (KERNBEWEIS)
+
+**Referenz:** `ANALYSE/BEWEISKETTE_Kuhn-Falschaussage_20-12-2022.md`
+
+**Was geschah:**
+Am 20.12.2022 wurde ein PRAKSYS-Umgangstermin von 9:30 auf 9:00 Uhr vorgezogen - ohne den Vater zu informieren. Der Vater kam zum urspruenglichen Termin. PRAKSYS dokumentierte: "Vater nicht erschienen."
+
+**Die Beweiskette:**
+
+| Datum | Ereignis | Dokument |
+|-------|----------|----------|
+| 05.01.2023 | Mark informiert Kuhn SCHRIFTLICH ueber Terminverschiebung | Email |
+| 05.01.2023 | Kuhn antwortet - widerspricht NICHT | Email |
+| 10.01.2023 | Mark konfrontiert Kuhn MUENDLICH im Telefonat | Transkript |
+| 10.01.2023 | Kuhn: "Ob das stimmt oder nicht, sei dahingestellt" - KEIN Widerspruch | Transkript |
+| 11.05.2023 | Kuhn schreibt ans Gericht: "Vater erschien nicht" | JA-Stellungnahme |
+
+**Die Diskrepanz:**
+
+| Kuhn WUSSTE (schriftlich + muendlich) | Kuhn SCHRIEB ans Gericht |
+|---------------------------------------|--------------------------|
+| Vater behauptet: Termin wurde verschoben | "erschien nicht zum vereinbarten Termin" |
+| Vater behauptet: Wurde nicht informiert | Keine Erwaehnung |
+| Kuhn selbst sagte: "sei dahingestellt" | Uebernahm PRAKSYS-Version als Tatsache |
+
+**Warum das entscheidend ist:**
+- Kuhn hatte 4 Monate Zeit zwischen Kenntnis (Januar) und Gerichtsschreiben (Mai)
+- Sie widersprach dem Vater nie - aber schrieb das Gegenteil ans Gericht
+- Diese Falschaussage war Grundlage fuer 14 Monate ohne Vater-Kind-Kontakt
+
+**Moegliche Straftatbestaende:**
+- § 186 StGB (Ueble Nachrede)
+- § 164 StGB (Falsche Verdaechtigung)
+
+---
+
 ## Fazit
 
 Lena Kuhn's offizielle Rolle (Sachbearbeiterin, Amtsvertreterin) verdeckt ihre tatsächliche Funktion:
@@ -64,6 +100,16 @@ Lena Kuhn's offizielle Rolle (Sachbearbeiterin, Amtsvertreterin) verdeckt ihre t
 - **Umdeklarierung** von Problemen in den Akten
 - **Druckausübung** auf Beteiligte
 - **Ausschluss** des Vaters aus jeder "Hilfeform"
+- **Falschaussagen** ans Gericht (nachweislich 20.12.2022)
+
+### Das Muster ueber Jahre (2022-2025):
+
+| Jahr | Offiziell | Tatsaechlich |
+|------|-----------|--------------|
+| 2022 | "Vater erschien nicht" | Termin wurde vorgezogen ohne Info |
+| 2023 | Gerichtsstellungnahme uebernimmt PRAKSYS-Version | Kuhn wusste von Gegendarstellung |
+| 2025 | "IF erfolgreich, Mutter kooperativ" | Noetigung, Drohung, Alkohol-Vertuschung |
 
 Die Dokumente zeigen eine "erfolgreiche Maßnahme".
 Die Audios zeigen Nötigung, Drohung und Vertuschung.
+Die Beweiskette zeigt: **Bewusste Irreführung des Gerichts über Jahre.**
