@@ -87,6 +87,63 @@ Abfrage:
 - Offene Fragen
 - Quellenverzeichnis
 
+### 05_verbindungen.md
+- Netzwerk der Person
+- Wer beauftragt, wer schuetzt, wer kooperiert
+- Hierarchien und Abhaengigkeiten
+- ASCII/Cypher-Visualisierung moeglich
+
+### 06_aussagen.md (KRITISCH!)
+- Woertliche Zitate der Person
+- Jede Aussage mit:
+  - **Wortlaut** (exakt)
+  - **Datum**
+  - **Quelle Genesis** (Dokument)
+  - **Quelle Factcheck** (Audio-Snippet falls vorhanden)
+  - **Beweiswert** (1-10)
+  - **Verwendung** (Wo einsetzen: Anklage, Plaedoyer, Presse)
+
+**WICHTIG:** Diese Datei ist das Herzstück für:
+- Interaktive Anklageschrift
+- Faktenbasiertes Plaedoyer
+- TruthPlayer-Integration (siehe Notiz unten)
+
+---
+
+## TruthPlayer-Integration
+
+**NOTIZ:** Der TruthPlayer (Nebenprojekt) wird hier zum Einsatz kommen!
+
+Jede Aussage in 06_aussagen.md kann:
+1. Als Text angezeigt werden (Genesis-Dokument)
+2. Als Audio abgespielt werden (Factcheck-Snippet)
+3. Interaktiv verlinkt werden
+
+**Vision: Interaktive Anklageschrift**
+
+Jede Behauptung in der Anklageschrift:
+- Kann angeklickt werden
+- Spielt sofort den Beweis ab (Text + Audio)
+- Untrennbare Beweiskette: AUSSAGE <-> QUELLE <-> AUDIO
+
+**Struktur der Verbindung:**
+
+```
+06_aussagen.md
+    |
+    +-- Wortlaut (exaktes Zitat)
+    |
+    +-- Quelle Genesis (Dokument-Referenz)
+    |       |
+    |       +-- extracted/[dokument].txt
+    |
+    +-- Quelle Factcheck (Audio-Referenz)
+            |
+            +-- audio/snippets/[snippet].mp3
+```
+
+**Ergebnis:** Eine Beweiskette die nur Gott trennen sollte.
+
 ---
 
 ## Schritt 4: DB aktualisieren (optional)
