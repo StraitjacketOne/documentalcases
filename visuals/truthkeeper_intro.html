@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRUTHKEEPER - Die Geschichte</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Pathway+Gothic+One&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            width: 100%;
+            height: 100vh;
+            background: #000;
+            overflow: hidden;
+            font-family: 'Pathway Gothic One', sans-serif;
+        }
+
+        /* Sternenfeld */
+        .stars {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 0;
+        }
+
+        .star {
+            position: absolute;
+            width: 2px;
+            height: 2px;
+            background: white;
+            border-radius: 50%;
+        }
+
+        /* Audio-Hinweis */
+        .audio-hint {
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            color: #666;
+            font-size: 14px;
+            z-index: 100;
+            font-family: Arial, sans-serif;
+        }
+
+        /* Intro-Text: "Vor langer Zeit..." */
+        .intro {
+            position: absolute;
+            top: 45%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: #4ee;
+            font-size: 2rem;
+            text-align: center;
+            opacity: 0;
+            animation: intro-fade 6s ease-in-out 1s forwards;
+            z-index: 10;
+        }
+
+        @keyframes intro-fade {
+            0% { opacity: 0; }
+            20% { opacity: 1; }
+            80% { opacity: 1; }
+            100% { opacity: 0; }
+        }
+
+        /* TRUTHKEEPER Logo */
+        .logo {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) scale(3);
+            color: #ff0;
+            font-size: 6rem;
+            font-weight: bold;
+            letter-spacing: 0.5rem;
+            text-align: center;
+            opacity: 0;
+            animation: logo-zoom 8s ease-in-out 7s forwards;
+            z-index: 10;
+            text-shadow: 0 0 20px rgba(255, 255, 0, 0.5);
+        }
+
+        .logo-subtitle {
+            font-size: 1.5rem;
+            letter-spacing: 0.8rem;
+            margin-top: 1rem;
+            color: #ff0;
+        }
+
+        @keyframes logo-zoom {
+            0% {
+                opacity: 1;
+                transform: translate(-50%, -50%) scale(3);
+            }
+            80% {
+                opacity: 1;
+                transform: translate(-50%, -50%) scale(0.1);
+            }
+            100% {
+                opacity: 0;
+                transform: translate(-50%, -50%) scale(0);
+            }
+        }
+
+        /* Der Crawl-Container */
+        .crawl-container {
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 90%;
+            max-width: 800px;
+            perspective: 400px;
+            z-index: 5;
+            animation: crawl-start 1s ease-out 15s forwards;
+        }
+
+        @keyframes crawl-start {
+            from { top: 100%; }
+            to { top: 80%; }
+        }
+
+        /* Der eigentliche Crawl */
+        .crawl {
+            position: relative;
+            transform-origin: 50% 100%;
+            transform: rotateX(25deg);
+            animation: crawl 180s linear 16s forwards;
+        }
+
+        @keyframes crawl {
+            from {
+                transform: rotateX(25deg) translateY(0);
+            }
+            to {
+                transform: rotateX(25deg) translateY(-6000px);
+            }
+        }
+
+        .crawl-content {
+            color: #ff0;
+            font-size: 2rem;
+            line-height: 1.8;
+            text-align: justify;
+            padding: 0 2rem;
+        }
+
+        .crawl-content h1 {
+            text-align: center;
+            font-size: 3rem;
+            margin-bottom: 2rem;
+            color: #ff0;
+        }
+
+        .crawl-content h2 {
+            text-align: center;
+            font-size: 2.2rem;
+            margin: 3rem 0 1.5rem 0;
+            color: #ff0;
+            border-bottom: 1px solid #ff0;
+            padding-bottom: 0.5rem;
+        }
+
+        .crawl-content p {
+            margin-bottom: 1.5rem;
+            text-indent: 2rem;
+        }
+
+        .crawl-content .emphasis {
+            color: #f44;
+            font-weight: bold;
+        }
+
+        .crawl-content .date {
+            color: #4ee;
+            font-weight: bold;
+        }
+
+        .crawl-content .person {
+            color: #f80;
+        }
+
+        .crawl-content .center {
+            text-align: center;
+            text-indent: 0;
+        }
+
+        .crawl-content .big {
+            font-size: 2.5rem;
+            text-align: center;
+            margin: 3rem 0;
+        }
+
+        /* Gradient-Overlay fuer Fade-out am oberen Rand */
+        .fade-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 30%;
+            background: linear-gradient(to bottom, #000 0%, #000 50%, transparent 100%);
+            z-index: 6;
+            pointer-events: none;
+        }
+
+        /* Skip-Button */
+        .skip-btn {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: transparent;
+            border: 1px solid #666;
+            color: #666;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-family: Arial, sans-serif;
+            z-index: 100;
+            transition: all 0.3s;
+        }
+
+        .skip-btn:hover {
+            border-color: #ff0;
+            color: #ff0;
+        }
+
+        /* Restart-Button (erscheint am Ende) */
+        .restart-btn {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: transparent;
+            border: 2px solid #ff0;
+            color: #ff0;
+            padding: 20px 40px;
+            font-size: 1.5rem;
+            cursor: pointer;
+            font-family: 'Pathway Gothic One', sans-serif;
+            z-index: 100;
+            opacity: 0;
+            pointer-events: none;
+            transition: all 0.3s;
+            animation: show-restart 1s ease-out 200s forwards;
+        }
+
+        @keyframes show-restart {
+            to {
+                opacity: 1;
+                pointer-events: all;
+            }
+        }
+
+        .restart-btn:hover {
+            background: #ff0;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <!-- Sternenfeld -->
+    <div class="stars" id="stars"></div>
+
+    <!-- Intro-Text -->
+    <div class="intro">
+        Im Saarland, in einer Zeit<br>
+        in der Behoerden ueber Familien richten...
+    </div>
+
+    <!-- TRUTHKEEPER Logo -->
+    <div class="logo">
+        TRUTHKEEPER
+        <div class="logo-subtitle">DIE GESCHICHTE</div>
+    </div>
+
+    <!-- Fade-Overlay -->
+    <div class="fade-overlay"></div>
+
+    <!-- Der Crawl -->
+    <div class="crawl-container">
+        <div class="crawl">
+            <div class="crawl-content">
+
+                <h1>EPISODE I</h1>
+                <h1>DER KAMPF UM NICOLAS</h1>
+
+                <p class="center big">
+                    Ein Vater. Ein Kind. Ein System.
+                </p>
+
+                <p>
+                    <span class="person">Mark Jaeckel</span> arbeitet beim Landeskriminalamt.
+                    Er hat Zugang zu den geheimsten Daten des Staates.
+                    BKA und Verfassungsschutz vertrauen ihm taeglich.
+                </p>
+
+                <p>
+                    Sein Sohn <span class="emphasis">Nicolas</span> ist alles fuer ihn.
+                </p>
+
+                <p>
+                    <span class="date">2022</span> trennt sich die Familie.
+                    Mark dokumentiert seit Jahren ein Problem:
+                    Die Mutter trinkt. Er hat Beweise. Fotos. Sprachnachrichten.
+                    Den Tag, an dem sein zweijaehriger Sohn
+                    <span class="emphasis">in eine Glasscherbe trat</span>,
+                    waehrend die Mutter bewusstlos war.
+                </p>
+
+                <h2>DAS JUGENDAMT</h2>
+
+                <p>
+                    Mark warnt die Behoerden. Er schreibt 1.157 Zeilen an das Gericht.
+                    Er legt alles offen.
+                </p>
+
+                <p>
+                    Die Antwort des <span class="person">Jugendamts</span>:
+                    <span class="emphasis">"Spammen Sie mich nicht zu."</span>
+                </p>
+
+                <p>
+                    Von Anfang an uebernehmen die Behoerden die Version der Mutter.
+                    Marks Warnungen werden ignoriert.
+                    Seine Beweise nicht angehoert.
+                </p>
+
+                <h2>DER LETZTE KONTAKT</h2>
+
+                <p>
+                    <span class="date">20. Dezember 2022</span>.
+                    Vier Tage vor Weihnachten.
+                </p>
+
+                <p>
+                    Mark hat einen Termin bei PRAKSYS um 9:30 Uhr.
+                    Die Einrichtung verlegt den Termin auf 9:00 Uhr.
+                    <span class="emphasis">Ohne Mark zu informieren.</span>
+                </p>
+
+                <p>
+                    Als Mark um 9:30 Uhr erscheint, ist Nicolas bereits weg.
+                </p>
+
+                <p>
+                    Was PRAKSYS dokumentiert:
+                    <span class="emphasis">"Vater erschien nicht."</span>
+                </p>
+
+                <p>
+                    Dies war der letzte Kontakt zwischen Vater und Sohn
+                    fuer <span class="emphasis">14 Monate</span>.
+                </p>
+
+                <h2>DIE LUEGE</h2>
+
+                <p>
+                    <span class="person">Lena Kuhn</span> vom Jugendamt weiss,
+                    dass der Termin vorgezogen wurde.
+                    Mark hat es ihr erklaert. Schriftlich. Muendlich.
+                </p>
+
+                <p>
+                    Sie widerspricht nicht.
+                </p>
+
+                <p>
+                    <span class="date">Mai 2023</span>:
+                    Kuhn schreibt an das Familiengericht:
+                </p>
+
+                <p class="center">
+                    <span class="emphasis">"Der Kindesvater erschien nicht
+                    zum vereinbarten Umgangstermin."</span>
+                </p>
+
+                <p>
+                    Eine Falschaussage. Vor Gericht.
+                </p>
+
+                <h2>DIE ANWAELTE</h2>
+
+                <p>
+                    Mark sucht Hilfe. Er findet <span class="person">RA Robling</span>.
+                </p>
+
+                <p>
+                    Robling verspricht, beide Verfahren zu fuehren:
+                    Familienrecht und Strafrecht.
+                </p>
+
+                <p>
+                    <span class="date">11. September 2023</span>.
+                    Ein Tag vor der Gerichtsverhandlung.
+                </p>
+
+                <p>
+                    Robling schreibt per WhatsApp:
+                    <span class="emphasis">"Ich lege das Mandat nieder."</span>
+                </p>
+
+                <p>
+                    Am naechsten Tag steht Mark ohne Verteidiger vor Gericht.
+                    Er wird verurteilt.
+                </p>
+
+                <h2>DIE VERGELTUNG</h2>
+
+                <p>
+                    Mark wehrt sich. Er droht mit einer Amtshaftungsklage
+                    gegen das <span class="person">Jugendamt</span>.
+                </p>
+
+                <p>
+                    Die Reaktion: Innerhalb von Wochen
+                    <span class="emphasis">10 Polizisten in 4 Einsaetzen</span>
+                    gegen Mark.
+                </p>
+
+                <p>
+                    Eine "Cybercrime"-Anzeige wird konstruiert.
+                    Der Vorwurf: Mark habe SMS geloescht.
+                </p>
+
+                <p>
+                    <span class="date">Maerz 2024</span>: Hausdurchsuchung.
+                </p>
+
+                <p>
+                    Die Ironie: Ein LKA-Mitarbeiter mit Sicherheitsueberpruefung
+                    wird behandelt wie ein Hacker.
+                </p>
+
+                <p>
+                    Was beschlagnahmt wird:
+                    <span class="emphasis">Nur das Handy mit den Jugendamt-Beweisen.</span>
+                </p>
+
+                <h2>DIE VERLETZUNGEN</h2>
+
+                <p>
+                    <span class="date">Oktober 2024</span>.
+                    Mark sieht Nicolas bei einem begleiteten Umgang.
+                </p>
+
+                <p>
+                    Er bemerkt schwere Verletzungen am Arm seines Sohnes.
+                    Wunden, die aussehen wie
+                    <span class="emphasis">ausgedrueckte Zigaretten</span>.
+                </p>
+
+                <p>
+                    Nicolas weicht aus. Vermeidet Augenkontakt.
+                    Will nicht erklaeren.
+                </p>
+
+                <p>
+                    Mark fotografiert die Verletzungen.
+                    Er schickt einen Eilantrag an das Gericht.
+                </p>
+
+                <p>
+                    Der PRAKSYS-Bericht:
+                    <span class="emphasis">"Das Kind hat Mueckenstiche."</span>
+                </p>
+
+                <h2>DIE EINSTELLUNGEN</h2>
+
+                <p>
+                    Mark zeigt die Beteiligten an:
+                </p>
+
+                <p class="center">
+                    Kuhn. Brand. Berg. Schallenberg.
+                </p>
+
+                <p>
+                    <span class="date">11. August 2025</span>.
+                    <span class="person">Staatsanwalt Carius</span>
+                    stellt alle Verfahren ein.
+                </p>
+
+                <p>
+                    Am selben Tag. Mit <span class="emphasis">wortgleichen Begruendungen</span>.
+                </p>
+
+                <p class="center">
+                    Einbahnstrassen-Justiz.
+                </p>
+
+                <h2>DAS ERGEBNIS</h2>
+
+                <p>
+                    <span class="date">Juli 2025</span>.
+                    Das Gericht gibt Nicolas zur Mutter.
+                </p>
+
+                <p>
+                    <span class="emphasis">Ohne Alkoholtherapie.</span>
+                </p>
+
+                <p>
+                    Nur ein "Schutzkonzept". Nur negative Tests.
+                    Genau das, was Mark seit 2022 als unzureichend kritisiert hatte.
+                </p>
+
+                <p>
+                    <span class="person">Richter Hellenthal</span> kannte alle Warnungen.
+                    Drei Jahre lang. Hunderte Seiten.
+                </p>
+
+                <p>
+                    Er entschied trotzdem so.
+                </p>
+
+                <h2>DIE BEWEISE</h2>
+
+                <p class="center big">
+                    670 Gerichtsdokumente.
+                </p>
+
+                <p class="center big">
+                    180 Audioaufnahmen.
+                </p>
+
+                <p class="center big">
+                    Drei Jahre Kampf.
+                </p>
+
+                <p>
+                    Ein Vater, der alles dokumentiert hat.
+                </p>
+
+                <p>
+                    Ein System, das sich selbst schuetzt.
+                </p>
+
+                <h2>DER KAMPF GEHT WEITER</h2>
+
+                <p>
+                    Klageerzwingung beim Oberlandesgericht.
+                    Verfassungsbeschwerde.
+                    Amtshaftungsklage.
+                </p>
+
+                <p>
+                    Die Beweise sind da.
+                    Die Geschichte ist erzaehlt.
+                </p>
+
+                <p class="center big">
+                    Was noch fehlt:
+                </p>
+
+                <p class="center big" style="color: #f44;">
+                    GERECHTIGKEIT
+                </p>
+
+                <p class="center" style="margin-top: 5rem; font-size: 3rem;">
+                    FUER NICOLAS
+                </p>
+
+                <p class="center" style="margin-top: 10rem; font-size: 1.5rem; color: #666;">
+                    TRUTHKEEPER - Dezember 2025
+                </p>
+
+                <div style="height: 50vh;"></div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Skip-Button -->
+    <button class="skip-btn" onclick="skipIntro()">Intro ueberspringen</button>
+
+    <!-- Restart-Button -->
+    <button class="restart-btn" onclick="location.reload()">Nochmal ansehen</button>
+
+    <script>
+        // Sterne generieren
+        const starsContainer = document.getElementById('stars');
+        for (let i = 0; i < 200; i++) {
+            const star = document.createElement('div');
+            star.className = 'star';
+            star.style.left = Math.random() * 100 + '%';
+            star.style.top = Math.random() * 100 + '%';
+            star.style.opacity = Math.random() * 0.8 + 0.2;
+            star.style.width = Math.random() * 2 + 1 + 'px';
+            star.style.height = star.style.width;
+            starsContainer.appendChild(star);
+        }
+
+        // Skip-Funktion
+        function skipIntro() {
+            const intro = document.querySelector('.intro');
+            const logo = document.querySelector('.logo');
+            const crawlContainer = document.querySelector('.crawl-container');
+            const crawl = document.querySelector('.crawl');
+
+            intro.style.display = 'none';
+            logo.style.display = 'none';
+
+            crawlContainer.style.animation = 'none';
+            crawlContainer.style.top = '80%';
+
+            crawl.style.animation = 'crawl 180s linear 0s forwards';
+        }
+
+        // Keyboard-Shortcuts
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 's' || e.key === 'S') {
+                skipIntro();
+            }
+            if (e.key === 'r' || e.key === 'R') {
+                location.reload();
+            }
+        });
+    </script>
+</body>
+</html>
