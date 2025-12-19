@@ -1,0 +1,963 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRUTHKEEPER - Die Geschichte</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Pathway+Gothic+One&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            width: 100%;
+            height: 100vh;
+            background: #000;
+            overflow: hidden;
+            font-family: 'Pathway Gothic One', sans-serif;
+        }
+
+        .stars {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 0;
+        }
+
+        .star {
+            position: absolute;
+            width: 2px;
+            height: 2px;
+            background: white;
+            border-radius: 50%;
+        }
+
+        .intro {
+            position: absolute;
+            top: 45%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: #4ee;
+            font-size: 2rem;
+            text-align: center;
+            opacity: 0;
+            animation: intro-fade 6s ease-in-out 1s forwards;
+            z-index: 10;
+        }
+
+        @keyframes intro-fade {
+            0% { opacity: 0; }
+            20% { opacity: 1; }
+            80% { opacity: 1; }
+            100% { opacity: 0; }
+        }
+
+        .logo {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) scale(3);
+            color: #ff0;
+            font-size: 6rem;
+            font-weight: bold;
+            letter-spacing: 0.5rem;
+            text-align: center;
+            opacity: 0;
+            animation: logo-zoom 8s ease-in-out 7s forwards;
+            z-index: 10;
+            text-shadow: 0 0 20px rgba(255, 255, 0, 0.5);
+        }
+
+        .logo-subtitle {
+            font-size: 1.5rem;
+            letter-spacing: 0.8rem;
+            margin-top: 1rem;
+            color: #ff0;
+        }
+
+        @keyframes logo-zoom {
+            0% { opacity: 1; transform: translate(-50%, -50%) scale(3); }
+            80% { opacity: 1; transform: translate(-50%, -50%) scale(0.1); }
+            100% { opacity: 0; transform: translate(-50%, -50%) scale(0); }
+        }
+
+        .crawl-container {
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 90%;
+            max-width: 900px;
+            perspective: 400px;
+            z-index: 5;
+            animation: crawl-start 1s ease-out 15s forwards;
+        }
+
+        @keyframes crawl-start {
+            from { top: 100%; }
+            to { top: 80%; }
+        }
+
+        .crawl {
+            position: relative;
+            transform-origin: 50% 100%;
+            transform: rotateX(25deg);
+            animation: crawl 300s linear 16s forwards;
+        }
+
+        @keyframes crawl {
+            from { transform: rotateX(25deg) translateY(0); }
+            to { transform: rotateX(25deg) translateY(-12000px); }
+        }
+
+        .crawl-content {
+            color: #ff0;
+            font-size: 1.9rem;
+            line-height: 1.7;
+            text-align: justify;
+            padding: 0 2rem;
+        }
+
+        .crawl-content h1 {
+            text-align: center;
+            font-size: 2.8rem;
+            margin-bottom: 2rem;
+            color: #ff0;
+        }
+
+        .crawl-content h2 {
+            text-align: center;
+            font-size: 2.2rem;
+            margin: 3rem 0 1.5rem 0;
+            color: #ff0;
+            border-bottom: 1px solid #ff0;
+            padding-bottom: 0.5rem;
+        }
+
+        .crawl-content h3 {
+            font-size: 1.8rem;
+            margin: 2rem 0 1rem 0;
+            color: #f80;
+        }
+
+        .crawl-content p {
+            margin-bottom: 1.3rem;
+        }
+
+        .emphasis { color: #f44; font-weight: bold; }
+        .date { color: #4ee; font-weight: bold; }
+        .person { color: #f80; }
+        .center { text-align: center; }
+        .big { font-size: 2.3rem; text-align: center; margin: 2rem 0; }
+        .quote { font-style: italic; color: #ccc; padding-left: 2rem; border-left: 3px solid #666; margin: 1.5rem 0; }
+        .verdict { color: #f44; font-size: 1.5rem; margin: 1rem 0; padding: 1rem; border: 1px solid #f44; }
+
+        .fade-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 30%;
+            background: linear-gradient(to bottom, #000 0%, #000 50%, transparent 100%);
+            z-index: 6;
+            pointer-events: none;
+        }
+
+        .skip-btn {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: transparent;
+            border: 1px solid #666;
+            color: #666;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-family: Arial, sans-serif;
+            z-index: 100;
+            transition: all 0.3s;
+        }
+
+        .skip-btn:hover { border-color: #ff0; color: #ff0; }
+
+        .restart-btn {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: transparent;
+            border: 2px solid #ff0;
+            color: #ff0;
+            padding: 20px 40px;
+            font-size: 1.5rem;
+            cursor: pointer;
+            font-family: 'Pathway Gothic One', sans-serif;
+            z-index: 100;
+            opacity: 0;
+            pointer-events: none;
+            transition: all 0.3s;
+            animation: show-restart 1s ease-out 320s forwards;
+        }
+
+        @keyframes show-restart {
+            to { opacity: 1; pointer-events: all; }
+        }
+
+        .restart-btn:hover { background: #ff0; color: #000; }
+
+        /* FIX: Klassen für Skip-Zustand mit !important */
+        .skipped .intro,
+        .skipped .logo {
+            display: none !important;
+            animation: none !important;
+        }
+        
+        .skipped .crawl-container {
+            animation: none !important;
+            top: 80% !important;
+        }
+        
+        .skipped .crawl {
+            animation: crawl 300s linear 0s forwards !important;
+        }
+    </style>
+</head>
+<body>
+    <div class="stars" id="stars"></div>
+
+    <div class="intro">
+        Im Saarland, in einer Zeit<br>
+        in der Behoerden ueber Familien richten...
+    </div>
+
+    <div class="logo">
+        TRUTHKEEPER
+        <div class="logo-subtitle">DIE GESCHICHTE</div>
+    </div>
+
+    <div class="fade-overlay"></div>
+
+    <div class="crawl-container">
+        <div class="crawl">
+            <div class="crawl-content">
+
+                <h1>WIE EIN VATER SEIN KIND VERLOR</h1>
+                <p class="center">Ein Leitfaden fuer Aussenstehende</p>
+
+                <p class="center" style="margin: 3rem 0; color: #888;">
+                    Dieses Dokument erzaehlt die Geschichte von <span class="person">Mark Jaeckel</span>,
+                    einem Mitarbeiter des Landeskriminalamts, der seit 2022 um den Kontakt zu seinem
+                    Sohn <span class="emphasis">Nicolas</span> kaempft.
+                </p>
+
+                <p class="center" style="color: #888;">
+                    Die Geschichte basiert auf 670 Gerichtsdokumenten, 180 Audioaufnahmen
+                    und drei Jahren Korrespondenz. Jede Behauptung ist belegt.
+                </p>
+
+                <!-- TEIL 1 -->
+                <h2>TEIL 1: DER ANFANG</h2>
+                <p class="center date">Juni 2022</p>
+
+                <h3>Die Familie</h3>
+
+                <p>
+                    <span class="person">Mark Jaeckel</span> arbeitet beim Landeskriminalamt Saarland.
+                    Er hat Zugang zu geheimen BKA- und Verfassungsschutzdaten.
+                    Er hat eine Sicherheitsueberpruefung bestanden.
+                    Er ist - nach allen staatlichen Masstaeben - vertrauenswuerdig.
+                </p>
+
+                <p>
+                    <span class="emphasis">Nicolas</span> ist sein Sohn, geboren 2019.
+                </p>
+
+                <p>
+                    <span class="person">Aleksandra Kasprzak</span> ist die Mutter.
+                    Mark und Aleksandra trennen sich 2022.
+                </p>
+
+                <h3>Das Problem, das niemand sehen wollte</h3>
+
+                <p>
+                    Mark dokumentiert seit Jahren ein Problem: Aleksandra trinkt.
+                    Er hat Fotos von 2020 bis 2022:
+                </p>
+
+                <p class="center">
+                    Verwuestete Wohnungen. Nicolas unbeaufsichtigt. Die Mutter bewusstlos.
+                </p>
+
+                <p>
+                    Der schwerste Vorfall: <span class="date">Dezember 2021</span>.
+                    Mark ist auf Dienstreise in Oesterreich. Aleksandra hat einen Alkoholabsturz.
+                    Sie laesst Glasflaschen fallen. Nicolas, zwei Jahre alt, tritt in eine Scherbe.
+                </p>
+
+                <p class="center emphasis">
+                    Glas im Fuss des Kindes.
+                </p>
+
+                <p>
+                    Mark dokumentiert alles. Er hat Sprachnachrichten, in denen Aleksandra selbst sagt:
+                </p>
+
+                <p class="quote">
+                    "Der vom Jugendamt hat gesagt, ich brauche keine Therapie - deswegen!"
+                </p>
+
+                <h3>Der erste Kontakt mit dem System</h3>
+
+                <p>
+                    Im <span class="date">September 2022</span> wendet sich Mark an das Familiengericht.
+                    Er schreibt eine 1.157 Zeilen lange Stellungnahme an <span class="person">Richter Hellenthal</span>.
+                </p>
+
+                <p>Er legt alles offen:</p>
+                <p class="center">
+                    Die Alkoholproblematik. Die Fotos als Beweise. Den Glasscherben-Vorfall.
+                </p>
+
+                <p>
+                    Seine zentrale Forderung: <span class="emphasis">Alkoholtherapie fuer die Mutter</span>
+                </p>
+
+                <p>Er schreibt:</p>
+                <p class="quote">
+                    "Dass im schlimmsten Fall ohne mein Eingreifen Nicolas haette schwer verletzt
+                    werden koennen, weiss das Jugendamt nicht, weil es mir kein Gehoer schenkt."
+                </p>
+
+                <p>Das Jugendamt reagiert anders als erwartet.</p>
+
+                <!-- TEIL 2 -->
+                <h2>TEIL 2: DIE ERSTEN WENDEPUNKTE</h2>
+                <p class="center date">Herbst 2022</p>
+
+                <h3>Wendepunkt 1: Das Jugendamt hoert nicht zu</h3>
+
+                <p>
+                    <span class="date">September 2022</span> - Mark versucht, mit dem Jugendamt zu sprechen.
+                    <span class="person">Nina Meiser</span> ist zustaendig.
+                </p>
+
+                <p>
+                    Mark will erklaeren, was er durchgemacht hat.
+                    Er will seine Beweise zeigen - die Fotos, die Sprachnachrichten.
+                </p>
+
+                <p>Die Antwort:</p>
+                <p class="center emphasis" style="font-size: 2.2rem;">
+                    "Spammen Sie mich nicht zu."
+                </p>
+
+                <p>
+                    Das Jugendamt uebernimmt von Anfang an die Version der Mutter.
+                    Marks Warnungen werden ignoriert.
+                </p>
+
+                <p class="verdict">
+                    Wer handelte fragwuerdig: <span class="person">Nina Meiser</span> (Jugendamt) -
+                    Verweigerung, Beweise anzuhoeren
+                </p>
+
+                <h3>Wendepunkt 2: PRAKSYS und die begleiteten Umgaenge</h3>
+
+                <p>
+                    Das Gericht ordnet an: Mark soll Nicolas nur noch bei PRAKSYS sehen,
+                    einer Einrichtung fuer begleitete Umgaenge. Eine Stunde pro Woche.
+                </p>
+
+                <p><span class="date">16. November 2022</span> - Erstes Treffen:</p>
+                <p class="quote">
+                    Nicolas "strahlt und laeuft in seine Arme".
+                    Das Kind "lacht laut und froehlich".
+                    Die Beziehung ist intakt.
+                </p>
+
+                <p><span class="date">6. Dezember 2022</span> - Positive Bewertung:</p>
+                <p class="quote">
+                    "Der Vater ist gut im Kontakt mit dem Kind."
+                    "Er hat die Beduerfnisse des Kindes im Blick."
+                </p>
+
+                <p>Aber dann aendert sich der Ton.</p>
+
+                <h3>Wendepunkt 3: Der 20. Dezember 2022</h3>
+                <p class="center emphasis">Der letzte Kontakt</p>
+
+                <p>Was passierte:</p>
+                <p>1. Mark hat einen Termin um 9:30 Uhr</p>
+                <p>2. PRAKSYS verlegt den Termin auf 9:00 Uhr</p>
+                <p>3. Mark wird <span class="emphasis">nicht informiert</span></p>
+                <p>4. Mark kommt um 9:30 Uhr - PRAKSYS sagt: "Sie sind zu spaet"</p>
+
+                <p>Was PRAKSYS dokumentiert:</p>
+                <p class="center emphasis">"Vater erschien nicht"</p>
+
+                <p>Die Konsequenz:</p>
+                <p class="center big emphasis">
+                    Dies war der letzte Kontakt zwischen Mark und Nicolas fuer 14 Monate.
+                </p>
+
+                <p class="verdict">
+                    Wer handelte fragwuerdig: PRAKSYS (<span class="person">Rebecca Wilhelm</span>) -
+                    Terminaenderung ohne Information, dann Schuldzuweisung an den Vater
+                </p>
+
+                <!-- TEIL 3 -->
+                <h2>TEIL 3: DIE BEWEISUNTERDRUECKUNG</h2>
+                <p class="center date">2023</p>
+
+                <h3>Wendepunkt 4: Lena Kuhns Falschaussage</h3>
+
+                <p>
+                    <span class="date">5. Januar 2023</span> - Mark schreibt eine E-Mail an
+                    <span class="person">Lena Kuhn</span> (Jugendamt). Er erklaert, was am 20. Dezember
+                    passiert ist: Der Termin wurde vorgezogen, ohne ihn zu informieren.
+                </p>
+
+                <p class="center">Kuhn widerspricht nicht.</p>
+
+                <p>
+                    <span class="date">10. Januar 2023</span> - Mark telefoniert mit Kuhn.
+                    Er wiederholt seine Version. Kuhn sagt:
+                </p>
+
+                <p class="quote">"Ob das stimmt oder nicht, sei dahingestellt."</p>
+
+                <p class="center">Sie widerspricht nicht.</p>
+
+                <p>
+                    <span class="date">11. Mai 2023</span> - Kuhn schreibt an das Familiengericht:
+                </p>
+
+                <p class="center emphasis" style="font-size: 2rem; padding: 1rem; border: 2px solid #f44;">
+                    "Am 20.12.2022 erschien der Kindesvater nicht zum vereinbarten Umgangstermin."
+                </p>
+
+                <p>Sie verschweigt:</p>
+                <p>- Dass der Termin vorgezogen wurde</p>
+                <p>- Dass Mark ihr das zweimal erklaert hatte</p>
+                <p>- Dass sie nie widersprochen hatte</p>
+
+                <p class="verdict">
+                    Wer handelte fragwuerdig: <span class="person">Lena Kuhn</span> -
+                    Falschdarstellung gegenueber dem Gericht trotz besseren Wissens
+                </p>
+
+                <h3>Wendepunkt 5: 16 Monate Beweisunterdrueckung</h3>
+
+                <p>
+                    Mark schickt dem Jugendamt Audiodateien -
+                    Beweise fuer die Alkoholproblematik der Mutter.
+                </p>
+
+                <p>Kuhn behauptet:</p>
+                <p class="quote">"Die anderen Dateien koennen hier nicht geoeffnet werden."</p>
+
+                <p>
+                    <span class="date">4. Dezember 2023</span> - Eine Kollegin
+                    (<span class="person">Karin Berg</span>) schreibt versehentlich in einer E-Mail:
+                </p>
+
+                <p class="center emphasis">"Die Dateien habe ich abspielen koennen."</p>
+
+                <p>
+                    Die Dateien funktionierten.
+                    16 Monate lang hatte Kuhn behauptet, sie koenne sie nicht oeffnen.
+                </p>
+
+                <p class="verdict">
+                    Wer handelte fragwuerdig: <span class="person">Lena Kuhn</span> -
+                    Systematische Unterdrueckung von Beweismaterial (Dezember 2022 - April 2024)
+                </p>
+
+                <!-- TEIL 4 -->
+                <h2>TEIL 4: DIE ANWAELTE, DIE VERSAGTEN</h2>
+                <p class="center date">2022-2023</p>
+
+                <h3>Der erste Anwalt: Mueller</h3>
+
+                <p>
+                    Mark sucht rechtliche Hilfe. Er geht zu <span class="person">RA Mueller</span>.
+                    Corona erschwert Termine. Als er endlich einen bekommt:
+                </p>
+
+                <p class="center">
+                    Mueller hoert nicht zu. Mark ist frustriert. Er wechselt zu Robling.
+                </p>
+
+                <h3>Wendepunkt 6: Roblings Verrat</h3>
+
+                <p>
+                    Mark kennt <span class="person">Klaus Robling</span> von vor 20 Jahren.
+                    Gute Erinnerung. Robling verspricht, <span class="emphasis">beide Verfahren</span>
+                    zu uebernehmen: Familienrecht und Strafrecht.
+                </p>
+
+                <p>Das Familienrecht-Versagen:</p>
+                <p>Als Rueckfragen vom Richter kommen:</p>
+                <p class="quote">"Ich mache kein Familienrecht."</p>
+                <p>Mark muss das Familienverfahren <span class="emphasis">alleine fuehren</span>.</p>
+
+                <p>Das Strafrecht-Versagen:</p>
+                <p>- Mark wird nicht ueber die Anklage gegen ihn informiert</p>
+                <p>- Robling fuehrt ein Telefonat mit Mark <span class="emphasis">betrunken</span></p>
+
+                <p>
+                    <span class="date">11. September 2023</span> - einen Tag vor der Verhandlung -
+                    laesst Robling ihn per WhatsApp fallen.
+                </p>
+
+                <p>
+                    <span class="date">12. September 2023</span> - Mark steht
+                    <span class="emphasis">ohne Verteidiger</span> vor
+                    <span class="person">Richter Boennen</span>.
+                </p>
+
+                <p class="center emphasis big">Er wird zu 90 Tagessaetzen verurteilt.</p>
+
+                <p>
+                    Nach dem Urteil droht Mark: "Naechste Rechnung = Anwaltskammer."
+                    Robling meldet sich nie wieder. Keine Rechnung mehr.
+                </p>
+
+                <p class="center">Ein Schuldeingestaendnis durch Schweigen.</p>
+
+                <p class="verdict">
+                    Wer handelte fragwuerdig: <span class="person">RA Robling</span> -
+                    Mandatsniederlegung am Vorabend der Verhandlung, Betrug bezueglich Rechtsgebiete
+                </p>
+
+                <h3>Wendepunkt 7: Lehnes Noetigung</h3>
+
+                <p>
+                    <span class="person">RA Lehne</span> uebernimmt das Familienrecht.
+                    Zwei Jahre lang.
+                </p>
+
+                <p class="center emphasis">Ergebnis: Nichts.</p>
+
+                <p>
+                    <span class="date">30. August 2023</span> - Audio-Aufnahme belegt:
+                    Lehne noetigt Mark, eine Beschwerde zurueckzuziehen.
+                </p>
+
+                <p>Mark spaeter ueber Lehne:</p>
+                <p class="quote">
+                    "Nichts hat sie gemacht. Gar nichts hat sie gemacht. Zwei Jahre Kohle bezahlt."
+                </p>
+
+                <p>
+                    Lehne versucht spaeter trotzdem, Geld einzutreiben.
+                    Mark kontert mit einer Vollstreckungsabwehrklage.
+                </p>
+
+                <p class="verdict">
+                    Wer handelte fragwuerdig: <span class="person">RA Lehne</span> -
+                    Zwei Jahre Untaetigkeit, Noetigung zur Beschwerderuecknahme,
+                    anschliessende Vollstreckungsversuche
+                </p>
+
+                <!-- TEIL 5 -->
+                <h2>TEIL 5: DIE GEGENOFFENSIVE</h2>
+                <p class="center date">Herbst 2023</p>
+
+                <h3>Wendepunkt 8: Marks Drohung mit Amtshaftungsklage</h3>
+
+                <p>
+                    <span class="date">8. September 2023</span> - Mark telefoniert mit
+                    <span class="person">Beate Brand</span>, der Leiterin des Jugendamts.
+                    Er droht mit einer Amtshaftungsklage.
+                </p>
+
+                <p>Die Reaktion - innerhalb von Wochen:</p>
+                <p class="center emphasis">10 Polizisten in 4 Einsaetzen gegen Mark</p>
+                <p class="center">Eine konstruierte "Cybercrime"-Anzeige wird vorbereitet</p>
+
+                <p class="center" style="font-size: 2rem; margin: 2rem 0;">
+                    Das Muster: Wer das Jugendamt kritisiert, wird zum Ziel.
+                </p>
+
+                <p class="verdict">
+                    Wer handelte fragwuerdig: <span class="person">Beate Brand</span> -
+                    Nutzung des Staatsapparats gegen einen kritischen Buerger
+                </p>
+
+                <!-- TEIL 6 -->
+                <h2>TEIL 6: DIE HAUSDURCHSUCHUNG</h2>
+                <p class="center date">2024</p>
+
+                <h3>Wendepunkt 9: Die "Cybercrime"-Farce</h3>
+
+                <p>
+                    <span class="date">13. Februar 2024</span> -
+                    <span class="person">Richter Zimmerling</span> unterschreibt einen Durchsuchungsbeschluss.
+                </p>
+
+                <p>Der Vorwurf: Mark habe SMS der Mutter geloescht. "Cybercrime".</p>
+
+                <p>
+                    <span class="date">18. Maerz 2024</span> - Die Durchsuchung findet statt.
+                    <span class="emphasis">33 Tage</span> nach dem Beschluss.
+                </p>
+
+                <p class="center">Trotzdem behauptet man "Gefahr im Verzug".</p>
+
+                <p>Die Absurditaet:</p>
+                <p>- Mark ist LKA-Mitarbeiter mit Sicherheitsueberpruefung</p>
+                <p>- Er hat taeglich Zugang zu geheimen Staatsdaten</p>
+                <p>- Der Vorwurf: Er habe wie ein Amateur-Hacker SMS geloescht</p>
+
+                <p>Was beschlagnahmt wird:</p>
+                <p class="center emphasis">Nur das Handy - auf dem sich die Jugendamt-Beweise befinden.</p>
+
+                <p>Was stehen gelassen wird:</p>
+                <p class="center">Ein 16TB NAS-Server.</p>
+
+                <p class="verdict">
+                    Wer handelte fragwuerdig:<br>
+                    <span class="person">Staatsanwalt Carius</span> - Konstruierte Anklage<br>
+                    <span class="person">Richter Zimmerling</span> - Durchsuchungsbeschluss auf fragwuerdiger Grundlage<br>
+                    <span class="person">KOK Lillig</span> - Durchfuehrung der Durchsuchung
+                </p>
+
+                <!-- TEIL 7 -->
+                <h2>TEIL 7: DAS GUTACHTEN-KOMPLOTT</h2>
+                <p class="center date">2023</p>
+
+                <h3>Wendepunkt 10: 15 Minuten zur "Gefaehrlichkeit"</h3>
+
+                <p>
+                    <span class="date">8. November 2023</span> -
+                    <span class="person">Dr. Gestier-Fritz</span>, Psychiaterin,
+                    erstellt ein Gutachten ueber Mark.
+                </p>
+
+                <p>Die Grundlage:</p>
+                <p class="center emphasis big">Ein 15-minuetiges Gespraech.</p>
+
+                <p>Das Ergebnis: Mark sei "gefaehrlich", plane "gezielte Angriffe".</p>
+
+                <p>Der Widerspruch im selben Dokument:</p>
+                <p class="quote">"Unterbringung nach PsychKHG keinesfalls moeglich"</p>
+
+                <p>Die Ironie:</p>
+                <p>
+                    Ein Mann, dem BKA und Verfassungsschutz taeglich geheime Daten anvertrauen,
+                    wird von einer Psychiaterin nach 15 Minuten als gefaehrlich eingestuft.
+                </p>
+
+                <p class="verdict">
+                    Wer handelte fragwuerdig:<br>
+                    <span class="person">Dr. Gestier-Fritz</span> - Gefaelligkeitsgutachten ohne ausreichende Grundlage<br>
+                    <span class="person">Alexander Birk</span> (Gesundheitsamt) - Konstruiertes Gefaehrlichkeits-Gutachten
+                </p>
+
+                <!-- TEIL 8 -->
+                <h2>TEIL 8: DIE COPY-PASTE-JUSTIZ</h2>
+                <p class="center date">2025</p>
+
+                <h3>Wendepunkt 11: Staatsanwalt Carius stellt alles ein</h3>
+
+                <p>Mark zeigt die Beteiligten an:</p>
+                <p>- <span class="person">Lena Kuhn</span> (16 Monate Beweisunterdrueckung)</p>
+                <p>- <span class="person">Beate Brand</span> (Falsche Verdaechtigung)</p>
+                <p>- <span class="person">Karin Berg</span> (Strafvereitelung)</p>
+                <p>- <span class="person">Angelika Schallenberg</span> (Rechtsbeugung)</p>
+
+                <p>
+                    <span class="date">11. August 2025</span> -
+                    <span class="person">Staatsanwalt Carius</span> stellt alle vier Verfahren ein.
+                </p>
+
+                <p class="center emphasis">Am selben Tag. Mit wortgleichen Begruendungen.</p>
+
+                <p style="margin: 2rem 0;">Das Muster:</p>
+                <p class="center">Mark zeigt Jugendamt an → <span class="emphasis">Eingestellt</span></p>
+                <p class="center">Jugendamt zeigt Mark an → <span class="emphasis">Anklage</span></p>
+
+                <p class="center big emphasis">Einbahnstrassen-Justiz.</p>
+
+                <p class="verdict">
+                    Wer handelte fragwuerdig: <span class="person">Staatsanwalt Carius</span> -
+                    Systematische Einstellung aller Anzeigen gegen Behoerdenvertreter,
+                    gleichzeitige Verfolgung von Mark
+                </p>
+
+                <!-- TEIL 9 -->
+                <h2>TEIL 9: DIE "INTEGRATIVE FOERDERUNG"</h2>
+                <p class="center date">2025</p>
+
+                <h3>Wendepunkt 12: Alkohol wird zu "Erziehungsproblemen"</h3>
+
+                <p>
+                    <span class="date">29. Januar 2025</span> - Audio-Aufnahme.
+                    <span class="person">Lena Kuhn</span> und eine Kollegin (Bohnenberger)
+                    treffen sich mit der Mutter.
+                </p>
+
+                <p>Was sie fordern:</p>
+                <p>- Die Mutter soll einen Hilfeplan unterschreiben</p>
+                <p>- Die <span class="emphasis">Alkoholproblematik</span> soll als
+                   <span class="emphasis">"Erziehungsprobleme"</span> deklariert werden</p>
+
+                <p>Was die Mutter sagt: Sie weigert sich zu unterschreiben.</p>
+
+                <p>Was Kuhn droht:</p>
+                <p class="quote">"Dann gehen wir vor Gericht."</p>
+
+                <p>
+                    <span class="date">10. Februar 2025</span> - Die "Integrative Foerderung" (IF)
+                    beginnt trotzdem. Eine 6-monatige Massnahme fuer die Mutter.
+                </p>
+
+                <p class="center emphasis big">
+                    Waehrend der gesamten 6 Monate: Mark hat keinen Kontakt zu Nicolas.
+                </p>
+
+                <p>
+                    <span class="date">16. Juli 2025</span> - Kuhn schreibt an das Gericht:
+                    Die IF sei "erfolgreich beendet". Die Mutter habe ein "Schutzkonzept" erarbeitet.
+                </p>
+
+                <p>Was nicht erwaehnt wird:</p>
+                <p>- Keine Alkoholtherapie</p>
+                <p>- Nur negative Alkoholtests</p>
+                <p>- Die erzwungene Kontaktunterbrechung zum Vater</p>
+
+                <p>Kuhns Schlussfolgerung:</p>
+                <p class="center emphasis" style="padding: 1rem; border: 2px solid #f44;">
+                    "Derzeit gibt es keine Anhaltspunkte fuer eine Kindeswohlgefaehrdung
+                    durch die Kindesmutter."
+                </p>
+
+                <p class="verdict">
+                    Wer handelte fragwuerdig: <span class="person">Lena Kuhn</span> -
+                    Umdeklarierung der Alkoholproblematik, Ausschluss des Vaters, Absolution ohne Therapie
+                </p>
+
+                <!-- TEIL 10 -->
+                <h2>TEIL 10: DIE VERLETZUNGEN</h2>
+                <p class="center date">Oktober 2024</p>
+
+                <h3>Wendepunkt 13: Die "Mueckenstiche"</h3>
+
+                <p>
+                    <span class="date">7. Oktober 2024</span> - Mark sieht Nicolas bei PRAKSYS.
+                    Er bemerkt schwere Verletzungen am linken Arm des Kindes.
+                </p>
+
+                <p>Was Mark sieht:</p>
+                <p class="center emphasis">Wunden, die aussehen wie "ausgedrueckte Zigaretten".</p>
+
+                <p>Was Nicolas tut:</p>
+                <p class="center">Er weicht aus, vermeidet Augenkontakt, will nicht erklaeren.</p>
+
+                <p>
+                    Was Mark tut: Er fotografiert die Verletzungen
+                    und schickt einen Eilantrag an <span class="person">Richter Hellenthal</span>.
+                </p>
+
+                <p><span class="date">14. Oktober 2024</span> - Der PRAKSYS-Bericht:</p>
+                <p class="quote">
+                    "Das Kind erzaehlt, dass es Mueckenstiche hat und sich den Arm gekratzt hat."
+                </p>
+
+                <p>
+                    Der Bericht behauptet, dieses Gespraech habe stattgefunden.
+                    Mark sagt: Es hat nie stattgefunden.
+                </p>
+
+                <p>
+                    PRAKSYS diffamiert Mark: Er habe "heimlich ein Beweisfoto" gemacht.
+                    Der Vater habe "die Befindlichkeit seines Kindes nicht im Blick".
+                </p>
+
+                <p class="verdict">
+                    Wer handelte fragwuerdig: PRAKSYS
+                    (<span class="person">Iris Klein</span>, <span class="person">Susanne Wilhelm</span>) -
+                    Umdeutung schwerer Verletzungen, Diffamierung des besorgten Vaters
+                </p>
+
+                <!-- TEIL 11 -->
+                <h2>TEIL 11: WAS RICHTER HELLENTHAL WUSSTE</h2>
+
+                <h3>Die zentrale Frage</h3>
+
+                <p>
+                    Von <span class="date">September 2022</span> bis <span class="date">Juli 2025</span>
+                    schickte Mark Hunderte Seiten an <span class="person">Richter Hellenthal</span>:
+                </p>
+
+                <p>- Die Alkoholproblematik der Mutter (dokumentiert mit Fotos)</p>
+                <p>- Den Glasscherben-Vorfall (Dezember 2021)</p>
+                <p>- Die Manipulation durch das Jugendamt</p>
+                <p>- Die PRAKSYS-Luegen</p>
+                <p>- Die Verletzungen am Kind (Oktober 2024)</p>
+
+                <p>Was Hellenthal am <span class="date">16. Juli 2025</span> tat:</p>
+
+                <p class="center emphasis big">
+                    Er gab Nicolas zur Mutter - ohne Alkoholtherapie.
+                </p>
+
+                <p class="center">Nur ein "Schutzkonzept". Nur negative Tests.</p>
+
+                <p class="center">
+                    Genau das, was Mark seit 2022 als unzureichend kritisiert hatte.
+                </p>
+
+                <p class="verdict">
+                    Wer handelte fragwuerdig: <span class="person">Richter Hellenthal</span> -
+                    Ignorieren von drei Jahren dokumentierter Warnungen
+                </p>
+
+                <!-- TEIL 12 -->
+                <h2>TEIL 12: WO WIR HEUTE STEHEN</h2>
+                <p class="center date">Dezember 2025</p>
+
+                <h3>Die laufenden Verfahren</h3>
+
+                <p>- Klageerzwingung gegen die Einstellungen von Carius beim OLG</p>
+                <p>- Vollstreckungsabwehrklage gegen RA Lehne</p>
+                <p>- Mehrere Familienverfahren</p>
+
+                <h3>Die Bilanz</h3>
+
+                <p style="margin: 2rem 0;">
+                    <span class="date">Was Mark forderte (2022):</span><br>
+                    Alkoholtherapie fuer die Mutter<br>
+                    Kontakt zu seinem Kind<br>
+                    Anerkennung der Gefaehrdung<br>
+                    Faire Behandlung durch Behoerden
+                </p>
+
+                <p style="margin: 2rem 0;">
+                    <span class="emphasis">Was passierte (2025):</span><br>
+                    Nur "Schutzkonzept"<br>
+                    14 Monate + 6 Monate Unterbrechung<br>
+                    "Keine Anhaltspunkte fuer Kindeswohlgefaehrdung"<br>
+                    Hausdurchsuchung, Anklage, Verurteilung
+                </p>
+
+                <h3>Die Beteiligten</h3>
+
+                <p><span class="person">Das Jugendamt:</span></p>
+                <p>- Nina Meiser - Verweigerte, Beweise anzuhoeren</p>
+                <p>- Lena Kuhn - 16 Monate Beweisunterdrueckung, Falschaussage, Umdeklarierung</p>
+                <p>- Beate Brand - Vergeltung nach Kritik</p>
+
+                <p><span class="person">Die Justiz:</span></p>
+                <p>- Richter Hellenthal - Ignorierte alle Warnungen</p>
+                <p>- Staatsanwalt Carius - Einseitige Ermittlungen</p>
+                <p>- Richter Zimmerling - Fragwuerdiger Durchsuchungsbeschluss</p>
+
+                <p><span class="person">Die Gutachter:</span></p>
+                <p>- Dr. Gestier-Fritz - 15-Minuten-Gefaehrlichkeits-Diagnose</p>
+                <p>- Alexander Birk - Konstruiertes Gutachten</p>
+
+                <p><span class="person">Die Umgangsbegleitung:</span></p>
+                <p>- PRAKSYS - Selektive Dokumentation, Umdeutung von Verletzungen</p>
+
+                <p><span class="person">Die Anwaelte:</span></p>
+                <p>- RA Robling - Verrat am Vorabend der Verhandlung</p>
+                <p>- RA Lehne - Zwei Jahre nichts, dann Noetigung</p>
+
+                <!-- EPILOG -->
+                <h2>EPILOG</h2>
+                <p class="center">Warum diese Geschichte erzaehlt werden muss</p>
+
+                <p>
+                    Dies ist nicht die Geschichte eines Einzelfalls.
+                    Es ist die Geschichte eines Systems, das:
+                </p>
+
+                <p><span class="emphasis">1. Nicht zuhoert</span> - Beweise werden ignoriert, Warnungen abgetan</p>
+                <p><span class="emphasis">2. Einseitig handelt</span> - Der Vater wird verfolgt, die Mutter geschuetzt</p>
+                <p><span class="emphasis">3. Sich selbst schuetzt</span> - Wer kritisiert, wird zum Ziel</p>
+                <p><span class="emphasis">4. Keine Konsequenzen kennt</span> - Alle Anzeigen werden eingestellt</p>
+
+                <p style="margin-top: 3rem;">
+                    Mark Jaeckel hat alles dokumentiert.
+                </p>
+
+                <p class="center big">670 Dokumente.</p>
+                <p class="center big">180 Audioaufnahmen.</p>
+                <p class="center big">Drei Jahre Kampf.</p>
+
+                <p class="center" style="margin-top: 3rem; font-size: 2rem;">
+                    Die Beweise sind da. Die Geschichte ist erzaehlt.
+                </p>
+
+                <p class="center big" style="margin-top: 2rem;">Was noch fehlt:</p>
+
+                <p class="center" style="font-size: 4rem; color: #f44; margin: 2rem 0;">
+                    GERECHTIGKEIT
+                </p>
+
+                <p class="center" style="font-size: 4rem; margin-top: 5rem;">
+                    FUER NICOLAS
+                </p>
+
+                <p class="center" style="margin-top: 10rem; font-size: 1.2rem; color: #666;">
+                    TRUTHKEEPER<br>
+                    Dezember 2025<br><br>
+                    Basierend auf 670 Gerichtsdokumenten,<br>
+                    180 Audioaufnahmen,<br>
+                    Truthkeeper-Datenbank
+                </p>
+
+                <div style="height: 60vh;"></div>
+
+            </div>
+        </div>
+    </div>
+
+    <button class="skip-btn" id="skipBtn">Intro ueberspringen [S]</button>
+    <button class="restart-btn" id="restartBtn">Nochmal ansehen</button>
+
+    <script>
+        // Sterne generieren
+        const starsContainer = document.getElementById('stars');
+        for (let i = 0; i < 200; i++) {
+            const star = document.createElement('div');
+            star.className = 'star';
+            star.style.left = Math.random() * 100 + '%';
+            star.style.top = Math.random() * 100 + '%';
+            star.style.opacity = Math.random() * 0.8 + 0.2;
+            star.style.width = Math.random() * 2 + 1 + 'px';
+            star.style.height = star.style.width;
+            starsContainer.appendChild(star);
+        }
+
+        // FIX: Event Listeners statt inline onclick
+        function skipIntro() {
+            console.log("Skip wurde geklickt!");
+            document.body.classList.add('skipped');
+        }
+
+        function restart() {
+            location.reload();
+        }
+
+        // Event Listeners hinzufügen
+        document.getElementById('skipBtn').addEventListener('click', skipIntro);
+        document.getElementById('restartBtn').addEventListener('click', restart);
+
+        // Keyboard shortcuts
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 's' || e.key === 'S') skipIntro();
+            if (e.key === 'r' || e.key === 'R') restart();
+        });
+
+        console.log("Script geladen - Skip-Button sollte funktionieren");
+    </script>
+</body>
+</html>
