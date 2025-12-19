@@ -161,6 +161,106 @@ Lena Kuhn's offizielle Rolle (Sachbearbeiterin, Amtsvertreterin) verdeckt ihre t
 - **Druckausübung** auf Beteiligte
 - **Ausschluss** des Vaters aus jeder "Hilfeform"
 - **Falschaussagen** ans Gericht (nachweislich 20.12.2022)
+- **Amtsärztliche Stellungnahme** zur Vergeltung nach Marks Beschwerde
+
+---
+
+## DISKREPANZ 5: Jung vs. Kuhn - Der koordinierte Angriff (Sept-Okt 2023)
+
+### Die Timeline:
+
+| Datum | Ereignis | Person | Inhalt |
+|-------|----------|--------|--------|
+| **14.09.2023** | Gerichtsverhandlung | **Frau Jung** | "Weder Frau Kuhn noch sie hätten Bedrohungen durch den Kindesvater erfahren" |
+| **27.09.2023** | Beschwerde beim OLG | Mark | Kritisiert Kuhn direkt, fordert Staatsanwaltschaft |
+| **26.10.2023** | Amtsärztliche Stellungnahme | **Kuhn veranlasst** | "große Gefahr", "DRINGEND Strafverfolgung" |
+| **31.10.2023** | Vorlage beim OLG | **Kuhn** | "beiläufiges Schreiben" als wäre es zufällig |
+| **02.11.2023** | OLG Verhandlung | - | Stellungnahme beeinflusst Verfahren |
+
+### Der Widerspruch:
+
+**Jung vor Gericht (14.09.2023):**
+> "Weder Frau Kuhn noch sie hätten Bedrohungen durch den Kindesvater erfahren. Insoweit seien sie nicht belastet und stünden zu einer Zusammenarbeit zur Verfügung, wenn diese gewollt sei."
+
+**Kuhn's veranlasste Stellungnahme (26.10.2023, 1 Monat später):**
+> "Aus amtsärztlicher Sicht besteht eine große Gefahr, dass bei weiterer Eskalation der Situation... es zu geplanten und gezielten Angriffen oder Gewalttaten kommt"
+
+> "DRINGEND die weitere Strafverfolgung und Beobachtung durch die Vollzugspolizei"
+
+> "UNABDINGBAR sind interne Maßnahmen zum Schutz der Mitarbeiterinnen und Mitarbeiter"
+
+### Das Doppelspiel:
+
+| Vor Gericht (14.09.) | Beim OLG (31.10.) |
+|----------------------|-------------------|
+| "Keine Bedrohungen erfahren" | "Große Gefahr" |
+| "Nicht belastet" | "DRINGEND Strafverfolgung" |
+| "Zusammenarbeit möglich" | "UNABDINGBAR Schutzmaßnahmen" |
+
+### Der Auslöser:
+
+Marks Beschwerde vom 27.09.2023:
+- Kritisierte Kuhn als Person
+- Forderte Überprüfung durch Staatsanwaltschaft
+- Wies auf Kuhns Eigeninteressen (Adoptionsvermittlung) hin
+
+**REAKTION:** Kuhn veranlasst "Amtsärztliche Stellungnahme" - datiert auf 26.10.2023, vorgelegt 3 Tage vor OLG-Termin.
+
+### Die Absurdität des Dokuments:
+
+**Einerseits:**
+- "Nicht durch psychiatrische Erkrankung bedingt"
+- "Unterbringung nach PsychKHG keinesfalls möglich"
+
+**Andererseits:**
+- "Große Gefahr"
+- "Gewalttaten"
+- "DRINGEND Strafverfolgung"
+
+**Übersetzung:** Er ist nicht geisteskrank - aber gefährlich.
+**Bedeutung:** Keine Entschuldigung durch Krankheit, aber maximale Kriminalisierung.
+
+### Der Beweis für Vergeltung:
+
+| Fakten | Bedeutung |
+|--------|-----------|
+| Stellungnahme folgt DIREKT auf Beschwerde | Reaktion auf Kritik |
+| Timing: 3 Tage vor OLG | Maximale Wirkung |
+| Kuhn legt selbst vor | Sie ist Beteiligte, nicht neutral |
+| Jung widerspricht im selben Monat | Widerspruch aktenkundig |
+
+### Was Mark dazu schreibt (05.11.2024):
+
+> "Es folgte somit direkt meiner Beschwerde gegen das Urteil der Verhandlung beim Familiengericht vom 14.09.2023 welche ich 27.09.2023 eingereicht hatte. In dieser Beschwerde kritisierte ich Frau Kuhn als Person."
+
+> "Interessanterweise wurden Begriffe wie 'DRINGEND' und 'UNABDINGBAR' erst kurz vor der Verhandlung beim Oberlandesgericht am 2. November 2023 verwendet, obwohl mein Besuch beim Gesundheitsamt bereits im Februar stattfand."
+
+### Die Strategie:
+
+```
+VOR GERICHT (14.09.2023)
+         |
+         +-- Jung: "Keine Bedrohungen, Zusammenarbeit möglich"
+                   |
+                   +-- Suggestion: "Wir sind nicht alle gleichgeschaltet"
+                             |
+                             +-- Mark legt Beschwerde ein (27.09.2023)
+                                       |
+                                       +-- Kuhn veranlasst Stellungnahme
+                                                 |
+                                                 +-- "GEFÄHRLICH! STRAFVERFOLGUNG!"
+                                                           |
+                                                           +-- OLG-Verhandlung beeinflusst
+```
+
+### Mögliche Straftatbestände:
+
+- § 344 StGB (Verfolgung Unschuldiger)
+- § 164 StGB (Falsche Verdächtigung)
+- § 186 StGB (Üble Nachrede)
+- § 339 StGB (Rechtsbeugung in Verbindung mit Gericht)
+
+---
 
 ### Das Muster ueber Jahre (2022-2025):
 

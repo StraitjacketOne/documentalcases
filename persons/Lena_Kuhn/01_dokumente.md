@@ -19,6 +19,31 @@
 - Transkript in genesis vorhanden
 - Kontext: Umgangsverfahren
 
+### 2023-09-14: Gerichtstermin - Jung-Widerspruch
+- Frau Jung (Kuhn-Vertretung): "Weder Frau Kuhn noch sie haetten Bedrohungen erfahren"
+- Suggestion: "Zusammenarbeit moeglich"
+- **AKTENKUNDIG: Keine Bedrohungen beklagt**
+- Pfad: `extracted/2023-09-14_AG-Saarbrücken_Hellenthal_Sitzungsprotokoll_Kindschaftssachen_39F235u238u239u242-23.txt`
+
+### 2023-09-27: Marks Beschwerde gegen Kuhn
+- Eingereicht beim OLG
+- Kritisiert Kuhn direkt
+- Fordert Ueberpruefung durch Staatsanwaltschaft
+- Weist auf Adoptionsvermittlung-Eigeninteresse hin
+
+### 2023-10-26: Amtsärztliche Stellungnahme - VERGELTUNG
+- **KRITISCH: 1 Monat nach "keine Bedrohungen"-Aussage von Jung**
+- Von Kuhn veranlasst
+- Behauptet: "große Gefahr", "DRINGEND Strafverfolgung"
+- Gleichzeitig: "Nicht geisteskrank, keine Einweisung möglich"
+- Vorgelegt von Kuhn am 31.10.2023 - 3 Tage vor OLG-Termin
+- Pfad: `extracted/2023-11-08_OLG-Saarland_Mark-Jäckel_Beschluss_Jugendamt-Gutachten_6UF129-23.txt` (enthält Stellungnahme)
+
+### 2024-11-05: Mark beantragt Untersuchung
+- Antrag auf Untersuchung der Amtsärztlichen Stellungnahme
+- Detaillierte Analyse der Widersprüche
+- Pfad: `extracted/2024-11-05_OLG_Antrag_Amtsaerztliche_Stellungnahme.txt`
+
 ### 2025-01-29: Nötigung zur Falschaussage
 - Kindesmutter berichtet über Druckausübung durch Kuhn + Bohnenberger
 - Zettel sollte unterschrieben werden
