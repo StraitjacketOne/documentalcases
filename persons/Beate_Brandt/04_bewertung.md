@@ -177,12 +177,14 @@ BRANDT (Leitung)
 | Person | Rolle | Verantwortung |
 |--------|-------|---------------|
 | **Brandt** | Amtsleiterin | Gesamtverantwortung |
-| Kuhn | Sachbearbeiterin | Ausfuehrung |
+| **Bohnenberger** | Abteilungsleiter | Noetigung + Drohung |
+| Kuhn | Sachbearbeiterin | Ausfuehrung + Falschaussagen |
 | Wilhelm S. | PRAKSYS-Leitung | Protokoll-Pruefung |
 | Wilhelm R. | Betreuerin | Protokoll-Erstellung |
 | Bluth | Mitarbeiter | Einzelfehler |
 
 **Brandt ist nicht Ausfuehrende - sie ist die ENTSCHEIDERIN.**
+**Bohnenberger ist nicht nur Zuschauer - er DROHT persoenlich.**
 
 ---
 
