@@ -56,22 +56,82 @@ Kein Wort über Alkoholproblematik. Nur "Erziehungsverhalten".
 
 ---
 
-### 4. Die Falschaussage zum 20.12.2022 (KERNBEWEIS)
+### 4. Das MUSTER: Kuhn informiert, gibt nicht weiter
+
+#### FALL A: 22.11.2022 (Protokoll 02)
+
+**Was geschah:**
+- Vater hatte Neurologen-Termin (zentral vermittelt, zwingend fuer Krankmeldung)
+- Vater rief MEHRFACH an, sprach mit Kuhn
+- **Vater wollte nur 1 Stunde vorziehen - hat GEBETTELT**
+- Kuhn sagte: "Das obliegt dem Traeger"
+- **Kuhn informierte PRAKSYS NICHT**
+
+**Ergebnis:** Vater als "nicht erschienen" dokumentiert.
+
+**Audio:** NICHT vorhanden
+
+---
+
+#### FALL B: 20.12.2022 (Protokoll 06) - KERNBEWEIS
 
 **Referenz:** `ANALYSE/BEWEISKETTE_Kuhn-Falschaussage_20-12-2022.md`
 
 **Was geschah:**
 Am 20.12.2022 wurde ein PRAKSYS-Umgangstermin von 9:30 auf 9:00 Uhr vorgezogen - ohne den Vater zu informieren. Der Vater kam zum urspruenglichen Termin. PRAKSYS dokumentierte: "Vater nicht erschienen."
 
+**Audio/Email:** VORHANDEN ("fette Kuh" Email beweist Marks Version)
+
+---
+
+#### DAS MUSTER
+
+| Datum | Kuhn informiert? | PRAKSYS informiert? | Dokumentation |
+|-------|------------------|---------------------|---------------|
+| 22.11.2022 | JA (mehrfach, gebettelt) | NEIN | "nicht erschienen" |
+| 20.12.2022 | JA (Email 05.01.23 beweist) | NEIN | "nicht erschienen" |
+
+**Zweimal das gleiche Muster. Einmal OHNE Audio, einmal MIT Beweis.**
+
 **Die Beweiskette:**
 
-| Datum | Ereignis | Dokument |
-|-------|----------|----------|
-| 05.01.2023 | Mark informiert Kuhn SCHRIFTLICH ueber Terminverschiebung | Email |
-| 05.01.2023 | Kuhn antwortet - widerspricht NICHT | Email |
-| 10.01.2023 | Mark konfrontiert Kuhn MUENDLICH im Telefonat | Transkript |
-| 10.01.2023 | Kuhn: "Ob das stimmt oder nicht, sei dahingestellt" - KEIN Widerspruch | Transkript |
-| 11.05.2023 | Kuhn schreibt ans Gericht: "Vater erschien nicht" | JA-Stellungnahme |
+| Datum | Uhrzeit | Ereignis | Dokument |
+|-------|---------|----------|----------|
+| 05.01.2023 | 08:10 | Mark schreibt Email: "Termine verlegt und nicht mitgeteilt" | Email |
+| 05.01.2023 | 08:10 | **Mark nennt Wilhelm "fette Kuh"** - emotionale Reaktion auf 20.12. | Email |
+| 05.01.2023 | 09:19 | Kuhn antwortet - **widerspricht NICHT** der Terminverschiebung | Email |
+| 10.01.2023 | - | Mark konfrontiert Kuhn MUENDLICH im Telefonat | Transkript |
+| 10.01.2023 | - | Kuhn: "Ob das stimmt oder nicht, sei dahingestellt" - KEIN Widerspruch | Transkript Z.306-308 |
+| 11.05.2023 | - | Kuhn schreibt ans Gericht: "Vater erschien nicht" | JA-Stellungnahme |
+
+### Der "Fette Kuh" Beweis
+
+**Email 05.01.2023, 08:10 Uhr:**
+> "wie toll das für diese **fette Kuh** war, dass mir die Tränen gelaufen waren als die mir wieder einen drücken konnte **den Termin zu verschieben**"
+
+> "die einfach **Termine verlegt und nicht schriftlich mitgeteilt** hatte um mir den letzten schönen Tag im Jahr zu verderben"
+
+**Warum das entscheidend ist:**
+
+Warum sollte Mark so emotional reagieren wenn der Termin NORMAL gelaufen wäre?
+
+Diese Beleidigung BEWEIST:
+- Mark war am 20.12.2022 aufgelöst
+- Er beschreibt den Vorfall: "Termine verlegt und nicht mitgeteilt"
+- Kuhn erhielt diese Email - und WIDERSPRACH NICHT
+
+### Die unbeantwortete Frage
+
+**WARUM wurde "fette Kuh" NICHT in die Anklage aufgenommen?**
+
+Mark wurde wegen Beleidigungen angeklagt - aber DIESE Beleidigung fehlt.
+
+Antwort: Weil dann der KONTEXT haette erklaert werden muessen.
+- Warum nannte er sie "fette Kuh"?
+- → Weil der Termin verschoben wurde
+- → Das haette Kuhns Falschaussage entlarvt
+
+**Die Beleidigung ist der Beweis fuer den Vorfall.**
 
 **Die Diskrepanz:**
 
