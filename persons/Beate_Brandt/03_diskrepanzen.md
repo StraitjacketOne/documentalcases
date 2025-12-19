@@ -161,17 +161,92 @@ Oder eine legitime Ankuendigung rechtlicher Schritte?
 
 ---
 
-## DISKREPANZ 7: "Kein Hausverbot" vs. Behauptung vor Gericht
+## DISKREPANZ 7: Brand vor Gericht (14.09.2023) - Der komplette Widerspruch
 
-### Strafanzeige (02.02.2025):
+### Was Brand vor Gericht behauptet:
 
-> "Sie behauptete Hausverbote, die es nachweislich nicht gegeben hat."
+| Behauptung | Zitat |
+|------------|-------|
+| Hausverbot | "dem Kindesvater ein Hausverbot erteilt worden sei" |
+| Strafanzeigen | "mehrere Strafanzeigen gegen den Kindesvater wegen Bedrohung" |
+| Gefaehrderansprachen | "vier bis fuenf Gefaehrderansprachen" |
+| Ermittlungsverfahren | "Es gebe ein Ermittlungsverfahren, das bei der Staatsanwaltschaft gefuehrt werde" |
 
-### Die Frage:
+### Was Frau Jung (JA-Mitarbeiterin) DIREKT WIDERSPRICHT:
 
-Wer hat vor Gericht Hausverbote behauptet?
-- Wurden diese bewiesen?
-- Oder nur behauptet?
+> **"Weder Frau Kuhn noch sie haetten Bedrohungen durch den Kindesvater erfahren. Insoweit seien sie nicht belastet und stuenden zu einer Zusammenarbeit zur Verfuegung, wenn diese gewollt sei."**
+
+### Der Kontext:
+
+Mark fragt: "Er wolle gerne mal mit der Chefin des Jugendamts ein Gespraech fuehren."
+
+Brand antwortet mit Hausverbot + Strafanzeigen + Gefaehrderansprachen.
+
+**Aber ihre eigene Kollegin widerspricht ihr oeffentlich im selben Termin!**
+
+---
+
+## DISKREPANZ 8: "Big Boss" im Telefonat vs. "Opfer" vor Gericht
+
+### Im Telefonat (08.09.2023):
+
+| Verhalten | Zitat |
+|-----------|-------|
+| Bestaetigt Vorgesetzten-Status | "Ja, natuerlich" |
+| Macht Drohungs-Vorwuerfe | "die schlimmsten Drohungen" |
+| Verweigert Geburtstag | "Das wird nicht moeglich sein" |
+| Fragt ob Amtshaftung = Drohung | "Haben Sie mir gerade gedroht?" |
+
+### Vor Gericht (14.09.2023, 6 Tage spaeter):
+
+| Verhalten | Bedeutung |
+|-----------|-----------|
+| Behauptet Hausverbot | Stellt sich als bedrohte Person dar |
+| Zaehlt Strafanzeigen auf | Kriminalisiert den Vater |
+| Erwaehnt Ermittlungsverfahren | Suggeriert Gefahr |
+
+### Der Widerspruch:
+
+- **Telefonat:** Brand ist die machtvolle Amtsleiterin die dem Vater sagt, was nicht geht
+- **Gericht:** Brand ist das Opfer, das vor dem gefaehrlichen Vater geschuetzt werden muss
+
+**Welche Version stimmt?**
+
+---
+
+## DISKREPANZ 9: Der PROZESSBETRUG - Der Kern des Falls
+
+### Die Fakten:
+
+| Datum | Ereignis | Bedeutung |
+|-------|----------|-----------|
+| Mai 2022 | Mark meldet Kindeswohlgefaehrdung | ER macht die Meldung |
+| 2022-2023 | Jugendamt ignoriert Meldungen | Vater warnt vergeblich |
+| Sept 2023 | Kind wird in Obhut genommen | WEGEN Alkoholproblem der Mutter |
+| Sept 2023 | Kind kommt in Wohngruppe | NICHT zum Vater |
+
+### Die entscheidende Frage:
+
+**Wenn das Kind wegen der Gefaehrdung durch die Mutter (Alkohol) in Obhut genommen wird - warum bekommt der Vater, der diese Gefaehrdung GEMELDET hat, das Kind nicht?**
+
+### Brandts Begruendung (im Protokoll):
+
+> "Es wird dann von Seiten des Jugendamts dargelegt, aus welchen Gruenden der Kindesvater als Person fuer die Betreuung des Kindes nach der Inobhutnahme nicht in Betracht gezogen wurde."
+
+Gruende:
+- "Verhaeltnis zwischen den Kindeseltern hochbelastet"
+- "lange Zeit keinen Umgang mehr"
+- "manipulierende Verhaltensweisen"
+
+### Der Betrug:
+
+1. Mark meldet Gefahr durch die Mutter
+2. Jugendamt ignoriert jahrelang
+3. Dann wird Kind IN OBHUT genommen wegen GENAU dieser Gefahr
+4. Aber Mark bekommt das Kind NICHT
+5. Stattdessen: Kind in staatliche Einrichtung
+
+**Das ist Betrug am Elternrecht. Mark hatte RECHT - und wird trotzdem bestraft.**
 
 ---
 
@@ -205,6 +280,9 @@ MARK MELDET GEFAHR (2022)
 | Mitarbeiter | "Kompetent" | Dokumentierte Fehler |
 | Amtshaftung | "Gedroht?" | Legitime Ankuendigung |
 | Beweise | "Brauchen aktuelle" | Wurden ignoriert |
+| **Gericht 14.09.** | Hausverbot, Strafanzeigen, Gefaehrderansprachen | **Frau Jung: "Keine Bedrohungen erfahren"** |
+| **Rolle wechselt** | Opfer (vor Gericht) | Big Boss (am Telefon) |
+| **PROZESSBETRUG** | Mark ungeeignet | Mark meldete Gefahr → Kind trotzdem nicht zu ihm |
 
 ---
 
@@ -221,6 +299,14 @@ MARK MELDET GEFAHR (2022)
 ### Fuer Strafanzeige:
 
 > "Frau Brandt behauptete 'die schlimmsten Drohungen'. Auf mehrfache Nachfrage nach konkreten Inhalten verweigerte sie die Antwort. Der Kindesvater forderte selbst eine Anzeige, um die Vorwuerfe zu klaeren. Bis heute erfolgte keine Verurteilung."
+
+### Fuer Prozessbetrug-Anzeige (14.09.2023):
+
+> "Im Termin vom 14.09.2023 behauptete Frau Brand vor Gericht: Hausverbot, mehrere Strafanzeigen wegen Bedrohung, vier bis fuenf Gefaehrderansprachen, laufendes Ermittlungsverfahren. Im selben Termin erklaerte Frau Jung vom Jugendamt: 'Weder Frau Kuhn noch sie haetten Bedrohungen durch den Kindesvater erfahren.' Der Widerspruch ist aktenkundig."
+
+### Fuer Amtshaftung (Kern-Argument):
+
+> "Der Kindesvater meldete seit Mai 2022 eine Kindeswohlgefaehrdung durch die Kindesmutter (Alkoholproblematik). Diese Meldung fuehrte im September 2023 zur Inobhutnahme des Kindes. Anstatt das Kind dem meldenden Vater zu uebergeben, wurde es in einer Wohngruppe untergebracht. Das Jugendamt begruendete dies mit 'hochbelastetem Verhaeltnis' und 'manipulativen Verhaltensweisen' - Vorwuerfe, die nie bewiesen wurden. Der Vater, dessen Warnungen sich als korrekt erwiesen, wurde von seinem Kind ferngehalten."
 
 ---
 

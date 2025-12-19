@@ -44,6 +44,35 @@ BEATE BRANDT (Amtsleiterin Sozialer Dienst)
 
 ---
 
+### BEWEIS 1b: Verhandlung 14.09.2023 - Der KOMPLETTE Widerspruch
+
+| Brand behauptet vor Gericht | Frau Jung widerspricht |
+|-----------------------------|------------------------|
+| Hausverbot erteilt | - |
+| Mehrere Strafanzeigen wegen Bedrohung | **"Weder Kuhn noch sie haetten Bedrohungen erfahren"** |
+| Vier bis fuenf Gefaehrderansprachen | **"Insoweit seien sie nicht belastet"** |
+| Ermittlungsverfahren laeuft | **"stuenden zu Zusammenarbeit zur Verfuegung"** |
+
+**Die eigene JA-Kollegin widerspricht Brand oeffentlich im selben Termin!**
+
+**Status:** Gerichtsprotokoll aktenkundig
+
+---
+
+### BEWEIS 1c: Rollenwechsel - Big Boss vs. Opfer
+
+| Telefonat 08.09.2023 | Gericht 14.09.2023 (6 Tage spaeter) |
+|----------------------|-------------------------------------|
+| "Ja, natuerlich" (Vorgesetzte) | Behauptet Hausverbot noetig |
+| Macht Drohungsvorwuerfe | Stellt sich als bedroht dar |
+| Verweigert Geburtstag autoritaer | Zaehlt Strafanzeigen auf |
+| "Haben Sie gedroht?" (offensiv) | Suggeriert Gefahr durch Vater |
+
+**Am Telefon: Sie ist die MACHT.**
+**Vor Gericht: Sie ist das OPFER.**
+
+---
+
 ### BEWEIS 2: Einflussnahme 12.12.2024
 
 | Aspekt | Beweis |
@@ -68,6 +97,31 @@ BEATE BRANDT (Amtsleiterin Sozialer Dienst)
 
 **Mark schreibt:**
 > "sechs Tage danach nahm sie mein Kind als 'Pfand'"
+
+---
+
+### BEWEIS 3b: Der PROZESSBETRUG - Kern des Falls
+
+| Schritt | Was passiert | Das Problem |
+|---------|--------------|-------------|
+| 1 | Mark meldet Kindeswohlgefaehrdung (Mai 2022) | ER ist der Melder |
+| 2 | Jugendamt ignoriert Meldungen | Keine Reaktion |
+| 3 | Kind in Obhut genommen (Sept 2023) | WEGEN Mutter-Alkohol |
+| 4 | Kind in Wohngruppe | NICHT zum Vater |
+| 5 | Mark wird ferngehalten | Obwohl ER Recht hatte |
+
+**Das Jugendamt begruendet (Protokoll 14.09.2023):**
+- "Verhaeltnis zwischen Kindeseltern hochbelastet"
+- "lange Zeit keinen Umgang mehr"
+- "manipulierende Verhaltensweisen"
+
+**Die Wahrheit:**
+- Mark meldete KORREKT die Gefaehrdung
+- Die Mutter wurde BESTAETIGT als Problem
+- Mark hatte RECHT
+- Trotzdem: Kind NICHT zu ihm
+
+**Das ist PROZESSBETRUG am Elternrecht.**
 
 ---
 

@@ -12,7 +12,7 @@
 | Datum | Dokument | Inhalt | Pfad |
 |-------|----------|--------|------|
 | 08.09.2023 | **Telefonat-Transkript** | Nicolas-Geburtstag, Umgangsrecht | `extracted/2023-09-08_Jäckel_JA-Brandt_Telefonat-Transkript-Nicolas-Geburtstag_Umgangsrecht.txt` |
-| 14.09.2023 | Sitzungsprotokoll | Kindschaftssachen | `extracted/2023-09-14_AG-Saarbrücken_Hellenthal_Sitzungsprotokoll_Kindschaftssachen_39F235u238u239u242-23.txt` |
+| 14.09.2023 | **Sitzungsprotokoll** | Brand-Luegen VOR GERICHT + Jung-Widerspruch | `extracted/2023-09-14_AG-Saarbrücken_Hellenthal_Sitzungsprotokoll_Kindschaftssachen_39F235u238u239u242-23.txt` |
 
 ### 2024
 
@@ -44,6 +44,40 @@
 - Amtshaftungs-Erwaehnung → "Drohung?"
 
 **Status:** Audio + Transkript vorhanden
+
+---
+
+### 1b. Sitzungsprotokoll 14.09.2023 - DER WIDERSPRUCH
+
+**Brand behauptet vor Gericht:**
+- Hausverbot erteilt
+- "mehrere Strafanzeigen gegen den Kindesvater wegen Bedrohung"
+- "vier bis fuenf Gefaehrderansprachen"
+- "Ermittlungsverfahren bei der Staatsanwaltschaft"
+
+**Frau Jung (JA) widerspricht IM SELBEN TERMIN:**
+> "Weder Frau Kuhn noch sie haetten Bedrohungen durch den Kindesvater erfahren. Insoweit seien sie nicht belastet und stuenden zu einer Zusammenarbeit zur Verfuegung, wenn diese gewollt sei."
+
+**Der Rollenwechsel:**
+- Am Telefon (08.09.): Brand ist "Big Boss" - macht autoritaer Ansagen
+- Vor Gericht (14.09.): Brand ist "Opfer" - braucht Schutz vor dem Vater
+
+**Status:** Gerichtsprotokoll aktenkundig
+
+---
+
+### 1c. Der PROZESSBETRUG (dokumentiert 14.09.2023)
+
+**Jugendamt begruendet, warum Kind NICHT zum Vater:**
+- "Verhaeltnis hochbelastet"
+- "lange Zeit keinen Umgang"
+- "manipulierende Verhaltensweisen"
+
+**Die Realitaet:**
+- Mark meldete SEIT MAI 2022 die Kindeswohlgefaehrdung
+- Kind wurde WEGEN dieser Gefaehrdung in Obhut genommen
+- Mark hatte RECHT
+- Trotzdem: Kind kommt in Wohngruppe, NICHT zum Vater
 
 ---
 
