@@ -358,8 +358,863 @@
       "document_id": "a6f10818-30e2-4561-b74d-737e8fc57794",
       "status": "imported",
       "imported_at": "2025-12-20T16:59:39.812847"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAmKrOhRAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAmKrOhRAAAA",
+      "internet_message_id": "<MA3P292MB0425E7F0284D93A8CA94F1289BFAA@MA3P292MB0425.ESPP292.PROD.OUTLOOK.COM>",
+      "subject": "Ja gell?",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2025-10-29T14:08:00Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2025-10-29_Mark-Jaeckel_Ja-gell.eml",
+      "sha256": "00be4c2233b89e6b18b2840d1d4bf4bba3a1ff0a7aeeaac88e13f3534770a35b",
+      "has_attachments": false,
+      "document_id": "e45343e1-c5bf-48a6-aab7-fdcd3a28960c",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:16:44.290277"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAlu-UyLAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAlu-UyLAAAA",
+      "internet_message_id": "<MA3P292MB0425C872D61D203E3C2922EA9B09A@MA3P292MB0425.ESPP292.PROD.OUTLOOK.COM>",
+      "subject": "AW: Verständnisfrage zur korrekten Funktionsbezeichnung von Herrn Bohnenberger",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2025-09-11T09:20:34Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2025-09-11_Mark-Jaeckel_AW-Verständnisfrage-zur-korrekten-Funktionsbezeich.eml",
+      "sha256": "4b467cec12276840f6d41a23a35c33c3a52e6bd31c405794a5933078e222a0ab",
+      "has_attachments": false,
+      "document_id": "f06dea3f-7f01-4953-8e30-659ebba7809b",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:16:47.154407"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAlu-UyMAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAlu-UyMAAAA",
+      "internet_message_id": "<MA3P292MB042580F089DD57FED85EAD9F9B09A@MA3P292MB0425.ESPP292.PROD.OUTLOOK.COM>",
+      "subject": "Verständnisfrage zur korrekten Funktionsbezeichnung von Herrn Bohnenberger",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2025-09-11T09:18:27Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2025-09-11_Mark-Jaeckel_Verständnisfrage-zur-korrekten-Funktionsbezeichnun.eml",
+      "sha256": "3f8ad107e35890fefd4d12029f2a46619427f42a020ec2cdea4206a5996e5d5d",
+      "has_attachments": false,
+      "document_id": "cf49fd6f-2046-4339-9a46-2f5d835c03f0",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:16:48.906088"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAASgtfDOAAAAHkNcxEL4xUyWEc3ntEVQUgAJbv1QdQAAAA==",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAASgtfDOAAAAHkNcxEL4xUyWEc3ntEVQUgAJbv1QdQAAAA==",
+      "internet_message_id": "<MA3P292MB0425E489034A6CA7596BF2D39B09A@MA3P292MB0425.ESPP292.PROD.OUTLOOK.COM>",
+      "subject": "Moin Lena",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2025-09-11T08:42:49Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2025-09-11_Mark-Jaeckel_Moin-Lena.eml",
+      "sha256": "b8001533705cf9bc8d40af33c996a9adb9629ec04e5a63a79d2f9b3af2de8778",
+      "has_attachments": false,
+      "document_id": "d8d9c7aa-6953-4edb-bf91-c2c7257e1785",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:16:49.636237"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAkj4iVVAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAkj4iVVAAAA",
+      "internet_message_id": "<DB9PR08MB9465F20827E514A0E914F6AC9B67A@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "Dann ist das so nicht dokumentiert",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2025-05-28T05:16:16Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2025-05-28_Mark-Jaeckel_Dann-ist-das-so-nicht-dokumentiert.eml",
+      "sha256": "acaef7b8866044ad9323b44ff049c5a934987e0c900e84ca4c55bb6e1d7fcdf1",
+      "has_attachments": false,
+      "document_id": "b6c11ea2-56bf-4557-8f36-6ce563849183",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:16:50.683451"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAkj4iVUAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAkj4iVUAAAA",
+      "internet_message_id": "<DB9PR08MB9465E6EDA63979D8653267569B65A@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "Hallo Frau Berg - Frau Kuhn braucht Ihre Hilfe",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2025-05-26T08:36:18Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2025-05-26_Mark-Jaeckel_Hallo-Frau-Berg---Frau-Kuhn-braucht-Ihre-Hilfe.eml",
+      "sha256": "b71ba3bf021c698a4b2173ed6f1092028b8e871c844fed0f026964fdcf3fd811",
+      "has_attachments": false,
+      "document_id": "9e887edc-f878-4175-bcc2-249967ffa262",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:16:51.814855"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAiK0x17AAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAiK0x17AAAA",
+      "internet_message_id": "<DB9PR08MB94654D51DEF9EBDA4ECFEEC59B7F2@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "Huch",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2024-10-09T12:50:20Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2024-10-09_Mark-Jaeckel_Huch.eml",
+      "sha256": "5cc17327b7f21564ead7e265a35d91ee09708fd2132159cffde3fefc11bbf5c9",
+      "has_attachments": false,
+      "document_id": "4bceed11-37d2-4298-9498-8cfed9855e0f",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:16:52.799914"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAiJLpBIAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAiJLpBIAAAA",
+      "internet_message_id": "<DB9PR08MB946568CCAD76A888BCF4E6479B772@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "Beispielslose Liebenswürdigkeit",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2024-10-04T09:24:37Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2024-10-04_Mark-Jaeckel_Beispielslose-Liebenswürdigkeit.eml",
+      "sha256": "07a0ea3bd74d452ee0bff4c8b3b98cb61c47cda70de51bb268c4a635e611d25c",
+      "has_attachments": false,
+      "document_id": "f5487040-2e81-45a8-a98a-c0a17f110721",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:16:53.538183"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAf1YCj_AAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAf1YCj_AAAA",
+      "internet_message_id": "<DB9PR08MB946538704A7D42B8BCCC54AB9B552@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "Beispiellose Fahrlässigkeit",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2024-02-23T12:24:05Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2024-02-23_Mark-Jaeckel_Beispiellose-Fahrlässigkeit.eml",
+      "sha256": "1482014eb0665cf417ee05b16db98f022be2f33a7d3cf754a01393d2b6e3eced",
+      "has_attachments": false,
+      "document_id": "b46ebda8-ce92-4976-b92c-f110f0d81c33",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:16:54.247809"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAfgGoaGAAAAAA==",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAfgGoaGAAAAAA==",
+      "internet_message_id": "<DB9PR08MB9465220F7BD75E0EB826C9929B742@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "Frage von Frau Wilhelm",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2024-01-23T10:58:36Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2024-01-23_Mark-Jaeckel_Frage-von-Frau-Wilhelm.eml",
+      "sha256": "ecce494e7c82d1e3348d06b0f19bfd76966a339fe43cefb0c450eeafb865742e",
+      "has_attachments": false,
+      "document_id": "4c165611-13f8-45af-8204-85ae2b29584f",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:16:54.992721"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAfGT-qQAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAfGT-qQAAAA",
+      "internet_message_id": "<DB9PR08MB9465B2592713FFEF2D07F70A9B8CA@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "WG: Einen wunderschönen",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-12-14T11:13:55Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-12-14_Mark-Jaeckel_WG-Einen-wunderschönen.eml",
+      "sha256": "5532ae6b1c7ea0b71adbb876f8aef0e945c6eb3f4c57c16976f631e82f09affb",
+      "has_attachments": false,
+      "document_id": "ddf98b3d-3d29-4488-9920-4f9344134bf6",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:16:55.714005"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAfFhcO3AAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAfFhcO3AAAA",
+      "internet_message_id": "<DB9PR08MB9465F8A2CF24435C06AB8D7E9B8DA@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "Einen wunderschönen",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-12-13T10:11:40Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-12-13_Mark-Jaeckel_Einen-wunderschönen.eml",
+      "sha256": "4192d9d21b3e926dc14c88ad436fd624a32cddb3d1ab4cd1f710a6ce6a159d8a",
+      "has_attachments": false,
+      "document_id": "a4461557-6a93-418f-9c1e-7fbe05a718f0",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:16:56.397939"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAAAbpTHbwAAAB5DXMRC_MVMlhHN57RFUFIAB7xKbhAAAAA=",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAAAbpTHbwAAAB5DXMRC_MVMlhHN57RFUFIAB7xKbhAAAAA=",
+      "internet_message_id": "<7C2BD75D-C1B5-4150-A0EB-57BFE0FC0CD8@hotmail.com>",
+      "subject": "Fwd: WG: Ob diese Mail wohl dieses mal ankommt? Betriebskostenabrechnung",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-11-30T08:14:35Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-11-30_Mark-Jaeckel_Fwd-WG-Ob-diese-Mail-wohl-dieses-mal-ankommt-Betri.eml",
+      "sha256": "81bfdc007cfd72fff0171f1ec2f5dde29c44f7744ebacadc29d9aae683fc9690",
+      "has_attachments": false,
+      "document_id": "aeadd2a3-a0fd-44e9-b52b-914149bb5af6",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:16:57.533636"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAe8SmJPAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAe8SmJPAAAA",
+      "internet_message_id": "<DB9PR08MB946530898289B1FCB7CBE0889B82A@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "Fwd: WG: Ob diese Mail wohl dieses mal ankommt? Betriebskostenabrechnung",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-11-30T08:14:44Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-11-30_Mark-Jaeckel_Fwd-WG-Ob-diese-Mail-wohl-dieses-mal-ankommt-Betri.eml",
+      "sha256": "8b8a3391865179f4eea4c6500c86924ded1a3d673a8383ef82b0b5b113dfd7ef",
+      "has_attachments": false,
+      "document_id": "91fda1f4-bc31-4dd6-9ab5-dd9df7887ae6",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:16:58.631054"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAew0dx9AAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAew0dx9AAAA",
+      "internet_message_id": "<DB9PR08MB9465441DA5508379EDF284E59BACA@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "WG: Antw: Ob diese Mail wohl dieses mal ankommt? Betriebskostenabrechnung",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-11-12T01:43:00Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-11-12_Mark-Jaeckel_WG-Antw-Ob-diese-Mail-wohl-dieses-mal-ankommt-Betr.eml",
+      "sha256": "c1eb31557bf7bcab04174c2cad4fab09a443242d9a6f9da51f6338810fc66aae",
+      "has_attachments": false,
+      "document_id": "1e309f07-8368-4662-be2e-65b2ec7508c3",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:16:59.323309"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAeu8073AAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAeu8073AAAA",
+      "internet_message_id": "<DB9PR08MB9465DA9F9FC1437BA4FF44459BAEA@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "WG: Antw: Betriebskostenabrechnung",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-11-10T13:25:03Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-11-10_Mark-Jaeckel_WG-Antw-Betriebskostenabrechnung.eml",
+      "sha256": "1b78ad422bd281e22f0f90802a1e66c82e8b3a1ff9d541ee5a6bc1af289eb91a",
+      "has_attachments": false,
+      "document_id": "46576eb4-721a-415c-837c-e2b1663d8955",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:16:59.959409"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAeu8072AAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAeu8072AAAA",
+      "internet_message_id": "<DB9PR08MB9465FE5C31F7969CC8DED4659BAEA@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "WG: Antw: Betriebskostenabrechnung",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-11-10T11:50:22Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-11-10_Mark-Jaeckel_WG-Antw-Betriebskostenabrechnung.eml",
+      "sha256": "c2fa5546307d5fe33480d7fe173cdb80e97e09f432ae97ccae4a9c8b1b9d2147",
+      "has_attachments": false,
+      "document_id": "c7eba441-558f-42fb-957c-ce791c3dab67",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:00.668678"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAeu8071AAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAeu8071AAAA",
+      "internet_message_id": "<DB9PR08MB94652B196F14C1DDDF5D43569BAFA@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "WG: Antw: Betriebskostenabrechnung",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-11-09T14:28:18Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-11-09_Mark-Jaeckel_WG-Antw-Betriebskostenabrechnung.eml",
+      "sha256": "6e9cb716da56d41223ff44bf2abd4ab41cbc8eebc62ea3fe7be1280fe0236e67",
+      "has_attachments": false,
+      "document_id": "58ff4877-0bd2-4581-97fe-954cc5144af6",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:01.446556"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAeupcHaAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAeupcHaAAAA",
+      "internet_message_id": "<AS2PR08MB94527CBB763E18F0E83EF7539BA8A@AS2PR08MB9452.eurprd08.prod.outlook.com>",
+      "subject": "AW: Antw: Betriebskostenabrechnung",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-11-08T08:46:30Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-11-08_Mark-Jaeckel_AW-Antw-Betriebskostenabrechnung.eml",
+      "sha256": "04ce5b98b29c09fdbbdf65f0b6bf891edc6a7ef21cde0dd9f58083d954f0dcd7",
+      "has_attachments": false,
+      "document_id": "ab13ae74-2205-42e7-b22d-618ee187708b",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:02.322993"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAetJ0HEAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAetJ0HEAAAA",
+      "internet_message_id": "<DB9PR08MB94654C61BD44F5B6E3A239D59BAAA@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "AW: Antw: Betriebskostenabrechnung",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-11-06T17:21:05Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-11-06_Mark-Jaeckel_AW-Antw-Betriebskostenabrechnung.eml",
+      "sha256": "8f7383762a00fd1ada9cc830ceafd7676684d83678823850985cad9b1a254db2",
+      "has_attachments": false,
+      "document_id": "243d7ee1-c603-4074-a5e7-926d48d842df",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:03.022303"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAeq-PmRAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAeq-PmRAAAA",
+      "internet_message_id": "<DB9PR08MB94656460ED57D46B4893755F9BA5A@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "Re: Antw: Betriebskostenabrechnung",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-11-03T13:51:50Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-11-03_Mark-Jaeckel_Re-Antw-Betriebskostenabrechnung.eml",
+      "sha256": "59772e4d13ea644d83dd92edbb385703475d8d626e48a76160d47d422e8b15e4",
+      "has_attachments": false,
+      "document_id": "06f7ec8d-ef5a-4e65-bccb-b6f6d1691b37",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:03.777055"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAAAbpTHbwAAAB5DXMRC_MVMlhHN57RFUFIAB6r9DVgAAAA=",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAAAbpTHbwAAAB5DXMRC_MVMlhHN57RFUFIAB6r9DVgAAAA=",
+      "internet_message_id": "<6E33ECB5-F817-40D5-ADEC-A0F35B5574A7@hotmail.com>",
+      "subject": "Re: Antw: Betriebskostenabrechnung",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-11-03T13:51:48Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-11-03_Mark-Jaeckel_Re-Antw-Betriebskostenabrechnung.eml",
+      "sha256": "d56f607eb3374bcbc10f307de77bceaa481472facb54bb13f98f817c0ead290b",
+      "has_attachments": false,
+      "document_id": "3ca48a44-e458-426b-9d67-754f3d5bd676",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:04.623351"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAeq-PmQAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAeq-PmQAAAA",
+      "internet_message_id": "<DB9PR08MB9465A81CFD6B0AB24BCA429F9BA5A@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "AW: Antw: Betriebskostenabrechnung",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-11-03T10:13:52Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-11-03_Mark-Jaeckel_AW-Antw-Betriebskostenabrechnung.eml",
+      "sha256": "6c95c49024c7a4a2215719659c2ccd6c0ace6cad23008037dc524528d017cc07",
+      "has_attachments": false,
+      "document_id": "658dd0da-5f7a-4a7c-a86b-d3e84443966e",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:05.327454"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAejsH09AAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAejsH09AAAA",
+      "internet_message_id": "<DB9PR08MB9465C288ED762424A32895F39BDEA@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "AW: Antw: Betriebskostenabrechnung",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-10-25T10:11:08Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-10-25_Mark-Jaeckel_AW-Antw-Betriebskostenabrechnung.eml",
+      "sha256": "4f8f37c999eadf0a979a08501dea904eae7caa15c146badb5c471fea95a407f5",
+      "has_attachments": false,
+      "document_id": "47084bc0-fe0e-4557-93f7-e75490d59097",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:06.042291"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAejsH08AAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAejsH08AAAA",
+      "internet_message_id": "<DB9PR08MB9465DC0B41ACAB37014E2F719BDEA@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "AW: Antw: Betriebskostenabrechnung",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-10-25T09:49:30Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-10-25_Mark-Jaeckel_AW-Antw-Betriebskostenabrechnung.eml",
+      "sha256": "5e1be39a5ddb1912e3c44260440c75735febe9b8c6b723311d9d89e1d8e1ac4c",
+      "has_attachments": false,
+      "document_id": "4830413c-98bb-46dc-a714-ac2108083258",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:06.818700"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAejsH06AAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAejsH06AAAA",
+      "internet_message_id": "<DB9PR08MB94650193834C0B45216552519BD8A@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "AW: Antw: Betriebskostenabrechnung",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-10-23T14:29:22Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-10-23_Mark-Jaeckel_AW-Antw-Betriebskostenabrechnung.eml",
+      "sha256": "41c76e653c492cabbdee23cf28ca2a03aef117aff93c1efbc90cceea6735582a",
+      "has_attachments": false,
+      "document_id": "dbc5739f-0ac4-4dd5-bbc6-63d27105c694",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:07.494882"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAejsH05AAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAejsH05AAAA",
+      "internet_message_id": "<DB9PR08MB9465878AC67670BCD99CB3519BD8A@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "AW: Antw: Betriebskostenabrechnung",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-10-23T07:44:24Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-10-23_Mark-Jaeckel_AW-Antw-Betriebskostenabrechnung.eml",
+      "sha256": "a025c861677571eefd37f18b082038318fb1016e8503044cde89d27de92f270a",
+      "has_attachments": false,
+      "document_id": "c9152a02-ce0f-4b94-b597-891ccda296b2",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:08.199915"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAejsH07AAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAejsH07AAAA",
+      "internet_message_id": "<DB9PR08MB9465C7E602B75B31469CFB1F9BD8A@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "AW: Antw: Betriebskostenabrechnung",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-10-23T07:06:46Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-10-23_Mark-Jaeckel_AW-Antw-Betriebskostenabrechnung.eml",
+      "sha256": "80183d3a959cf4564c46c549636392e201049f1ae1197a84366e31381d6e4cc6",
+      "has_attachments": false,
+      "document_id": "a7866b1d-45f8-4292-b8a6-6d54b383edfc",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:10.064872"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAefzqO_AAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAefzqO_AAAA",
+      "internet_message_id": "<DB9PR08MB94658DC89F048CDC2B6D5BE59BD5A@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "AW: Antw: Re: Umgang",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-10-18T12:35:50Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-10-18_Mark-Jaeckel_AW-Antw-Re-Umgang.eml",
+      "sha256": "c1db5ca9d5424d38aba2127bf3949b34e9a8e539433e79a498e3002ce42fef18",
+      "has_attachments": false,
+      "document_id": "b5557551-4dc8-43e8-bb03-acd68dffe025",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:10.765284"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAefzqO9AAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAefzqO9AAAA",
+      "internet_message_id": "<DB9PR08MB9465E7B4E9F0E7C527999CD09BD6A@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "Re: Antw: Re: Umgang",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-10-17T14:56:09Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-10-17_Mark-Jaeckel_Re-Antw-Re-Umgang.eml",
+      "sha256": "92f3b6e3778c899a16a78b8d24b25cd306e022e8a2f8e9ba1ee6a4dfd3f85358",
+      "has_attachments": false,
+      "document_id": "5f93fa75-11d9-4700-abb5-add6e33a1f6c",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:11.646106"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAAAbpTHbwAAAB5DXMRC_MVMlhHN57RFUFIAB5-Op6cAAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAAAbpTHbwAAAB5DXMRC_MVMlhHN57RFUFIAB5-Op6cAAAAA",
+      "internet_message_id": "<4E841FDF-2733-4BFA-B986-43BA5988BF41@hotmail.com>",
+      "subject": "Re: Antw: Re: Umgang",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-10-17T14:56:06Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-10-17_Mark-Jaeckel_Re-Antw-Re-Umgang.eml",
+      "sha256": "173f24020fdd74d6fe08ccc184e9af29c3f12b84b2b54cc1e6d3ebeea29aab0c",
+      "has_attachments": false,
+      "document_id": "73772f7c-a481-4f97-96e8-90b5cbed5922",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:12.318208"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAefzqO8AAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAefzqO8AAAA",
+      "internet_message_id": "<DB9PR08MB94655995F7B8EB73FD7F40B99BD6A@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "Re: Antw: Re: Umgang",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-10-17T14:22:54Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-10-17_Mark-Jaeckel_Re-Antw-Re-Umgang.eml",
+      "sha256": "6f7fd3d6875272eaecba86530b3d2a28a83b28967697f5e6fa39bc313bdf695e",
+      "has_attachments": false,
+      "document_id": "8aaf86a0-57df-4d0e-8c1f-21e74fe88e2b",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:12.987544"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAAAbpTHbwAAAB5DXMRC_MVMlhHN57RFUFIAB5-Op6YAAAA=",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAAAbpTHbwAAAB5DXMRC_MVMlhHN57RFUFIAB5-Op6YAAAA=",
+      "internet_message_id": "<EE3981E0-CB6C-4349-8144-7A2D1E0E74D8@hotmail.com>",
+      "subject": "Re: Antw: Re: Umgang",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-10-17T14:22:52Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-10-17_Mark-Jaeckel_Re-Antw-Re-Umgang.eml",
+      "sha256": "63584b15ff9b086948fd84787ca9d26a8208e104a303157e4550c08edc34d44a",
+      "has_attachments": false,
+      "document_id": "7ae7d4f0-3fe5-48fe-8bf8-d707c91cf41d",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:13.759658"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAAAbpTHbwAAAB5DXMRC_MVMlhHN57RFUFIAB5-Op6QAAAA=",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAAAbpTHbwAAAB5DXMRC_MVMlhHN57RFUFIAB5-Op6QAAAA=",
+      "internet_message_id": "<B6E5A52B-6714-4CB0-BC8B-BC6A7798A172@hotmail.com>",
+      "subject": "Re: Umgang",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-10-17T14:06:43Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-10-17_Mark-Jaeckel_Re-Umgang.eml",
+      "sha256": "041fcf7dd5919b8ce2fdd6d7bb3dc8645724a022b8b5a541f549ebbe7d2b2970",
+      "has_attachments": false,
+      "document_id": "33cd5a94-21d3-4e10-8303-6aede12eef9f",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:14.463520"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAefzqO6AAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAefzqO6AAAA",
+      "internet_message_id": "<DB9PR08MB9465AD1F8E02FE1DD796BFD29BD6A@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "Re: Umgang",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-10-17T14:06:46Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-10-17_Mark-Jaeckel_Re-Umgang.eml",
+      "sha256": "5318cba96d2719a018d3c1b70d76b04ec9744e150fa20b7036e407df241b933d",
+      "has_attachments": false,
+      "document_id": "800b84df-ee21-4366-a9c4-dd0ac3a31968",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:16.418523"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAeSjy3hAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAeSjy3hAAAA",
+      "internet_message_id": "<AS2PR08MB9452B4796E822287DC2C11649BC2A@AS2PR08MB9452.eurprd08.prod.outlook.com>",
+      "subject": "AW: Umgänge",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-09-27T13:38:39Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-09-27_Mark-Jaeckel_AW-Umgänge.eml",
+      "sha256": "938683a329312e43dde4c2b0d3a2bc156969c03c28f0ea495556023c39f9a929",
+      "has_attachments": false,
+      "document_id": "ff33eac0-7233-45df-bcec-ddba583f3ae5",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:17.055742"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAcIExAtAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAcIExAtAAAA",
+      "internet_message_id": "<GV1PR01MB86118D7A9137AC98DE9CE5BF9BAD9@GV1PR01MB8611.eurprd01.prod.exchangelabs.com>",
+      "subject": "Umgangstermine mit meinem Sohn Nicolas",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-03-01T11:30:25Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-03-01_Mark-Jaeckel_Umgangstermine-mit-meinem-Sohn-Nicolas.eml",
+      "sha256": "965e42f5a951b2a92ccf31c4865f472ea37d7fdc1d675cfc2a346da04c5d4466",
+      "has_attachments": false,
+      "document_id": "dbd534ef-585f-4221-9794-65b3d27f4bf5",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:17.788361"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAAAbpTHbwAAAB5DXMRC_MVMlhHN57RFUFIABuJJRG4AAAA=",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAAAbpTHbwAAAB5DXMRC_MVMlhHN57RFUFIABuJJRG4AAAA=",
+      "internet_message_id": "<9ED6E1E2-5158-48F2-845A-837AF8B085C9@hotmail.com>",
+      "subject": "Re: Antw: Rücksprache mit Richter",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-01-05T15:54:42Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-01-05_Mark-Jaeckel_Re-Antw-Rücksprache-mit-Richter.eml",
+      "sha256": "ceb78cc1d7ad701b0947676f38072ffb112efe584f88ef74c00b0bf955d0dbac",
+      "has_attachments": false,
+      "document_id": "80d44cb5-11f3-4311-a145-e780743ea99a",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:18.542594"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAbiSUCEAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAbiSUCEAAAA",
+      "internet_message_id": "<GV1PR01MB8611E9D05196F4AA9D0D5E399BFA9@GV1PR01MB8611.eurprd01.prod.exchangelabs.com>",
+      "subject": "Re: Antw: Rücksprache mit Richter",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-01-05T15:54:46Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-01-05_Mark-Jaeckel_Re-Antw-Rücksprache-mit-Richter.eml",
+      "sha256": "ee8f2fd48241f150e84e3679a6c9f7c8b962a0907beec50ddc8766de4d0383db",
+      "has_attachments": false,
+      "document_id": "1a264d45-0f43-42ca-aeaa-816281160c33",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:19.264042"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAAAbpTHbwAAAB5DXMRC_MVMlhHN57RFUFIABuJJRG0AAAA=",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAAAbpTHbwAAAB5DXMRC_MVMlhHN57RFUFIABuJJRG0AAAA=",
+      "internet_message_id": "<E7651951-9C41-4F0B-8F4F-11E4C97FC250@hotmail.com>",
+      "subject": "Rücksprache mit Richter",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-01-05T07:10:16Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-01-05_Mark-Jaeckel_Rücksprache-mit-Richter.eml",
+      "sha256": "3db1412098a967932a411145d439a992a09d9e6697676f3c2a5751a190fed3e8",
+      "has_attachments": false,
+      "document_id": "f741b821-7f05-463e-9f0c-59f33f0451de",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:20.206840"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAbiSUCDAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAbiSUCDAAAA",
+      "internet_message_id": "<GV1PR01MB8611DFD27ABBC668FEFBBF3D9BFA9@GV1PR01MB8611.eurprd01.prod.exchangelabs.com>",
+      "subject": "Rücksprache mit Richter",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-01-05T07:10:18Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-01-05_Mark-Jaeckel_Rücksprache-mit-Richter.eml",
+      "sha256": "c995e197af9163366c6dd907ed6fa6ca721a382b7ef7bccfaec9197e39b80ebc",
+      "has_attachments": false,
+      "document_id": "97242140-d8be-451a-b050-2cf68b01cf3e",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:20.965308"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAbYiUM8AAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAbYiUM8AAAA",
+      "internet_message_id": "<GV1PR01MB8611CB0F56027B75B960A3B29BE99@GV1PR01MB8611.eurprd01.prod.exchangelabs.com>",
+      "subject": "AW: Familiengericht",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2022-12-23T14:33:23Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2022-12-23_Mark-Jaeckel_AW-Familiengericht.eml",
+      "sha256": "b0f9ee9f8a7a0a1462d82d61c5f8b7549dc8757a372c81ec26c746416b389b0e",
+      "has_attachments": false,
+      "document_id": "302335fa-2e10-4e9e-85f7-5b5ecbc25bfb",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:21.868603"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAbV8mE1AAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAbV8mE1AAAA",
+      "internet_message_id": "<GV1PR01MB86112E53556D9828F67B064F9BE19@GV1PR01MB8611.eurprd01.prod.exchangelabs.com>",
+      "subject": "Re: Antw: Betriebskostenabrechnung",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2022-12-15T14:28:38Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2022-12-15_Mark-Jaeckel_Re-Antw-Betriebskostenabrechnung.eml",
+      "sha256": "22d76845eb9c2d3f091ae99b13e981e19880ec42e1fca562724becd8c3f5f7a8",
+      "has_attachments": false,
+      "document_id": "c3a007cd-d606-472c-ab9d-72d2632fb9bf",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:22.699691"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAAAbpTHbwAAAB5DXMRC_MVMlhHN57RFUFIABtXydPwAAAA=",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAAAbpTHbwAAAB5DXMRC_MVMlhHN57RFUFIABtXydPwAAAA=",
+      "internet_message_id": "<8C2F34B8-7BF4-472B-99C3-D257E7D3C797@hotmail.com>",
+      "subject": "Re: Antw: Betriebskostenabrechnung",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2022-12-15T14:28:34Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2022-12-15_Mark-Jaeckel_Re-Antw-Betriebskostenabrechnung.eml",
+      "sha256": "dd88bea63ec6622fefcd88d355d588889488f236865d88f80bc33a13f16f96a3",
+      "has_attachments": false,
+      "document_id": "b25b83c0-7ea3-402f-9848-429f71dcaaa4",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:23.392665"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAbV8mE0AAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAbV8mE0AAAA",
+      "internet_message_id": "<GV1PR01MB86112DCA4CB67373F7A344F09BE19@GV1PR01MB8611.eurprd01.prod.exchangelabs.com>",
+      "subject": "Ob diese Mail wohl dieses mal ankommt? Betriebskostenabrechnung",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "lena.kuhn@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2022-12-15T12:43:57Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2022-12-15_Mark-Jaeckel_Ob-diese-Mail-wohl-dieses-mal-ankommt-Betriebskost.eml",
+      "sha256": "f7f1737ad8e7b8529f5083fd34d04e87457b3e31379e15b74d4b4067453b6893",
+      "has_attachments": false,
+      "document_id": "9636a713-cab9-4a65-9f9f-013a45df6ca5",
+      "status": "imported",
+      "imported_at": "2025-12-20T20:17:24.960876"
     }
   ],
   "created": "2025-12-20T15:31:21.454168",
-  "last_updated": "2025-12-20T16:59:39.812847"
+  "last_updated": "2025-12-20T20:17:24.960876"
 }
