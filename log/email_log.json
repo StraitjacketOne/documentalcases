@@ -35,8 +35,331 @@
       "status": "imported",
       "document_id": "8465d273-7173-4c2a-9140-cdf414a6e204",
       "rag_imported_at": "2025-12-20T15:33:37.270187"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAkj4iVWAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAkj4iVWAAAA",
+      "internet_message_id": "<DB9PR08MB9465452EC355D284314A70D69B67A@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "Claude hat mich gezwungen",
+      "from": "jaeckel.mark@gmail.com",
+      "from_name": "Mark Jäckel",
+      "to": [
+        "karin.berg@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2025-05-28T08:13:01Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2025-05-28_Mark-Jäckel_Claude-hat-mich-gezwungen.eml",
+      "sha256": "df235da219ffa35136b8494e953e404387da76dc8578052d19822aa834d15367",
+      "has_attachments": false,
+      "document_id": "41b624f1-409e-430e-839b-5864a8647ecb",
+      "status": "imported",
+      "imported_at": "2025-12-20T16:46:03.048989"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAiNMYVjAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAiNMYVjAAAA",
+      "internet_message_id": "<DB9PR08MB94655E50337CCB9BBD29DCDC9B442@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "AW: Mail_Kontakt",
+      "from": "jaeckel.mark@gmail.com",
+      "from_name": "Mark Jäckel",
+      "to": [
+        "karin.berg@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2024-10-14T08:20:27Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2024-10-14_Mark-Jäckel_AW-Mail_Kontakt.eml",
+      "sha256": "485e6d8643b78eebaaddf29f04bec04614873f90b38e9e13a5abf127bc3a7b11",
+      "has_attachments": true,
+      "document_id": "0bc8371e-d5e3-4735-93b6-ec2897467ff7",
+      "status": "imported",
+      "imported_at": "2025-12-20T16:48:21.180268"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAiNMYViAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAiNMYViAAAA",
+      "internet_message_id": "<DB9PR08MB94651DEB39A48FDE7EFF750E9B442@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "AW: Mail_Kontakt",
+      "from": "jaeckel.mark@gmail.com",
+      "from_name": "Mark Jäckel",
+      "to": [
+        "karin.berg@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2024-10-14T07:54:32Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2024-10-14_Mark-Jäckel_AW-Mail_Kontakt.eml",
+      "sha256": "6b8057279679dae08ac8e64892cb979884a6c5723d9cf45b40444cf0c01e5b26",
+      "has_attachments": true,
+      "document_id": "65f25e95-f39b-455f-9ead-698925363ffc",
+      "status": "imported",
+      "imported_at": "2025-12-20T16:48:22.028623"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAfKPFUYAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAfKPFUYAAAA",
+      "internet_message_id": "<DB9PR08MB94653DEF3C00192EDEE3776F9B96A@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "WG: Antw: Feedback",
+      "from": "jaeckel.mark@gmail.com",
+      "from_name": "Mark Jäckel",
+      "to": [
+        "karin.berg@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-12-20T13:58:48Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-12-20_Mark-Jäckel_WG-Antw-Feedback.eml",
+      "sha256": "221452e45510966c4aa2c78aaa8bfeb2fe907cff7c40664c2cfbd2c9a5b4bfc1",
+      "has_attachments": false,
+      "document_id": "bd42ccf7-786d-4c39-b4d8-760aebaf09c4",
+      "status": "imported",
+      "imported_at": "2025-12-20T16:48:23.554721"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAfGT-qSAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAfGT-qSAAAA",
+      "internet_message_id": "<DB9PR08MB9465D0E6B9E41B7DD4C1277B9B93A@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "WG: Antw: Feedback",
+      "from": "jaeckel.mark@gmail.com",
+      "from_name": "Mark Jäckel",
+      "to": [
+        "karin.berg@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-12-15T09:46:08Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-12-15_Mark-Jäckel_WG-Antw-Feedback.eml",
+      "sha256": "e9aff9091db9fd27197621b08ba213ac424cde38b0f798c53cc6ff02df2675ad",
+      "has_attachments": false,
+      "document_id": "0d93085f-c6a9-46b2-b5eb-b3e1e55c27c0",
+      "status": "imported",
+      "imported_at": "2025-12-20T16:48:24.530992"
+    },
+    {
+      "id": "email6",
+      "outlook_id": "email6",
+      "internet_message_id": "<DB9PR08MB946553CF9AC4E020D8577D229B8CA@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "WG: Antw: Feedback",
+      "from": "jaeckel.mark@gmail.com",
+      "from_name": "Mark Jäckel",
+      "to": [
+        "karin.berg@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-12-14T13:13:01Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-12-14_Mark-Jäckel_WG-Antw-Feedback.eml",
+      "sha256": "0d60394c3eee4cc1ed1ee00ed16d8ca3246d3b18b47b68ca23e92f2567b43a80",
+      "has_attachments": false,
+      "document_id": "b7afc446-0acf-43d8-89ba-59ae05c6178e",
+      "status": "imported",
+      "imported_at": "2025-12-20T16:51:48.694525"
+    },
+    {
+      "id": "email7",
+      "outlook_id": "email7",
+      "internet_message_id": "<DB9PR08MB94653164CCD8FF9255F9F7469B8DA@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "WG: Antw: Feedback",
+      "from": "jaeckel.mark@gmail.com",
+      "from_name": "Mark Jäckel",
+      "to": [
+        "karin.berg@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-12-13T09:40:14Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-12-13_Mark-Jäckel_WG-Antw-Feedback.eml",
+      "sha256": "70b2df0c12c8b770ae80400d4d7164f1afab285dbc6e3d39ffe794aba1ab0809",
+      "has_attachments": false,
+      "document_id": "7e15da70-b09b-4e12-90ae-96bc5b650e77",
+      "status": "imported",
+      "imported_at": "2025-12-20T16:51:50.698169"
+    },
+    {
+      "id": "email8",
+      "outlook_id": "email8",
+      "internet_message_id": "<DB9PR08MB94653C1AB49A5F63C3E6E4309B8EA@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "WG: Antw: Feedback",
+      "from": "jaeckel.mark@gmail.com",
+      "from_name": "Mark Jäckel",
+      "to": [
+        "karin.berg@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-12-12T10:27:17Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-12-12_Mark-Jäckel_WG-Antw-Feedback.eml",
+      "sha256": "fe0a0ab9e2900876d2d74ab3ec5a3aaabd1bc023c63ca7d6be726a3f6a11bffe",
+      "has_attachments": false,
+      "document_id": "9ee3523f-d91f-4c15-9b6a-bdc53c86458e",
+      "status": "imported",
+      "imported_at": "2025-12-20T16:51:52.250578"
+    },
+    {
+      "id": "email9",
+      "outlook_id": "email9",
+      "internet_message_id": "<DB9PR08MB946531A9429362E773FB44429B8EA@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "WG: Antw: Feedback",
+      "from": "jaeckel.mark@gmail.com",
+      "from_name": "Mark Jäckel",
+      "to": [
+        "karin.berg@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-12-12T09:26:26Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-12-12_Mark-Jäckel_WG-Antw-Feedback.eml",
+      "sha256": "b9f277c540e7f98c329a08afe7f9684018a8a9967e9ee48b40a7d2cdfde127ab",
+      "has_attachments": false,
+      "document_id": "2c7ee576-6a55-4b47-8c15-11eb1ea33291",
+      "status": "imported",
+      "imported_at": "2025-12-20T16:51:53.277011"
+    },
+    {
+      "id": "email10",
+      "outlook_id": "email10",
+      "internet_message_id": "<DB9PR08MB9465885B49CE30DC81B3A39C9B8FA@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "WG: Antw: Feedback",
+      "from": "jaeckel.mark@gmail.com",
+      "from_name": "Mark Jäckel",
+      "to": [
+        "karin.berg@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-12-11T13:39:14Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-12-11_Mark-Jäckel_WG-Antw-Feedback.eml",
+      "sha256": "d3b349fbe9248d085f9a781cf2dd328958202266676b0b5becb8c912130195c3",
+      "has_attachments": false,
+      "document_id": "ab6cbd18-b71c-4318-9363-5a38b6890cf3",
+      "status": "imported",
+      "imported_at": "2025-12-20T16:55:00.634961"
+    },
+    {
+      "id": "email11",
+      "outlook_id": "email11",
+      "internet_message_id": "<DB9PR08MB9465E04D20BAB22C9061BB2B9B8FA@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "WG: Antw: Feedback",
+      "from": "jaeckel.mark@gmail.com",
+      "from_name": "Mark Jäckel",
+      "to": [
+        "karin.berg@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-12-11T10:32:42Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-12-11_Mark-Jäckel_WG-Antw-Feedback.eml",
+      "sha256": "eeacf8f0741bf12d57e000735bd0eb457e3bcc1afc18094489ab7c68355cd0cd",
+      "has_attachments": false,
+      "document_id": "1b11093c-9edd-460f-b1f8-7efda803b2aa",
+      "status": "imported",
+      "imported_at": "2025-12-20T16:55:01.694169"
+    },
+    {
+      "id": "email12",
+      "outlook_id": "email12",
+      "internet_message_id": "<DB9PR08MB94653C88E95BAFC0B43876F49B8BA@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "WG: Antw: Feedback",
+      "from": "jaeckel.mark@gmail.com",
+      "from_name": "Mark Jäckel",
+      "to": [
+        "karin.berg@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-12-07T13:05:03Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-12-07_Mark-Jäckel_WG-Antw-Feedback.eml",
+      "sha256": "5fde97a02698484d0e87ca89b98c251050601c84abb47869901f4172361940c4",
+      "has_attachments": false,
+      "document_id": "6d5f3936-6efe-4b66-8639-7fcbdeb3d499",
+      "status": "imported",
+      "imported_at": "2025-12-20T16:55:02.649761"
+    },
+    {
+      "id": "email13",
+      "outlook_id": "email13",
+      "internet_message_id": "<DB9PR08MB946503F87E259253F20A12D69B8BA@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "WG: Antw: Feedback",
+      "from": "jaeckel.mark@gmail.com",
+      "from_name": "Mark Jäckel",
+      "to": [
+        "karin.berg@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-12-07T09:32:40Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-12-07_Mark-Jäckel_WG-Antw-Feedback.eml",
+      "sha256": "52d5e10dd73b96cd0843aa1c93a9d11846fa79d657d358109c5ad24fd217fd3e",
+      "has_attachments": false,
+      "document_id": "f3c89ae6-0d37-474a-938e-9793393c9a59",
+      "status": "imported",
+      "imported_at": "2025-12-20T16:55:03.729299"
+    },
+    {
+      "id": "email14",
+      "outlook_id": "email14",
+      "internet_message_id": "<DB9PR08MB94659ADFBBE8E708F46FDBE49B8BA@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "Einen wunderschönen zuckersüssen Morgen wünsche ich mit Liebe!",
+      "from": "jaeckel.mark@gmail.com",
+      "from_name": "Mark Jäckel",
+      "to": [
+        "karin.berg@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-12-07T09:07:20Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-12-07_Mark-Jäckel_Einen-wunderschönen-zuckersüssen-Morgen-wünsche-ic.eml",
+      "sha256": "8dd7af37217da07c7396bbd2ee046ad70ae003ec80105bba51b7a6155583dbd3",
+      "has_attachments": false,
+      "document_id": "5e0c6fa5-1e20-4ae4-9834-b9f2f97e8b09",
+      "status": "imported",
+      "imported_at": "2025-12-20T16:59:36.699839"
+    },
+    {
+      "id": "email15",
+      "outlook_id": "email15",
+      "internet_message_id": "<DB9PR08MB9465DF2256CC2734F172AE089B86A@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "AW: Antw: Feedback",
+      "from": "jaeckel.mark@gmail.com",
+      "from_name": "Mark Jäckel",
+      "to": [
+        "Karin.Berg@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-12-04T13:44:58Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-12-04_Mark-Jäckel_AW-Antw-Feedback.eml",
+      "sha256": "1f4da15dd56d3396eef90ad3141bab593de702ead0eb7aa7d64551b12653d5f9",
+      "has_attachments": false,
+      "document_id": "0c4a7e2e-f1d3-4463-bbb6-2ff24b7c22a4",
+      "status": "imported",
+      "imported_at": "2025-12-20T16:59:37.857275"
+    },
+    {
+      "id": "email16",
+      "outlook_id": "email16",
+      "internet_message_id": "<DB9PR08MB9465FD7DE853C659E3FBD1D99B81A@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "Feedback",
+      "from": "jaeckel.mark@gmail.com",
+      "from_name": "Mark Jäckel",
+      "to": [
+        "karin.berg@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-12-01T10:11:35Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-12-01_Mark-Jäckel_Feedback.eml",
+      "sha256": "1d26bda2cd7cec602622a19fab2a8ec4ebb4e1a98514f41c499376436eb67087",
+      "has_attachments": false,
+      "document_id": "deb1d67c-09ab-47d8-8b26-378d22e067de",
+      "status": "imported",
+      "imported_at": "2025-12-20T16:59:38.804953"
+    },
+    {
+      "id": "email17",
+      "outlook_id": "email17",
+      "internet_message_id": "<DB9PR08MB9465F84BE1B4272BD66CFE969B82A@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "FYI",
+      "from": "jaeckel.mark@gmail.com",
+      "from_name": "Mark Jäckel",
+      "to": [
+        "karin.berg@rvsbr.de"
+      ],
+      "cc": [],
+      "date": "2023-11-30T17:55:59Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-11-30_Mark-Jäckel_FYI.eml",
+      "sha256": "7d12547ac914d0464b5ac2147e01a19d80f428ad552f6113543754f886c8335a",
+      "has_attachments": true,
+      "document_id": "a6f10818-30e2-4561-b74d-737e8fc57794",
+      "status": "imported",
+      "imported_at": "2025-12-20T16:59:39.812847"
     }
   ],
   "created": "2025-12-20T15:31:21.454168",
-  "last_updated": "2025-12-20T15:33:37.270187"
+  "last_updated": "2025-12-20T16:59:39.812847"
 }
