@@ -32,32 +32,52 @@
 
 ## Rolle im Fall
 
-### Kernvorwurf: Beweisunterdrueckung durch "Hunger" (14.09.2022)
+### ZWEI Begegnungen mit Hoeckel
 
-**Was Mark berichtet (Tagebuch 12.09.2023):**
+Mark hatte ZWEI separate Begegnungen mit Manuel Hoeckel:
 
-> "Jedoch raeumte man mir keine Gelegenheit mehr ein diese abzuspielen, weil ein Herr Hoeckel, der bei diesem Gespraech ebenfalls dabei war, kundtat **dass er Hunger hatte** und das Gespraech somit einseitig beendet wurde."
-
-> "Mein Gesuch dieses Gespraech zu einem spaeteren Zeitpunkt an diesem Punkt wieder aufzugreifen und fortzufuehren wurde zwar muendlich bejaht, jedoch kam es in dieser Konstellation nie..."
-
-**Konsequenz:** Mark konnte seine Beweise (Audioaufnahmen der alkoholisierten Kindesmutter) NICHT vorlegen.
+| Datum | Anwesend | Vorfall |
+|-------|----------|---------|
+| **30.08.2022** | Meiser & Hoeckel | **"Hunger"-Abbruch** - Beweise nicht vorgelegt |
+| **14.09.2022** | Eichberger & Hoeckel | **"Pausenclown"**, Faust auf Tisch, Rauswurf |
 
 ---
 
 ## Chronologie der Vorfaelle
 
-### 14.09.2022 - Das "Hunger"-Gespraech (Brief Hellenthal 09.01.2024)
+### 30.08.2022 - Das "Hunger"-Gespraech (mit MEISER)
 
-**Ueberschrift im Brief:**
+**Was Mark berichtet (Tagebuch 12.09.2023):**
+
+> "Jedoch raeumte man mir keine Gelegenheit mehr ein diese abzuspielen, weil ein **Herr Hoeckel, der bei diesem Gespraech ebenfalls dabei war**, kundtat **dass er Hunger hatte** und das Gespraech somit einseitig beendet wurde."
+
+> "Mein Gesuch dieses Gespraech zu einem spaeteren Zeitpunkt an diesem Punkt wieder aufzugreifen und fortzufuehren wurde zwar muendlich bejaht, **jedoch kam es in dieser Konstellation nie**..."
+
+| Aspekt | Detail |
+|--------|--------|
+| Datum | **30.08.2022** |
+| Anlass | Mark wollte Beweise vorlegen (Alkohol-Audios) |
+| Anwesend | **Meiser** & Hoeckel |
+| Abbruch | Hoeckel: **"Hunger"** |
+| Folge | Beweise NIE vorgelegt |
+
+**Konsequenz:** Mark konnte seine Beweise (Audioaufnahmen der alkoholisierten Kindesmutter) NICHT vorlegen.
+
+---
+
+### 14.09.2022 - Das "Pausenclown"-Gespraech (mit EICHBERGER)
+
+**Ueberschrift im Brief an Hellenthal (09.01.2024):**
 > "14.09.2022 — **Entmenschlichung, Vorfuehrung, Herablassung, Rechtsfreier Raum, Willkuer**"
 
 | Aspekt | Detail |
 |--------|--------|
-| Anlass | Mark wollte Beweise vorlegen (Alkohol-Audios) |
-| Anwesend | Hoeckel, Eichberger |
+| Datum | **14.09.2022** |
+| Anlass | Gespraech mit Vorgesetztem (Eichberger hatte zugestimmt) |
+| Anwesend | **Eichberger** & Hoeckel |
 | Hoeckels Verhalten | "pausenlos provoziert", "immer ins Wort gefallen" |
-| Abbruch | Hoeckel: "Hunger" |
-| Folge | Beweise NIE vorgelegt |
+| Eskalation | Mark: "Pausenclown" → Hoeckel: Faust auf Tisch |
+| Folge | Rauswurf |
 
 **Hoeckels Verhalten (Brief Hellenthal):**
 
@@ -75,7 +95,7 @@
 
 > "**Eichberger war genauso perplex wie ich** in dem Moment."
 
-**Audio 24.09.2022 (Mark an JA-Bereitschaft):**
+**Audio 24.09.2022 (Mark an JA-Bereitschaft, 10 Tage spaeter):**
 
 > [00:57] "Der Herr Hoeckel hat mich pausenlos provoziert."
 > [01:00] "Der ist mir immer ins Wort gefallen. Andauernd."
@@ -173,7 +193,8 @@ Aus `extracted/Hauptverfahren.txt`:
 
 | Datum | Dokument | Relevanz |
 |-------|----------|----------|
-| 14.09.2022 | Termin JA | "Hunger"-Abbruch, Faust auf Tisch |
+| **30.08.2022** | **Termin JA (mit Meiser)** | **"Hunger"-Abbruch** |
+| **14.09.2022** | **Termin JA (mit Eichberger)** | **"Pausenclown", Faust auf Tisch** |
 | 24.09.2022 | Audio-Transkript | Provokation dokumentiert |
 | 25.10.2022 | Gerichtsprotokoll | Bluth berichtet "Schnecki" |
 | 10.01.2023 | Telefonat Kuhn | Mark bestreitet "Schnecki" |

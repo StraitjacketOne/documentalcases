@@ -94,7 +94,7 @@
 
 ---
 
-## KERNBEWEIS 4: Tagebuch (12.09.2023)
+## KERNBEWEIS 4: Tagebuch (12.09.2023) - bezieht sich auf 30.08.2022
 
 ### Die betroffenen Personen:
 
@@ -124,9 +124,12 @@
 
 ## Die Chronologie der Beweisunterdrueckung
 
+### ZWEI separate Begegnungen mit Hoeckel:
+
 | Datum | Ereignis | Quelle |
 |-------|----------|--------|
-| **14.09.2022** | Hoeckel provoziert, faellt ins Wort, beendet wegen "Hunger" | Brief Hellenthal, Tagebuch |
+| **30.08.2022** | Mit MEISER & Hoeckel: **"Hunger"-Abbruch**, Beweise nicht vorgelegt | Tagebuch |
+| **14.09.2022** | Mit EICHBERGER & Hoeckel: **"Pausenclown"**, Faust auf Tisch, Rauswurf | Brief Hellenthal |
 | 14.09.2022 (nachmittags) | Eichberger ruft an, **entschuldigt sich** fuer Hoeckels Verhalten | Telefonat Brand |
 | 24.09.2022 | Mark berichtet: "pausenlos provoziert", "andauernd ins Wort gefallen" | Audio JA-Bereitschaft |
 | 25.10.2022 | Bluth behauptet vor Gericht: Mark sagte "Schnecki" | Gerichtsprotokoll |
@@ -154,10 +157,14 @@
 
 ## Fazit: Die Funktion von Manuel Hoeckel
 
-### Was er tat:
-1. **Verhinderte** dass Mark seine Alkohol-Beweise vorlegen konnte
-2. **Provozierte** pausenlos, fiel ins Wort
-3. **Beendete** das Gespraech wegen "Hunger"
+### Was er tat (in ZWEI Begegnungen):
+
+**30.08.2022 (mit Meiser):**
+1. **Beendete** das Gespraech wegen "Hunger"
+2. **Verhinderte** dass Mark seine Alkohol-Beweise vorlegen konnte
+
+**14.09.2022 (mit Eichberger):**
+3. **Provozierte** pausenlos, fiel ins Wort
 4. **Schlug mit der Faust** auf den Tisch
 5. **Warf Mark raus** weil dieser ihn "Pausenclown" nannte
 
