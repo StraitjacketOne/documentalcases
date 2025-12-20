@@ -1,0 +1,42 @@
+{
+  "imports": [
+    {
+      "id": "67090C690200009B0001C051",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQwAAAAeQ1zEQvjFTJYRzee0RVBSAAiNMTfpAAAA",
+      "internet_message_id": "<67090C690200009B0001C051@svsipgw.intra.svsbr.de>",
+      "subject": "Mail_Kontakt",
+      "from": "Karin.Berg@rvsbr.de",
+      "to": "jaeckel.mark@gmail.com",
+      "date": "2024-10-11T13:30:49+02:00",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2024-10-11_Karin-Berg_Mail_Kontakt.eml",
+      "sha256": "00db26572d5a9f871b592981a0ca90c42490a296e79336407bbae98bcbb92f84",
+      "imported_at": "2025-12-20T15:31:21.457469",
+      "has_attachments": true,
+      "status": "imported",
+      "document_id": "aa43076b-97ff-4625-b807-033bed75d1d2",
+      "rag_imported_at": "2025-12-20T15:33:37.270187"
+    },
+    {
+      "id": "656D86520200009B00017E9F",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAFYbkQCAAAAHkNcxEL4xUyWEc3ntEVQUgAHwcYlMQAAAA==",
+      "internet_message_id": "<656D86520200009B00017E9F@svsipgw.intra.svsbr.de>",
+      "subject": "Antw: Feedback ?",
+      "from": "Karin.Berg@rvsbr.de",
+      "to": "jaeckel.mark@gmail.com",
+      "cc": [
+        "Angelika.Schallenberg@rvsbr.de",
+        "Heiko.Bluth@rvsbr.de"
+      ],
+      "date": "2023-12-04T08:57:06+01:00",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-12-04_Karin-Berg_Antw-Feedback.eml",
+      "sha256": "e00dbb30d4106e8fe6124aa888a933762924f62e9bdfe78e70a8dc0123cbc064",
+      "imported_at": "2025-12-20T15:31:21.457469",
+      "has_attachments": false,
+      "status": "imported",
+      "document_id": "8465d273-7173-4c2a-9140-cdf414a6e204",
+      "rag_imported_at": "2025-12-20T15:33:37.270187"
+    }
+  ],
+  "created": "2025-12-20T15:31:21.454168",
+  "last_updated": "2025-12-20T15:33:37.270187"
+}
