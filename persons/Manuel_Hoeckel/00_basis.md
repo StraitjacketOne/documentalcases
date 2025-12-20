@@ -2,7 +2,19 @@
 
 **Erstellt:** 20.12.2025
 **Status:** Dokumentiert
-**Spitznamen:** "Pausenclown", "Schnecki" (angeblich von Mark - BESTRITTEN)
+**Spitznamen:** "Pausenclown", "Schnecki" (angeblich von Mark - BESTRITTEN), "Schnetti der Clown"
+
+---
+
+## Der Name "Sunny Schnett" / "Sahn ich nett"
+
+**Telefonat Brand 08.09.2023:**
+> "Ich frage den Herr Hoeckel im Gespraech, weil er mir die ganze Zeit immer ans Wort gefallen ist, **wie ist Ihr Name?** Und was kriege ich gesagt? **Sanisnet, Sanisnet, Sanisnet**, ist das normales Verhalten?"
+
+**Brief an Hellenthal 09.01.2024:**
+> "Auf die Frage wie denn eigentlich sein Name sei, wurde mir gesagt: **'Sahn ich nett'** — Zuerst dachte ich noch er hiesse **'Sunny Schnett'**"
+
+**Marks Erklaerung:** Weil Hoeckel "ein Clownsartiges Gehabe an den Tag legte", behielt Mark ihn "fuer alle Zeit als **'Schnetti der Clown'** in Erinnerung" — NICHT weil er ihn "Schnecki" nannte.
 
 ---
 
@@ -34,7 +46,10 @@
 
 ## Chronologie der Vorfaelle
 
-### 14.09.2022 - Das "Hunger"-Gespraech
+### 14.09.2022 - Das "Hunger"-Gespraech (Brief Hellenthal 09.01.2024)
+
+**Ueberschrift im Brief:**
+> "14.09.2022 — **Entmenschlichung, Vorfuehrung, Herablassung, Rechtsfreier Raum, Willkuer**"
 
 | Aspekt | Detail |
 |--------|--------|
@@ -44,10 +59,36 @@
 | Abbruch | Hoeckel: "Hunger" |
 | Folge | Beweise NIE vorgelegt |
 
+**Hoeckels Verhalten (Brief Hellenthal):**
+
+> "alles was ich sagte **mit rollenden Augen und mit spoettischen aufgesetzten Grinsen quittierte**"
+
+> "immerzu sehnend den **Blick der Bestaetigung** 'das hier jetzt aber mal so richtig zum Lachen zu finden was dieser Vater da sagt' **Richtung Herrn Eichberger suchte**"
+
+**Der "Pausenclown"-Moment:**
+
+> "mit mittlerweile **traenendurchtraenkten Augen und bruechiger Stimme** mahnend sich an einen Herrn Eichberger wendet und sagt: 'Herr Eichberger was soll das denn bitte, wir hatten abgemacht, dass ich hier frei reden kann. Hier geht es um mein Kind. Und dauernd unterbrochen zu werden von hier so einem **Pausenclown** war nicht geplant'"
+
+**Hoeckels Reaktion:**
+
+> "Es dauerte etwa 3 Sekunden da **schlug er mit hochrotem Kopf mit der Faust auf den Tisch** und schrie: '**So! Sie haben mich beleidigt, sie fliegen raus!**'"
+
+> "**Eichberger war genauso perplex wie ich** in dem Moment."
+
 **Audio 24.09.2022 (Mark an JA-Bereitschaft):**
 
 > [00:57] "Der Herr Hoeckel hat mich pausenlos provoziert."
 > [01:00] "Der ist mir immer ins Wort gefallen. Andauernd."
+
+### 14.09.2022 (nachmittags) - Eichberger entschuldigt sich
+
+**Telefonat Brand 08.09.2023:**
+
+> "Und am Schluss war der **Herr Eischberger genauso geschockt ueber das Verhalten von Herrn Hoecke** wie ich."
+
+> "Dass der Herr Eischberger **nachtraeglich noch angerufen hat und sich entschuldigt hat** fuer den Tag, habe ich auch auf Sprache."
+
+> "Ich fand es gut, dass er mich zurueckgerufen hat und **es nicht okay fand, was der Herr Hoecke gemacht hat** in dieser Besprechung."
 
 ---
 
@@ -132,21 +173,26 @@ Aus `extracted/Hauptverfahren.txt`:
 
 | Datum | Dokument | Relevanz |
 |-------|----------|----------|
-| 14.09.2022 | Termin JA | "Hunger"-Abbruch |
+| 14.09.2022 | Termin JA | "Hunger"-Abbruch, Faust auf Tisch |
 | 24.09.2022 | Audio-Transkript | Provokation dokumentiert |
 | 25.10.2022 | Gerichtsprotokoll | Bluth berichtet "Schnecki" |
 | 10.01.2023 | Telefonat Kuhn | Mark bestreitet "Schnecki" |
 | 11.05.2023 | Email an RA Lehne | "Nie Schnecki gesagt" |
+| **08.09.2023** | **Telefonat Brand** | **"One-Man-Show", Eichberger entschuldigte sich** |
 | 12.09.2023 | Tagebuch | "Hunger"-Vorfall dokumentiert |
 | 05.09.2023 | Schreiben Berg | Beleidigungsvorwuerfe |
 | 04.01.2024 | Anklageschrift | Hoeckel als Geschaedigter |
+| **09.01.2024** | **Brief an Hellenthal** | **Vollstaendige Darstellung, "Sunny Schnett"** |
 
 Pfade:
 - `extracted/2022-09-24_RVS-JA-Bereitschaftsdienst_Telefonat_Kindeswohlgefaehrdung-Manipulation-48h-Falle.txt`
 - `extracted/2022-10-25_AG-Saarbruecken_Hellenthal_Eroerterungstermin-Kindschaftssache_39F221-22.txt`
 - `extracted/2023-01-10_RVS-JA_Kuhn_Telefonat-Umgangsregelung_39F221-22.txt`
 - `extracted/2023-05-11_Jaeckel_RA-Lehne_Email-3-Fragen-Verfahrenskritik_17-23.txt`
+- `extracted/2023-09-08_Jaeckel_JA-Brandt_Telefonat-Transkript-Nicolas-Geburtstag_Umgangsrecht.txt`
 - `extracted/2023-09-12_Tagebuch_Auszuege.txt`
+- `extracted/2024-01-09_Jaeckel_AG-Saarbruecken_Ausfuehrliche-Sachverhaltsdarstellung_Jugendamt-SB_FAX01.txt`
+- `extracted/2024-01-09_Jaeckel_AG-Saarbruecken_Ausfuehrliche-Sachverhaltsdarstellung_Jugendamt-SB_FAX02.txt`
 - `extracted/GAJaeckelMarkSiegfried_22072025.txt`
 
 ---
