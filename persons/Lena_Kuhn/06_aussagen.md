@@ -173,20 +173,132 @@ In Wahrheit: Sie IST Sozialer Dienst.
 
 ---
 
+## AUSSAGE 7: "Negative Testergebnisse" (DIE URINTEST-TAEUSCHUNG)
+
+| Feld | Inhalt |
+|------|--------|
+| **Wortlaut** | "Die Kindesmutter konnte mehrere negative Testergebnisse betreffend den Alkoholkonsum vorlegen. [...] Die Testungen in der Vergangenheit waren negativ und es gab keine weiteren Anhaltspunkte fuer einen Alkoholkonsum." |
+| **Datum** | 16.07.2025 (und fortlaufend seit 2023) |
+| **Quelle Genesis** | `extracted/2025-07-16_JA-Regionalverband_Kuhn_Stellungnahme-Therapieerfolg_39F1-25.txt` |
+| **Quelle Factcheck** | - (schriftlich) |
+| **Beweiswert** | 10/10 |
+| **Aktenzeichen** | 39 F 1/25 HK |
+
+### Das Problem: Punktuelle Tests vs. Absturztrinken
+
+**WAS KUHN VERSCHWEIGT:**
+
+| Fakt | Bedeutung |
+|------|-----------|
+| ETG (Ethylglucuronid) | Nur ca. 80 Stunden nachweisbar |
+| Punktuelle Tests | Zeigen NUR den Zustand am Testtag |
+| Absturztrinken (Binge Drinking) | Wird durch punktuelle Tests NICHT erfasst |
+| Testtermine | Sind der Mutter VORHER bekannt |
+
+### Die Realitaet: Polizeilich dokumentiert
+
+| Datum | Promille | Quelle |
+|-------|----------|--------|
+| 22.09.2022 | **1,99** | Polizeibericht (Nicolas 3 Jahre anwesend) |
+| September 2023 | **2,65** | Polizeibericht (HOEHER als 2022!) |
+
+### Die Taeuschung
+
+Kuhn schreibt ans Gericht:
+> "Keine Anhaltspunkte fuer Alkoholkonsum"
+
+**REALITAET:**
+- Zwei polizeilich dokumentierte Vorfaelle mit EXTREMEN Promillewerten
+- Kind jeweils anwesend
+- Werte STEIGEND (1,99 → 2,65)
+- Punktuelle Urintests koennen Absturztrinken NICHT nachweisen
+
+### Medizinische Erklaerung
+
+**Absturztrinken (Binge Drinking):**
+- Person trinkt nicht taeglich
+- Aber bei "Abstuerzen" extreme Mengen
+- Zwischen Abstuerzen: Tests negativ
+- Bei Abstuerzen: Kind in Gefahr
+
+**Urintest-Logik:**
+- Mutter weiss: Test am Montag
+- Mutter trinkt nicht Freitag-Sonntag
+- Test am Montag: NEGATIV
+- Mittwoch: 2,65 Promille mit Kind
+
+**→ TESTS BEWEISEN NICHTS!**
+
+### Verwendung
+
+| Wo | Wie |
+|----|-----|
+| **Plaedoyer** | "Das Jugendamt taeuscht das Gericht mit wertlosen Tests" |
+| **Gutachten** | "Punktuelle Urintests koennen Absturztrinken nicht nachweisen" |
+| **Antrag** | Forderung nach unangekuendigten Haar-Tests (ETG 3-6 Monate nachweisbar) |
+
+---
+
+## AUSSAGE 8: "Alkohol zu Erziehungsproblemen" (DIE UMDEKLARIERUNG)
+
+| Feld | Inhalt |
+|------|--------|
+| **Wortlaut** | "Alkohol Probleme sich entwickelt hat auf Erziehungsprobleme, wie heisst das, umgedeutet." (Kindesmutter berichtet ueber JA-Druck) |
+| **Datum** | 29.01.2025 |
+| **Quelle Genesis** | Transkript |
+| **Quelle Factcheck** | Audio 29.01.2025 (Snippet 670) |
+| **Beweiswert** | 10/10 |
+
+### Die Manipulation
+
+**Was das Jugendamt wollte:**
+- Alkoholproblem → "Erziehungsprobleme" umdeklarieren
+- Damit: Keine Inobhutnahme noetig
+- Damit: Keine Verantwortung fuer Jugendamt
+- Damit: Vater weiter als "Problem" darstellbar
+
+**Wer es bezeugt:**
+Die KINDESMUTTER SELBST berichtet von diesem Druck.
+
+### Bedeutung
+
+Das Jugendamt versucht aktiv, ein dokumentiertes Alkoholproblem zu VERTUSCHEN, indem es zu "Erziehungsproblemen" umdeklariert wird.
+
+**→ SYSTEMATISCHE VERTUSCHUNG UEBER JAHRE!**
+
+---
+
 ## ZUSAMMENFASSUNG
 
-| Aussage | Datum | Beweist |
-|---------|-------|---------|
-| Email ohne Widerspruch | 05.01.2023 | Kuhn WUSSTE SCHRIFTLICH |
-| "Sei dahingestellt" | 10.01.2023 | Kuhn WUSSTE MUENDLICH |
-| "erschien nicht" | 11.05.2023 | Kuhn SCHRIEB das Gegenteil |
-| "vor Gericht" | 29.01.2025 | Noetigung |
-| "sauer auf mich" | 29.01.2025 | Druck auf Beteiligte |
-| "Auftrag Kuhn" | 10.06.2024 | Kuhn steuert PRAKSYS |
-| "nicht zu denen" | 12/2022 | Manipulation |
+| # | Aussage | Datum | Beweist |
+|---|---------|-------|---------|
+| 0 | Email ohne Widerspruch | 05.01.2023 | Kuhn WUSSTE SCHRIFTLICH |
+| 1 | "Sei dahingestellt" | 10.01.2023 | Kuhn WUSSTE MUENDLICH |
+| 2 | "erschien nicht" | 11.05.2023 | Kuhn SCHRIEB das Gegenteil |
+| 3 | "vor Gericht" | 29.01.2025 | Noetigung |
+| 4 | "sauer auf mich" | 29.01.2025 | Druck auf Beteiligte |
+| 5 | "Auftrag Kuhn" | 10.06.2024 | Kuhn steuert PRAKSYS |
+| 6 | "nicht zu denen" | 12/2022 | Manipulation/Vertrauenserschleichung |
+| 7 | "Negative Testergebnisse" | 2023-2025 | URINTEST-TAEUSCHUNG |
+| 8 | "Alkohol zu Erziehungsproblemen" | 29.01.2025 | UMDEKLARIERUNG/Vertuschung |
 
-**Kernbeweis fuer Carius-Strafvereitelung:**
+---
+
+## ZWEI HAUPTSTRÄNGE DER FALSCHAUSSAGEN
+
+### Strang 1: Der 20.12.2022-Komplex
 Aussage 0 + Aussage 1 + Aussage 2 = DREIFACH nachweisbare Falschaussage
 
 **Der "Fette Kuh" Twist:**
 Die Beleidigung wurde NICHT angeklagt - weil der Kontext Kuhns Falschaussage entlarvt haette.
+
+### Strang 2: Die Alkohol-Vertuschung (UEBER JAHRE)
+Aussage 7 + Aussage 8 = Systematische Taeuschung des Gerichts
+
+**Das Muster:**
+- Punktuelle Urintests die Absturztrinken NICHT nachweisen koennen
+- Polizeilich dokumentiert: 1,99 Promille (2022), 2,65 Promille (2023)
+- Kuhn schreibt ans Gericht: "Keine Anhaltspunkte fuer Alkoholkonsum"
+- Aktiver Versuch, Alkohol zu "Erziehungsproblemen" umzudeklarieren
+
+**→ SYSTEMATISCHE KINDESWOHLGEFAEHRDUNG DURCH VERTUSCHUNG!**

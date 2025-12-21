@@ -47,6 +47,36 @@ Carius ist der Staatsanwalt, der:
 
 ---
 
+## Schluesselaussagen (dokumentiert)
+
+### 1. "DER MILCHPACKUNGS-SATZ" (11.08.2025)
+
+> "Dem Jugendamt obliegt die Einschaetzung einer Verdachtslage im Hinblick auf potentielle Kindeswohlgefaehrdungen und die Durchfuehrung der weiteren Massnahmen zum Schutze des Kindes."
+
+**Bedeutung:** Staatsanwalt bestaetigt schriftlich: Das Jugendamt kontrolliert sich selbst. Niemand prueft, niemand haftet.
+
+**Quelle:** `extracted/2025-08-11_Sta-Saarbrücken_Carius_Einstellung_Kuhn_Kein-Anfangsverdacht.txt`
+
+### 2. Vier Einstellungen am selben Tag (11.08.2025)
+
+| Person | Dokument |
+|--------|----------|
+| Kuhn | `2025-08-11_Sta-Saarbrücken_Carius_Einstellung_Kuhn_Kein-Anfangsverdacht.txt` |
+| Schallenberg | `2025-08-11_Sta-Saarbrücken_Carius_Einstellung_Schallenberg_Kein-Anfangsverdacht.txt` |
+| Brand | `2025-08-11_Sta-Saarbrücken_Carius_Einstellung_Brand.txt` |
+| Berg | `2025-08-11_Sta-Saarbrücken_Carius_Einstellung_Berg.txt` |
+
+**Bedeutung:** Copy-Paste-Justiz. Vier Personen, vier Vorwuerfe - alle am SELBEN TAG mit identischer Begruendung eingestellt.
+
+### 3. "Strafverfahren ist nicht zur Ueberpruefung zustaendig"
+
+> "Darueber hinaus ist das Strafverfahren nicht zur Ueberpruefung einer gerichtlichen Entscheidung des Familiengerichts zustaendig."
+
+**Bedeutung:** Ausrede zur Nicht-Verfolgung von Straftaten (Falschaussagen, Urkundendelikte) die im Familienverfahren begangen wurden.
+
+---
+
 ## Verknuepfte Dateien
 
 - 03_diskrepanzen_taetlicher-angriff.md (Hauptanalyse)
+- 06_aussagen.md (Alle dokumentierten Aussagen)

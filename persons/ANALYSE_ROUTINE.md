@@ -186,6 +186,19 @@ Prioritaet nach Relevanz:
 1. Lena Kuhn (erledigt)
 2. Richter Hellenthal (276 mentions)
 3. Jaqueline Spang-Heidecker (236 mentions)
-4. Nina Meiser (41 mentions)
-5. Beate Brand (33 mentions)
-6. Bohnenberger (zu ermitteln)
+4. Nina Meiser (erledigt - 20.12.2025)
+5. Beate Brand (erledigt)
+6. Bohnenberger (erledigt)
+7. Staatsanwalt Carius (erledigt - inkl. 06_aussagen)
+
+---
+
+## Beispiel: 06_aussagen.md
+
+Siehe: `/persons/Staatsanwalt_Carius/06_aussagen.md`
+
+Dieses Dokument zeigt das Format fuer woertliche Aussagen:
+- Exakter Wortlaut
+- Datum und Quelle
+- Beweiswert (1-10)
+- Verwendungszweck (Plaedoyer, Presse, Petition)

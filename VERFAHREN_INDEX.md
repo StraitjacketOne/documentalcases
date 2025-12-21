@@ -1,6 +1,6 @@
 # VERFAHREN INDEX
 
-Stand: 2025-12-16
+Stand: 2025-12-20
 
 ---
 
@@ -173,10 +173,24 @@ Stand: 2025-12-16
 - **Status**: Klageerzwingung beim OLG beantragt
 - **Dokumente**: `extracted/*Js1785*`
 
-### 15 Js 1694/24 - ANZEIGE MEISER (JUGENDAMT)
-- **Gegenstand**: Strafanzeige gegen Meiser (Amtsvergehen)
-- **Status**: ?
-- **Dokumente**: `extracted/*15Js1694*`
+### 15 Js 1694/24 - ANZEIGE NINA MEISER (JUGENDAMT)
+- **Gegenstand**: Strafanzeige gegen Nina Meiser (Sachbearbeiterin Jugendamt)
+- **Staatsanwaeltin**: Schlemmer
+- **Anzeige erstattet**: 18.10.2024
+- **Status**: Laufend - Frist bis 21.09.2025 fuer weitere Unterlagen
+- **Vorwuerfe**:
+  - § 258a StGB: Strafvereitelung im Amt
+  - § 323c StGB: Unterlassene Hilfeleistung
+  - § 13 i.V.m. §§ 223, 229 StGB: Koerperverletzung durch Unterlassen
+  - § 153 StGB: Uneidliche Falschaussage vor Gericht
+  - § 187 StGB: Verleumdung vor Gericht
+- **Kernvorwuerfe**:
+  - Ignorierte 24 Gefaehrdungs-Sprachnachrichten (01.09.2022)
+  - Verschwieg 1,99-Promille-Vorfall der Kindesmutter (22.09.2022)
+  - Falschaussage vor Gericht (25.10.2022, Richter Hellenthal)
+  - Verzerrte Dokumentation ("psychischer Ausnahmezustand")
+- **Personenakte**: `persons/Nina_Meiser/`
+- **Dokumente**: `extracted/*15Js1694*`, `extracted/2024-10-18_StA-Saarbrücken_Jäckel_Strafanzeige-Meiser*`
 
 ### 303 Js 8/25 - DIENSTAUFSICHT SCHÖNE/CARIUS
 - **Gegenstand**: Dienstaufsichtsbeschwerde gegen StA Schöne wegen Carius
@@ -221,9 +235,23 @@ Staatsanwalt Carius hat mehrere Anzeigen eingestellt wegen "kein Anfangsverdacht
 - **Carius** - StA Saarbrücken - stellt alles ein, ermittelt gegen Mark
 
 ### Jugendamt
-- **Kuhn** - Hauptsachbearbeiterin, wusste spätestens 10.01.2023 von Missständen
-- **Meiser** - Amtsvergehen-Anzeige
+- **Bluth, Heiko** - **Sachbereichsleiter Jugendschutz** (ab 14.09.2022)
+  - **PROZESSBETRUG** am 25.10.2022 (Richter Hellenthal)
+  - "Alles begann mit einem Stick" - Victim Blaming
+  - "Keine Ausfallerscheinungen" bei 1,99 Promille - Verharmlosung
+  - **AUTO-ANGRIFF** am 04.05.2023 vor Gericht - Zeugen, Polizei
+  - → `persons/Heiko_Bluth/`
+- **Kuhn, Lena** - Hauptsachbearbeiterin, wusste spätestens 10.01.2023 von Missständen → `persons/Lena_Kuhn/`
+- **Meiser, Nina** - Sachbearbeiterin Sept-Okt 2022, Nachfolgerin von Eichberger
+  - Strafanzeige 15 Js 1694/24 (StA Schlemmer) - LAUFEND
+  - Ignorierte Gefaehrdungsmeldungen, verschwieg 1,99-Promille-Vorfall
+  - Falschaussage vor Gericht (25.10.2022)
+  - → `persons/Nina_Meiser/`
 - **Schallenberg** - Falschaussagen
+- **Brandt, Beate** - Amtsleiterin, Vorgesetzte aller Sachbearbeiter → `persons/Beate_Brandt/`
+- **Eichberger, Alexander** - Vorgaenger von Meiser (Sept 2022 ausgeschieden)
+- **Stolz, Adrian** - Kollege von Meiser (anwesend 05.10.2022 bei Umgangsverweigerung)
+- **Hoecke** - Mitarbeiter (von Bluth erwaehnt: "Pausenclown/Schnecki")
 
 ### Anwälte
 - **Müller** (erster Versuch):
