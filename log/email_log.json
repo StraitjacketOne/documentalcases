@@ -1213,8 +1213,255 @@
       "document_id": "9636a713-cab9-4a65-9f9f-013a45df6ca5",
       "status": "imported",
       "imported_at": "2025-12-20T20:17:24.960876"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQwAAAAeQ1zEQvjFTJYRzee0RVBSAAdEBfKXAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQwAAAAeQ1zEQvjFTJYRzee0RVBSAAdEBfKXAAAA",
+      "internet_message_id": "<c7e14c55925341c8b728954496a728d8@polizei.slpol.de>",
+      "subject": "Übersendung Beweismittel",
+      "from": "PI-SB-STADT-KD-SG2@polizei.slpol.de",
+      "from_name": "Pi Sb Stadt Kd Sg2",
+      "to": [
+        "mark.jaeckel@hotmail.com"
+      ],
+      "cc": [],
+      "date": "2023-06-01T08:15:02Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-06-01_Pi-Sb-Stadt-Kd-Sg2_Übersendung-Beweismittel.eml",
+      "sha256": "56bec38a11d9f96116c90cdc4f8862ff5609c8c18081ffe0b751d0fde079f1f0",
+      "has_attachments": false,
+      "document_id": "8714dbe6-9130-4807-8fb2-a748d9d8d6cc",
+      "status": "imported",
+      "imported_at": "2025-12-20T21:33:21.688702"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAdEBoVoAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAdEBoVoAAAA",
+      "internet_message_id": "<DB9PR08MB94654F3BEB04580F10E3B2E29B499@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "AW: Übersendung Beweismittel",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "PI-SB-STADT-KD-SG2@polizei.slpol.de"
+      ],
+      "cc": [],
+      "date": "2023-06-01T19:36:35Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-06-01_Mark-Jaeckel_AW-Übersendung-Beweismittel.eml",
+      "sha256": "3c72b7861c8fc9f261cfdd531df7fb5beba4af01994adb77455e37102e157175",
+      "has_attachments": false,
+      "document_id": "33bfee26-f452-4859-a2f0-574ab14d90ea",
+      "status": "imported",
+      "imported_at": "2025-12-20T21:34:00.055148"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQwAAAAeQ1zEQvjFTJYRzee0RVBSAAdLRif-AAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQwAAAAeQ1zEQvjFTJYRzee0RVBSAAdLRif-AAAA",
+      "internet_message_id": "<8011a121d0e7460e91e96ddfcfc414f1@polizei.slpol.de>",
+      "subject": "AW: Übersendung Beweismittel",
+      "from": "PI-SB-STADT-KD-SG2@polizei.slpol.de",
+      "from_name": "Pi Sb Stadt Kd Sg2",
+      "to": [
+        "mark.jaeckel@hotmail.com"
+      ],
+      "cc": [],
+      "date": "2023-06-12T09:33:24Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-06-12_Pi-Sb-Stadt-Kd-Sg2_AW-Übersendung-Beweismittel.eml",
+      "sha256": "80f7dcd5cec44aa178d353daf65670caef9eeb1700738fdc9f198f8a54153c2a",
+      "has_attachments": false,
+      "document_id": "3b030c9f-e534-452d-b3a8-2e9ac5d8a1f9",
+      "status": "imported",
+      "imported_at": "2025-12-20T21:34:02.389896"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAd9y2lAAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAd9y2lAAAAA",
+      "internet_message_id": "<DB9PR08MB9465A1F59DD87F4FA341A9059BE7A@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "AW: Übersendung Beweismittel",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "PI-SB-STADT-KD-SG2@polizei.slpol.de"
+      ],
+      "cc": [],
+      "date": "2023-08-29T10:09:33Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2023-08-29_Mark-Jaeckel_AW-Übersendung-Beweismittel.eml",
+      "sha256": "25c4d31521ab3388cf4ef7e233d6654c00dfb3ee9b74a7a67e164af709464433",
+      "has_attachments": false,
+      "document_id": "0d3a994a-f6d8-444d-8a28-5b856f963c29",
+      "status": "imported",
+      "imported_at": "2025-12-20T21:34:03.408727"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAkq0sTOAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAkq0sTOAAAA",
+      "internet_message_id": "<DB9PR08MB9465D42307580EE529E393769B6EA@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "AW: Vorladung Zeugenvernehmung VN 937043/17042025/1000",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "PI-SB-Stadt-KED-SG3@polizei.slpol.de"
+      ],
+      "cc": [],
+      "date": "2025-06-06T06:47:12Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2025-06-06_Mark-Jaeckel_AW-Vorladung-Zeugenvernehmung-VN-93704317042025100.eml",
+      "sha256": "63531bbe21619e9469822f092a2f94220cc2dec1db3fa9d6776f299014295be2",
+      "has_attachments": false,
+      "document_id": "523645ad-2f0d-4c7c-9a6a-d8862ef14b23",
+      "status": "imported",
+      "imported_at": "2025-12-20T21:34:05.596956"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAkq0sTPAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAkq0sTPAAAA",
+      "internet_message_id": "<DB9PR08MB9465975CB7896BC2F1A4847F9B6EA@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "WG: Übersendung Beweismittel",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "PI-SB-Stadt-KED-SG3@polizei.slpol.de"
+      ],
+      "cc": [],
+      "date": "2025-06-06T08:57:36Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2025-06-06_Mark-Jaeckel_WG-Übersendung-Beweismittel.eml",
+      "sha256": "d3a7db2a9775b5a3c6d242b08de3c0f97456682cf9ed343de89dd09c488a4f5c",
+      "has_attachments": false,
+      "document_id": "59f86894-8bb3-4162-8ef2-c62f0486336a",
+      "status": "imported",
+      "imported_at": "2025-12-20T21:34:06.993200"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAkq0sTRAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAkq0sTRAAAA",
+      "internet_message_id": "<DB9PR08MB94652B1DA021153A63F4F8B09B6EA@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "WG: Übersendung Beweismittel",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "PI-SB-Stadt-KED-SG3@polizei.slpol.de"
+      ],
+      "cc": [],
+      "date": "2025-06-06T09:02:01Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2025-06-06_Mark-Jaeckel_WG-Übersendung-Beweismittel.eml",
+      "sha256": "9393fda3c7d5381942a15ea8e42ed37f4cf208c1b0b1e54a29ba70ac0567f51d",
+      "has_attachments": false,
+      "document_id": "9daf1dd6-6c2a-41c4-8a88-b903e6043c00",
+      "status": "imported",
+      "imported_at": "2025-12-20T21:34:08.192314"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAkq0sTUAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAkq0sTUAAAA",
+      "internet_message_id": "<DB9PR08MB94656D427ACD6AD97B95E99E9B6EA@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "Danke für den Versuch",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "PI-SB-Stadt-KED-SG3@polizei.slpol.de"
+      ],
+      "cc": [],
+      "date": "2025-06-06T09:42:22Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2025-06-06_Mark-Jaeckel_Danke-für-den-Versuch.eml",
+      "sha256": "cfdfb0852ce76078edea30d9412992080193813dd4354796c3774f210f574a93",
+      "has_attachments": false,
+      "document_id": "6576f741-252a-4129-8733-77fcabab62a4",
+      "status": "imported",
+      "imported_at": "2025-12-20T21:34:10.247037"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQwAAAAeQ1zEQvjFTJYRzee0RVBSAAkq0mK1AAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQwAAAAeQ1zEQvjFTJYRzee0RVBSAAkq0mK1AAAA",
+      "internet_message_id": "<13b7c9b927264128b23ef5d223d5bf68@polizei.slpol.de>",
+      "subject": "AW: Danke für den Versuch",
+      "from": "PI-SB-Stadt-KED-SG3@polizei.slpol.de",
+      "from_name": "Pi Sb Stadt Ked Sg3",
+      "to": [
+        "mark.jaeckel@hotmail.com"
+      ],
+      "cc": [],
+      "date": "2025-06-06T10:30:29Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2025-06-06_Pi-Sb-Stadt-Ked-Sg3_AW-Danke-für-den-Versuch.eml",
+      "sha256": "348202607d261980dd850407c6bc3ee50f420e69931c3ca28853b163fd72e2f3",
+      "has_attachments": false,
+      "document_id": "40bc9f44-89e0-4a4d-9b76-cfee13194fa1",
+      "status": "imported",
+      "imported_at": "2025-12-20T21:34:11.460238"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAkq0sTVAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAkq0sTVAAAA",
+      "internet_message_id": "<DB9PR08MB94656FFCFB209D6DE468AAED9B69A@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "AW: Danke für den Versuch",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "PI-SB-Stadt-KED-SG3@polizei.slpol.de"
+      ],
+      "cc": [],
+      "date": "2025-06-07T07:04:21Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2025-06-07_Mark-Jaeckel_AW-Danke-für-den-Versuch.eml",
+      "sha256": "179a7e06c800d677d1b8bd61b01d769d96c5c9a8c5757e880452dfc69bab2699",
+      "has_attachments": false,
+      "document_id": "c3e5710d-18e5-447b-8480-954bfb18f9d8",
+      "status": "imported",
+      "imported_at": "2025-12-20T21:34:12.575355"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAkvmDT4AAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAkvmDT4AAAA",
+      "internet_message_id": "<DB9PR08MB94657798BC89423B2B56C5AE9B77A@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "AW: Danke für den Versuch",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "PI-SB-Stadt-KED-SG3@polizei.slpol.de"
+      ],
+      "cc": [],
+      "date": "2025-06-13T12:39:07Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2025-06-13_Mark-Jaeckel_AW-Danke-für-den-Versuch.eml",
+      "sha256": "320ba8e7593aefc38de51b7273009272ddf68f2639ae11410d19dcfbe8996776",
+      "has_attachments": false,
+      "document_id": "e814e55c-4b73-4fcd-8349-f718258b19b5",
+      "status": "imported",
+      "imported_at": "2025-12-20T21:34:13.721237"
+    },
+    {
+      "id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAhnTWZcAAAA",
+      "outlook_id": "AQMkADAwATY0MDABLWQ1M2EtMDVhZS0wMAItMDAKAEYAAAPdVQ3-rwx-Qq9mmFuWa07jBwAeQ1zEQvjFTJYRzee0RVBSAAACAQkAAAAeQ1zEQvjFTJYRzee0RVBSAAhnTWZcAAAA",
+      "internet_message_id": "<DB9PR08MB946506D73374C80ACDE13F929B812@DB9PR08MB9465.eurprd08.prod.outlook.com>",
+      "subject": "AZ: 7 Gs 98 Js 23/24 (442/24)",
+      "from": "mark.jaeckel@hotmail.com",
+      "from_name": "Mark Jaeckel",
+      "to": [
+        "poststelle@sta.justiz.saarland.de"
+      ],
+      "cc": [],
+      "date": "2024-08-16T05:30:30Z",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2024-08-16_Mark-Jaeckel_AZ-7-Gs-98-Js-2324-(44224).eml",
+      "sha256": "e25237290ee2b564d1e4a0d36f7ae4124cb171ad0c75697facbeafa7f9fccf49",
+      "has_attachments": true,
+      "document_id": "18164d05-1856-46a4-8d82-40892e35506d",
+      "status": "imported",
+      "imported_at": "2025-12-20T22:31:02.554428"
+    },
+    {
+      "id": "Ende",
+      "outlook_id": "Ende",
+      "internet_message_id": "<trinity-34629ae4-b0ae-4e20-b144-c8276f6a8fd5-1672133278245@3c-app-webde-bs39>",
+      "subject": "Ende",
+      "from": "markjaeckel@web.de",
+      "from_name": "Mark Jäckel",
+      "to": [
+        "p.frevel@t-online.de"
+      ],
+      "cc": [],
+      "date": "2022-12-27T10:27:58+01:00",
+      "file_path": "I:\\data\\documents\\evidence\\raw\\2022-12-27_Mark-Jäckel_Ende.eml",
+      "sha256": "0c28b7aadfd57d982ac708226ecf7f77a4d3da78a89948d93e092666f6cdde57",
+      "has_attachments": false,
+      "document_id": "6442e24d-0eec-45c9-9c28-3aaa71a366b9",
+      "status": "imported",
+      "imported_at": "2025-12-21T10:26:43.330850"
     }
   ],
   "created": "2025-12-20T15:31:21.454168",
-  "last_updated": "2025-12-20T20:17:24.960876"
+  "last_updated": "2025-12-21T10:26:43.330850"
 }
