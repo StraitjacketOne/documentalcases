@@ -1,8 +1,16 @@
 # Truthkeeper - Beweiskette-Routine
 
 **Erstellt:** 2025-12-18
-**Version:** 1.0
+**Version:** 1.1
 **Zweck:** Gerichtstaugliche Verbindung zwischen Taeter und Schuetzer herstellen
+
+---
+
+> **HINWEIS:** Alle Routinen auf einen Blick: [../ROUTINES.md](../ROUTINES.md)
+>
+> Personen analysieren: [ANALYSE_ROUTINE.md](ANALYSE_ROUTINE.md)
+>
+> **ABLAGEORT:** Alle fertigen Beweisketten: [../evidence/beweisketten/](../evidence/beweisketten/)
 
 ---
 
@@ -43,7 +51,7 @@ Fragen:
 
 ## Schritt 3: Beweiskette dokumentieren
 
-Erstelle: `evidence/BEWEISKETTE_[PersonA]-[PersonB]_[Paragraph].md`
+Erstelle: `evidence/beweisketten/BEWEISKETTE_[PersonA]-[PersonB]_[Paragraph].md`
 
 ### Struktur:
 

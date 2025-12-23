@@ -4,6 +4,16 @@
 
 ---
 
+> **ROUTINEN-UEBERSICHT:** [../ROUTINES.md](../ROUTINES.md)
+>
+> **Audio-Integration (TECHNISCH):** [../evidence/AUDIO_INTEGRATION.md](../evidence/AUDIO_INTEGRATION.md)
+>
+> Personen analysieren: [../persons/ANALYSE_ROUTINE.md](../persons/ANALYSE_ROUTINE.md)
+>
+> Beweisketten erstellen: [../persons/BEWEISKETTE_ROUTINE.md](../persons/BEWEISKETTE_ROUTINE.md)
+
+---
+
 ## Worum es hier geht
 
 Ein Vater (Mark Jaeckel) kaempft seit 2022 um seinen Sohn Nicolas.

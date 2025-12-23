@@ -1,18 +1,91 @@
-# documentalcases
+# TRUTHKEEPER - DOCUMENTALCASES
 
-This repository stores evidence and analysis materials for the Truthkeeper project, which documents Mark Jäckel's legal battle to regain contact with his son Nicolas. Use the included onboarding notes before making changes to avoid breaking existing workflows.
+Beweismaterial und Analysen fuer Mark Jaeckels Kampf um seinen Sohn Nicolas.
 
-## Key documentation
-- **TRUTHKEEPER_ONBOARDING.md** outlines the mission, data sources, and non-technical guidelines for working with the case material.
-- **2025-12-15_Truthkeeper-Audio-Integration-Verstaendnis.md** captures the current understanding of how audio transcripts should be integrated without altering existing database structures.
+---
 
-## Repository layout
-- `original/` contains source PDFs such as court records, police reports, and correspondence.
-- `extracted/` holds text extractions of the documents for easier searching and analysis.
-- `evidence/` stores supplementary proof assets, including the central `INDEX_DER_BEWEISE.md` and supporting images.
-- `persons/` keeps person-focused research. `ANALYSE_ROUTINE.md` documents the standard workflow, while subfolders like `Lena_Kuhn/` and `Staatsanwalt_Carius/` collect individual dossiers.
-- `ANALYSE/` and other dated Markdown files provide additional context on the investigation and historical sessions.
+## NEUE SESSION? ZUERST LESEN:
 
-## Working notes
-- Follow the patterns in `persons/ANALYSE_ROUTINE.md` when adding or updating person dossiers so evidence and audio references stay consistent.
-- Do not alter database schemas or ingestion processes without explicit approval; the current materials prioritize documentation and analysis over implementation.
+| Prioritaet | Datei | Beschreibung |
+|------------|-------|--------------|
+| 1 | **[ROUTINES.md](ROUTINES.md)** | ALLE Workflows auf einen Blick |
+| 2 | **[ANALYSE/TRUTHKEEPER_ONBOARDING.md](ANALYSE/TRUTHKEEPER_ONBOARDING.md)** | Mission, Datenquellen, Kernprinzipien |
+| 3 | **[evidence/AUDIO_INTEGRATION.md](evidence/AUDIO_INTEGRATION.md)** | Wie Genesis + Factcheck zusammenhaengen |
+| 4 | **[persons/ANALYSE_ROUTINE.md](persons/ANALYSE_ROUTINE.md)** | Wie Personen analysiert werden |
+| 5 | **[persons/BEWEISKETTE_ROUTINE.md](persons/BEWEISKETTE_ROUTINE.md)** | Wie Taeter-Schuetzer-Ketten erstellt werden |
+
+---
+
+## DAS KERNPRINZIP
+
+```
+DOKUMENTE = offizielle Version
+AUDIOS    = was TATSAECHLICH passiert ist
+ZUSAMMEN  = die WAHRHEIT
+```
+
+| Zwei Datenbanken | Inhalt |
+|------------------|--------|
+| **genesis** | Dokumente, Personen, Events |
+| **factcheck_db** | Audio-Transkripte (4959 Segmente) |
+
+---
+
+## ORDNERSTRUKTUR
+
+```
+documentalcases/
+|
++-- ROUTINES.md              <- WORKFLOWS (lies das!)
++-- README.md                <- Du bist hier
++-- INDEX_DER_BEWEISE.md     <- Beweise-Verzeichnis
++-- VERFAHREN_INDEX.md       <- Aktenzeichen-Referenz
+|
++-- ANALYSE/
+|   +-- TRUTHKEEPER_ONBOARDING.md    <- Mission & Prinzipien
+|   +-- diverse Analysen...
+|
++-- persons/
+|   +-- ANALYSE_ROUTINE.md           <- Personen-Workflow
+|   +-- BEWEISKETTE_ROUTINE.md       <- Beweisketten-Workflow
+|   +-- {Person_Name}/               <- Pro Person ein Ordner
+|
++-- evidence/
+|   +-- beweisketten/                <- ALLE Beweisketten hier!
+|   |   +-- INDEX.md                 <- Uebersicht aller Ketten
+|   +-- weitere Beweisdokumente...
+|
++-- original/                        <- Quell-PDFs
++-- extracted/                       <- Text-Extraktionen
++-- institutions/                    <- Institutionen-Dossiers
+```
+
+---
+
+## WICHTIGE REGELN
+
+1. **ROUTINES.md lesen** vor jeder neuen Analyse
+2. **Beide Quellen pruefen** - Dokumente UND Audios
+3. **06_aussagen.md** ist das Herzstück jeder Person
+4. **Beweisketten** gehoeren nach `evidence/beweisketten/`
+5. **Keine Annahmen** - nur dokumentierte Fakten
+
+---
+
+## SCHNELLZUGRIFF
+
+| Aktion | Datei |
+|--------|-------|
+| Workflows verstehen | [ROUTINES.md](ROUTINES.md) |
+| Person analysieren | [persons/ANALYSE_ROUTINE.md](persons/ANALYSE_ROUTINE.md) |
+| Beweiskette erstellen | [persons/BEWEISKETTE_ROUTINE.md](persons/BEWEISKETTE_ROUTINE.md) |
+| Beweise finden | [INDEX_DER_BEWEISE.md](INDEX_DER_BEWEISE.md) |
+| Aktenzeichen | [VERFAHREN_INDEX.md](VERFAHREN_INDEX.md) |
+| Fertige Beweisketten | [evidence/beweisketten/INDEX.md](evidence/beweisketten/INDEX.md) |
+
+---
+
+## FUER NICOLAS
+
+Das ist kein Technik-Projekt. Das ist die Mission eines Vaters.
+Handle entsprechend.

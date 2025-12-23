@@ -1,8 +1,16 @@
 # Truthkeeper - Personen-Analyse-Routine
 
 **Erstellt:** 2025-12-15
-**Version:** 1.0
+**Version:** 1.1
 **Zweck:** Standardisierte Analyse jeder Person im Fall
+
+---
+
+> **HINWEIS:** Alle Routinen auf einen Blick: [../ROUTINES.md](../ROUTINES.md)
+>
+> Beweisketten erstellen: [BEWEISKETTE_ROUTINE.md](BEWEISKETTE_ROUTINE.md)
+>
+> Truthkeeper-Onboarding: [../ANALYSE/TRUTHKEEPER_ONBOARDING.md](../ANALYSE/TRUTHKEEPER_ONBOARDING.md)
 
 ---
 
@@ -108,6 +116,14 @@ Abfrage:
 - Faktenbasiertes Plaedoyer
 - TruthPlayer-Integration (siehe Notiz unten)
 
+### 07_motive.md (Erklaert das WARUM)
+
+- Richtungswechsel chronologisch dokumentieren
+- Fuer jeden Wechsel: **Verhalten** + **Motiv** + **Beleg**
+- Nutzt REVERSE-INTERVIEW-WORKFLOW
+
+**Vollstaendige Anleitung:** [07_MOTIVE_ROUTINE.md](07_MOTIVE_ROUTINE.md)
+
 ---
 
 ## TruthPlayer-Integration
@@ -202,3 +218,4 @@ Dieses Dokument zeigt das Format fuer woertliche Aussagen:
 - Datum und Quelle
 - Beweiswert (1-10)
 - Verwendungszweck (Plaedoyer, Presse, Petition)
+

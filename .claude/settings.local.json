@@ -9,7 +9,8 @@
       "Bash(docker ps:*)",
       "Bash(dir:*)",
       "Bash(wsl ls:*)",
-      "Bash(wsl:*)"
+      "Bash(wsl:*)",
+      "Bash(mkdir:*)"
     ],
     "deny": [],
     "ask": []
