@@ -116,9 +116,24 @@ Laut Stolz' Email vom 10.02.2023: "Diese Beleidigungen und Bedrohungen halten sc
 
 Stattdessen beginnt die Anklage mit dem 11.11.2022 - NACH dem Vorfall, bei dem Stolz Mark unter Druck setzte.
 
+### Abgleich mit der Anklageschrift
+
+- **Suchergebnis:** In der Anklageschrift vom 12.03.2023 werden nur Vorfälle vom 07.09.2021 und 05.05.2022 angeklagt; ein Umgangstermin vom 05.10.2022 erscheint nicht. 【F:extracted/2023-03-12_AG-Saarbrücken_Jäckel_Anklageschrift_Koerperverletzung_131Ds21Js1120-22.txt†L67-L149】
+
+### Beweismittel zum 05.10.2022
+
+| Datum | Quelle | Inhalt | Relevanz |
+|-------|--------|--------|----------|
+| 05.10.2022 | Audio-Transkript `2022-10-05 Meierland-Stolz-und-Vorurteil.txt` | Dialog im Jugendamt: Stolz/Meiser drohen mit Abbruch des Umgangs, fordern Mark zum Ruhigsein auf („hoere zu, sonst schmeiße ich Sie raus“, „dann ist das hiermit erledigt“). | Belegt, dass Stolz aktiv in den Umgang eingriff und Druck ausübte. 【F:evidence/2022-10-05 Meierland-Stolz-und-Vorurteil.txt†L3-L116】 |
+
 ### Frage
 
 Wurde der 05.10.2022 absichtlich ausgelassen, um Stolz' eigenes Fehlverhalten zu verschleiern?
+
+### Bewertung und Folgen
+
+- **Einfluss auf Tatvorwurf:** Das Weglassen des 05.10.2022 entfernt den Kontext, dass Stolz selbst aktiv in die Umgangssituation eingriff und Mark unter Druck setzte. Dadurch wirkt die Anklage, als habe die Eskalation erst mit den Telefonaten ab 11.11.2022 begonnen.
+- **Ermittlungsbedarf:** Nachvernehmung von Stolz/Meiser zu Ablauf und Dokumentation des 05.10.2022 anregen und das Audio-Protokoll als Beweis einbringen, um das Vorfeld der späteren Vorwürfe vollständig zu erfassen. Sollte sich daraus eine relevante Pflichtverletzung ergeben, Ergänzung der Anklage bzw. Erweiterung der Beweisaufnahme beantragen.
 
 ---
 
