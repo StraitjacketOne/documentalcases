@@ -92,6 +92,16 @@ Die angebliche Jacke wurde **nie als Beweisstück gesichert**.
 
 Wenn es ein Brandloch gäbe, wäre die Jacke das wichtigste Beweisstück. Wo ist sie?
 
+### Recherche 2025-08-29: Asservatenliste ohne Jacke
+
+- Das Sicherstellungs-/Asservatenprotokoll (POLSL 1440 / 2020, 29.08.2025) listet ausschließlich Elektronik, Datenträger, Haushaltsgeräte und Cannabis – **kein Kleidungsstück, keine Jacke**.【F:extracted/2025-08-29_PI-Burbach_Re_Asservate_Jaeckel.txt†L53-L254】
+- Damit fehlt das einzig sinnvolle Beweisstück für das behauptete Brandloch. Die Asservatenliste entkräftet implizit, dass ein Brandloch dokumentiert oder fotografiert wurde.
+- **Fehlendes Asservat dokumentieren:** Jacke (angeblich Brandloch von KOK Richter) – nicht sichergestellt, nicht fotografiert, in keiner Liste geführt.
+
+### Vernehmungsfrage für Ermittlungsleitfaden
+
+> Warum taucht eine angeblich verbrannte Jacke erst in der Anklageschrift auf, obwohl sie weder am 18.03.2024 gesichert noch in späteren Asservaten-/Fotolisten (29.08.2025) auftaucht? Wer hat entschieden, das Kleidungsstück nicht zu sichern?
+
 ---
 
 ## Diskrepanz 4: Die physische Unmöglichkeit
@@ -109,6 +119,12 @@ Also: Mark zielte auf Welde, traf aber KOK Richter.
 2. Wie kann man auf Person A zielen und Person B treffen?
 3. Mit fixierten Händen?
 4. Und dann noch ein "Brandloch" verursachen?
+
+### Belastbarkeit der Brandloch-Behauptung
+
+- **Anklageschrift Carius (19.09.2025):** Zigarette trifft angeblich Richters Jacke, Brandloch entsteht.【F:extracted/2025-09-19_Sta-Saarbrücken_Carius-Erneute-Verfolgung-unschuldiger.txt†L50-L66】
+- **Zeitnahe Stellungnahme Jäckel (22.05.2024):** Er wirft Zigarette auf den Tisch, um ein Brandloch auf der Couch zu vermeiden; Welde versucht seinen Kollegen zu "überzeugen", spricht selbst von „Brandloch in der Jacke“, Richter reagiert nicht und trug laut Jäckel keine Jacke.【F:extracted/2024-05-22_PI-Saarbrücken_Jäckel_Stellungnahme_Zigaretten-Vorwurf_Bier-Vorladung.txt†L52-L59】
+- **Keine ergänzenden Beweise:** Keine Fotos, keine Videos, keine weiteren Zeugenaussagen oder Protokolle belegen das angebliche Brandloch. Die vorhandenen Akten stützen eher das Gegenteil (Verhinderung eines Brandlochs, keine Jacke am Einsatzort, fehlendes Asservat).
 
 ---
 
