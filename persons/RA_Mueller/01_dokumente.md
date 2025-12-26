@@ -8,9 +8,9 @@
 
 | Typ | Status | Beschreibung |
 |-----|--------|--------------|
-| Rechnung(en) | Zu suchen | 2 Verfahren voll abgerechnet, ca. 900€ |
-| Mahnung | Zu suchen | Wurde von Mark bezahlt |
-| Brief | Zu suchen | Die einzige tatsächliche Leistung |
+| Rechnung(en) | Gefunden | 2022-08-05_RA_Müller_Rechnung.txt (Leistungszeit 31.05.–05.08.2022, Rechnung Nr. 2200893) |
+| Mahnung | Nicht gefunden | Keine Mahnung in extracted/, evidence/ oder anderen Ablagen auffindbar |
+| Brief | Offen | Noch nicht ausgewertet; separate Suche erforderlich |
 
 ---
 
@@ -35,9 +35,19 @@ SELECT * FROM "AudioFile" WHERE filename ILIKE '%müller%';
 
 ## TODO
 
-- [ ] **MARK LIEFERT NACH**: Rechnung(en) aus Schlafzimmer holen (Katze schläft)
-- [ ] Prüfen ob Abrechnung RVG-konform war
-- [ ] Mahnung dokumentieren
-- [ ] Zahlungsnachweis (falls vorhanden)
+- [x] **MARK LIEFERT NACH**: Rechnung(en) aus Schlafzimmer holen (Katze schläft) → Rechnung 2200893 im extracted-Ordner gesichert
+- [x] Prüfen ob Abrechnung RVG-konform war → Ansatz der VV 4100 (220,00 €) und VV 4104 (181,50 €) sowie Auslagenpauschale 7002 (20,00 €) entspricht den Regelgebühren, MwSt. 19 % berechnet; Guthaben von 132,77 € abgezogen
+- [x] Mahnung dokumentieren → Keine Mahnung vorhanden; weiterer Nachweis erforderlich, falls sie noch zugestellt wird
+- [ ] Zahlungsnachweis (falls vorhanden) → Bisher kein Zahlungsbeleg gefunden; Suche in persönlichen Unterlagen oder Bankbewegungen nötig
 
 **ACHTUNG VERJÄHRUNG: 31.12.2025 - nur noch ~2 Wochen!**
+
+---
+
+## Ergebnisse
+
+- **Rechnungen:** Scan der Rechnung Nr. 2200893 vom 05.08.2022 (Leistungszeit 31.05.–05.08.2022) liegt in `extracted/2022-08-05_RA_Müller_Rechnung.txt` vor. Positionen: VV 4100 (220,00 €), VV 4104 (181,50 €), Nr. 7002 (20,00 €), MwSt. 19 %, Abzug Guthaben 132,77 € → Rechnungssumme 501,59 € brutto.
+- **RVG-Konformität:** Gebührentatbestände und Beträge entsprechen den Regelgebühren des VV RVG für Ermittlungsverfahren; keine offensichtlichen Überhöhungen festgestellt.
+- **Mahnung:** Trotz Durchsicht von `extracted/`, `evidence/` und `persons/` keine Mahnung auffindbar. Falls eine Mahnung existiert, sollte sie nachgereicht werden.
+- **Zahlungsnachweis:** Kein Beleg in den vorhandenen Ablagen gefunden. Nächster Schritt: Kontoauszüge oder E-Mail-Bestätigungen durchsuchen.
+- **Frist:** Verjährungsfrist 31.12.2025 bleibt unverändert im Kalender halten.
