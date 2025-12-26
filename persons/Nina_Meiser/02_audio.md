@@ -80,6 +80,33 @@
 
 ---
 
+---
+
+### 4. Konfrontation 05.10.2022 - MIT Adrian Stolz
+
+**Datei:** `evidence/audio-transcript/2022-10-05_STOLZ/2022-10-05_AUDIOBEWEIS_STOLZ_20221005_Meiserland_I_Beispielhafte_Bedeutung_von_Kindeswohl_zu_Zeiten_totalitar.mp3`
+**Dauer:** 7 Minuten
+**Status:** ✅ Transkribiert und reviewed (23.12.2025)
+
+**Kontext:**
+- Sollte zweiter Umgangstermin bei Meiser sein
+- 28.09.2022: Erster und EINZIGER Umgang bei Meiser (nur Meiser anwesend)
+- 05.10.2022: Stolz erscheint plötzlich, Konfrontation, **KEIN UMGANG**
+- 25.10.2022: Gerichtstermin (20 Tage später)
+
+**Meisers Aussage (nach EINEM Umgang):**
+
+> **[00:03:14] MEISER:** "Ganz schwierig ist einfach diese Übergabesituation. Ich verstehe, dass das für Sie super schwierig ist im Moment."
+
+**Bewertung:**
+- Meiser zieht Resümee nach EINEM einzigen Termin
+- Beim einzigen Umgang (28.09.) war sie ALLEIN - woher weiß sie von "Übergabesituation"?
+- Narrativ war vorbereitet für Gerichtstermin 25.10.2022
+
+**Siehe auch:** `persons/Adrian_Stolz/02_audio.md` (vollständiges Transkript)
+
+---
+
 ## Fehlende Audio-Dokumentation
 
 Folgende Ereignisse sind NICHT als Audio dokumentiert:
@@ -88,9 +115,7 @@ Folgende Ereignisse sind NICHT als Audio dokumentiert:
 |-------|----------|
 | 26.08.2022 | Gespraechstermin im Jugendamt |
 | 28.09.2022 | Umgangstermin - "E-Mail nicht erhalten", Zerren am Kind |
-| 05.10.2022 | Umgangsverweigerung mit Adrian Stolz |
-| 25.10.2022 | Gerichtsverhandlung - Falschaussage |
 
 ---
 
-**Aktualisiert:** 20.12.2025
+**Aktualisiert:** 26.12.2025

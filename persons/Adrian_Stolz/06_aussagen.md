@@ -124,7 +124,7 @@ Stattdessen beginnt die Anklage mit dem 11.11.2022 - NACH dem Vorfall, bei dem S
 
 | Datum | Quelle | Inhalt | Relevanz |
 |-------|--------|--------|----------|
-| 05.10.2022 | Audio-Transkript `2022-10-05 Meierland-Stolz-und-Vorurteil.txt` | Dialog im Jugendamt: Stolz/Meiser drohen mit Abbruch des Umgangs, fordern Mark zum Ruhigsein auf („hoere zu, sonst schmeiße ich Sie raus“, „dann ist das hiermit erledigt“). | Belegt, dass Stolz aktiv in den Umgang eingriff und Druck ausübte. 【F:evidence/2022-10-05 Meierland-Stolz-und-Vorurteil.txt†L3-L116】 |
+| 05.10.2022 | Audio-Transkript (siehe `02_audio.md`) | Dialog im Jugendamt: Stolz/Meiser drohen mit Abbruch des Umgangs, fordern Mark zum Ruhigsein auf. Stolz: "Hoeren Sie mir jetzt zu oder ich schmeisse Sie raus" (3x), "albern und kindisch", "Sie hatten nicht das Kindeswohl im Blick gehabt!" | Belegt, dass Stolz aktiv in den Umgang eingriff und Druck ausuebte. Audiodatei: `evidence/audio-transcript/2022-10-05_STOLZ/` |
 
 ### Frage
 
@@ -176,4 +176,4 @@ Prof. Dr. Retz (22.07.2025) stellt fest:
 
 ---
 
-**Aktualisiert:** 23.12.2025
+**Aktualisiert:** 26.12.2025

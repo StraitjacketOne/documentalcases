@@ -1,0 +1,1249 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>20221005_Meiserland_I_Beispielhafte_Bedeutung_von_Kindeswohl_zu_Zeiten_totalitar</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'SF Mono', 'Monaco', 'Inconsolata', monospace;
+            background: #000;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: #0d0d0d;
+            border: 1px solid #1a1a1a;
+            border-radius: 8px;
+            padding: 30px 40px;
+            width: 100%;
+            max-width: 650px;
+            position: relative;
+        }
+
+        /* Subtle flicker effect - like an old lamp */
+        .container::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            border-radius: 8px;
+            background: rgba(255, 255, 255, 0.008);
+            pointer-events: none;
+            animation: flicker 8s infinite;
+        }
+
+        @keyframes flicker {
+            0%, 100% { opacity: 0; }
+            2% { opacity: 1; }
+            2.5% { opacity: 0; }
+            2.7% { opacity: 1; }
+            3% { opacity: 0; }
+            97% { opacity: 0; }
+        }
+
+        .player {
+            color: #e0e0e0;
+        }
+
+        .date {
+            font-size: 16px;
+            color: #666;
+            margin-bottom: 25px;
+            letter-spacing: 2px;
+        }
+
+        .text-area {
+            min-height: 120px;
+            margin-bottom: 25px;
+        }
+
+        .speaker {
+            font-size: 10px;
+            color: #555;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 12px;
+        }
+
+        .text {
+            font-size: 20px;
+            line-height: 1.6;
+            color: #bbb;
+            font-weight: 300;
+        }
+
+        /* Nicolas highlight - glowing */
+        .highlight-nicolas {
+            color: #fff;
+            text-shadow:
+                0 0 5px rgba(255, 255, 255, 0.6),
+                0 0 10px rgba(255, 255, 255, 0.4),
+                0 0 20px rgba(255, 255, 255, 0.2);
+        }
+
+        .controls {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            opacity: 0.5;
+            transition: opacity 0.3s;
+        }
+
+        .controls:hover { opacity: 1; }
+
+        .btn {
+            background: none;
+            border: 1px solid #282828;
+            color: #555;
+            padding: 6px 14px;
+            font-size: 10px;
+            cursor: pointer;
+            font-family: inherit;
+            letter-spacing: 1px;
+            transition: all 0.2s;
+            border-radius: 3px;
+        }
+
+        .btn:hover {
+            border-color: #444;
+            color: #888;
+        }
+
+        .btn.play {
+            border-color: #333;
+            color: #666;
+        }
+
+        .progress {
+            flex: 1;
+            height: 1px;
+            background: #1a1a1a;
+            position: relative;
+            cursor: pointer;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: #333;
+            width: 0%;
+            transition: width 0.1s linear;
+        }
+
+        .time {
+            font-size: 10px;
+            color: #333;
+            min-width: 80px;
+            text-align: right;
+        }
+
+        /* Mobile responsive */
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px 25px;
+                border-radius: 0;
+            }
+
+            .text {
+                font-size: 18px;
+            }
+
+            .btn {
+                padding: 5px 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="player">
+            <div class="date">2022-10-05</div>
+
+            <div class="text-area">
+                <div class="speaker" id="speaker-name">-</div>
+                <div class="text" id="snippet-text">Audio wird geladen...</div>
+            </div>
+
+            <div class="controls">
+                <button class="btn" id="prev-btn">&#9666;</button>
+                <button class="btn play" id="play-btn">PLAY</button>
+                <button class="btn" id="next-btn">&#9656;</button>
+                <div class="progress" id="progress-bar">
+                    <div class="progress-fill" id="progress-fill"></div>
+                </div>
+                <div class="time" id="time-display">0:00 / 0:00</div>
+            </div>
+        </div>
+
+        <audio id="audio-element" preload="metadata"></audio>
+    </div>
+
+    <script>
+        (function() {
+            // ===== AUDIO DATA (will be replaced by generator) =====
+            const AUDIO_DATA = {
+  "metadata": {
+    "date": "2022-10-05",
+    "speaker": "STOLZ",
+    "title": "20221005_Meiserland_I_Beispielhafte_Bedeutung_von_Kindeswohl_zu_Zeiten_totalitar",
+    "duration": 408,
+    "snippetCount": 127
+  },
+  "audioFile": "2022-10-05_AUDIOBEWEIS_STOLZ_20221005_Meiserland_I_Beispielhafte_Bedeutung_von_Kindeswohl_zu_Zeiten_totalitar.mp3",
+  "snippets": [
+    {
+      "index": 10,
+      "speaker": "UNKNOWN",
+      "text": "-",
+      "startTime": 30,
+      "endTime": 34
+    },
+    {
+      "index": 20,
+      "speaker": "JAECKEL",
+      "text": "Hallo, ich hab nen Termin bei der Frau Meiser.",
+      "startTime": 34,
+      "endTime": 37
+    },
+    {
+      "index": 30,
+      "speaker": "STOLZ",
+      "text": "Alles gut, ich nehme Sie mit, Herr Jäckel.",
+      "startTime": 37,
+      "endTime": 41
+    },
+    {
+      "index": 40,
+      "speaker": "STOLZ",
+      "text": "Achso, passt, okay.",
+      "startTime": 41,
+      "endTime": 43
+    },
+    {
+      "index": 50,
+      "speaker": "MARK",
+      "text": "Hallo. Hallo.",
+      "startTime": 43,
+      "endTime": 45
+    },
+    {
+      "index": 60,
+      "speaker": "UNKNOWN",
+      "text": "So einfach kann es gehen.",
+      "startTime": 45,
+      "endTime": 47
+    },
+    {
+      "index": 70,
+      "speaker": "MARK",
+      "text": "Bitte schön. Danke schön.",
+      "startTime": 49,
+      "endTime": 51
+    },
+    {
+      "index": 80,
+      "speaker": "STOLZ",
+      "text": "Sie kennen den Weg, ne?",
+      "startTime": 51,
+      "endTime": 53
+    },
+    {
+      "index": 90,
+      "speaker": "MARK",
+      "text": "Ich kenn den Weg, ja.",
+      "startTime": 53,
+      "endTime": 55
+    },
+    {
+      "index": 100,
+      "speaker": "STOLZ",
+      "text": "Wie geht es Ihnen?",
+      "startTime": 61,
+      "endTime": 63
+    },
+    {
+      "index": 110,
+      "speaker": "MARK",
+      "text": "Schlecht.",
+      "startTime": 63,
+      "endTime": 65
+    },
+    {
+      "index": 120,
+      "speaker": "STOLZ",
+      "text": "Schlecht.",
+      "startTime": 65,
+      "endTime": 67
+    },
+    {
+      "index": 130,
+      "speaker": "STOLZ",
+      "text": "Wann ist Verhandlung?",
+      "startTime": 67,
+      "endTime": 69
+    },
+    {
+      "index": 140,
+      "speaker": "STOLZ",
+      "text": "Wann ist Termin?",
+      "startTime": 69,
+      "endTime": 71
+    },
+    {
+      "index": 150,
+      "speaker": "MARK",
+      "text": "Gibt es noch keinen!",
+      "startTime": 71,
+      "endTime": 73
+    },
+    {
+      "index": 160,
+      "speaker": "MARK",
+      "text": "Gibt es noch keinen, nee",
+      "startTime": 73,
+      "endTime": 75
+    },
+    {
+      "index": 170,
+      "speaker": "STOLZ",
+      "text": "Bitte schön nehmen Sie noch Platz",
+      "startTime": 90,
+      "endTime": 93
+    },
+    {
+      "index": 180,
+      "speaker": "STOLZ",
+      "text": "Herr Jäckel, kommen Sie grad noch mal mit.",
+      "startTime": 151,
+      "endTime": 153
+    },
+    {
+      "index": 190,
+      "speaker": "MARK",
+      "text": "Nee, das brauchen wir jetzt ...",
+      "startTime": 159,
+      "endTime": 161
+    },
+    {
+      "index": 200,
+      "speaker": "MARK",
+      "text": "Achso, was letzte Woch war?",
+      "startTime": 161,
+      "endTime": 163
+    },
+    {
+      "index": 210,
+      "speaker": "MARK",
+      "text": "Ich habe schon mit meinem ehemaligen Professor geredet,",
+      "startTime": 163,
+      "endTime": 169
+    },
+    {
+      "index": 220,
+      "speaker": "MARK",
+      "text": "wie ich eine App entwickeln kann,",
+      "startTime": 169,
+      "endTime": 171
+    },
+    {
+      "index": 230,
+      "speaker": "MARK",
+      "text": "dass mein Auto sich automatisch wegfährt,",
+      "startTime": 171,
+      "endTime": 173
+    },
+    {
+      "index": 240,
+      "speaker": "MARK",
+      "text": "wenn diese Frau den Weg einschlägt.",
+      "startTime": 173,
+      "endTime": 175
+    },
+    {
+      "index": 250,
+      "speaker": "STOLZ",
+      "text": "Nehmen wir das Ganze mal ernst.",
+      "startTime": 175,
+      "endTime": 178
+    },
+    {
+      "index": 260,
+      "speaker": "MARK",
+      "text": "Wenn wir das ernst nehmen,",
+      "startTime": 178,
+      "endTime": 180
+    },
+    {
+      "index": 270,
+      "speaker": "MARK",
+      "text": "dann bräuchten wir jetzt gar nicht hier zu sitzen.",
+      "startTime": 180,
+      "endTime": 182
+    },
+    {
+      "index": 280,
+      "speaker": "MEISER",
+      "text": "So, Herr Jäckel, heute gehts ja erst mal drum ....",
+      "startTime": 182,
+      "endTime": 184
+    },
+    {
+      "index": 290,
+      "speaker": "MEISER",
+      "text": "heute geht es ja jetzt erst noch darum,",
+      "startTime": 184,
+      "endTime": 186
+    },
+    {
+      "index": 300,
+      "speaker": "MEISER",
+      "text": "der Kontakt an sich hat ja letzte Woche gut funktioniert.",
+      "startTime": 186,
+      "endTime": 188
+    },
+    {
+      "index": 310,
+      "speaker": "MARK",
+      "text": "Ja ... bis er angefangen hat zu heulen ...",
+      "startTime": 188,
+      "endTime": 190
+    },
+    {
+      "index": 320,
+      "speaker": "MARK",
+      "text": "Dass man den immer zum Heulen bringen muss ...!",
+      "startTime": 190,
+      "endTime": 192
+    },
+    {
+      "index": 330,
+      "speaker": "MARK",
+      "text": "das ist schlimm.",
+      "startTime": 192,
+      "endTime": 194
+    },
+    {
+      "index": 340,
+      "speaker": "MEISER",
+      "text": "Ganz schwierig ist einfach diese Übergabesituation.",
+      "startTime": 194,
+      "endTime": 196
+    },
+    {
+      "index": 350,
+      "speaker": "MEISER",
+      "text": "Ich verstehe, dass das für Sie super schwierig ist im Moment.",
+      "startTime": 196,
+      "endTime": 199
+    },
+    {
+      "index": 360,
+      "speaker": "MARK",
+      "text": "NEE VERSTEHEN SIE NICHT !",
+      "startTime": 199,
+      "endTime": 201
+    },
+    {
+      "index": 370,
+      "speaker": "STOLZ",
+      "text": "Also, Jäckel, ich mache jetzt einen ganz kurzen Prozess.",
+      "startTime": 201,
+      "endTime": 204
+    },
+    {
+      "index": 380,
+      "speaker": "STOLZ",
+      "text": "Die Situation, wie sie ist, ist, wie sie ist.",
+      "startTime": 204,
+      "endTime": 207
+    },
+    {
+      "index": 390,
+      "speaker": "STOLZ",
+      "text": "Dafür können wir nichts.",
+      "startTime": 207,
+      "endTime": 209
+    },
+    {
+      "index": 400,
+      "speaker": "STOLZ",
+      "text": "Sie wollen es jetzt zuhören,",
+      "startTime": 211,
+      "endTime": 213
+    },
+    {
+      "index": 410,
+      "speaker": "STOLZ",
+      "text": "oder ich breche jetzt den Umgangskontakt ab.",
+      "startTime": 213,
+      "endTime": 215
+    },
+    {
+      "index": 420,
+      "speaker": "STOLZ",
+      "text": "Weil so etwas wie letzte Woche,",
+      "startTime": 215,
+      "endTime": 217
+    },
+    {
+      "index": 430,
+      "speaker": "MARK",
+      "text": "... muss mit meiner Anwältin reden",
+      "startTime": 217,
+      "endTime": 219
+    },
+    {
+      "index": 440,
+      "speaker": "MARK",
+      "text": "Das hier gibt es doch nicht !",
+      "startTime": 219,
+      "endTime": 221
+    },
+    {
+      "index": 450,
+      "speaker": "STOLZ",
+      "text": "Wollen Sie es jetzt zuhören oder wollen Sie ...",
+      "startTime": 221,
+      "endTime": 223
+    },
+    {
+      "index": 460,
+      "speaker": "MARK",
+      "text": "ICH WILL ZU MEINEM KLEINEN !",
+      "startTime": 223,
+      "endTime": 225
+    },
+    {
+      "index": 470,
+      "speaker": "STOLZ",
+      "text": "ja dann bleiben Sie sitzen Meiser: dann müssen Sie sich hinsetzen",
+      "startTime": 225,
+      "endTime": 227
+    },
+    {
+      "index": 480,
+      "speaker": "STOLZ",
+      "text": "wenn so eine Nummer wie das letzte Mal ...",
+      "startTime": 227,
+      "endTime": 229
+    },
+    {
+      "index": 490,
+      "speaker": "MARK",
+      "text": "WAS FÜR EINE NUMMER? ERKLÄREN SIE MIR ...",
+      "startTime": 229,
+      "endTime": 231
+    },
+    {
+      "index": 500,
+      "speaker": "STOLZ",
+      "text": "HÖREN SIE MIR JETZT ZU ODER ICH BEENDE JETZT UND SCHMEISS SIE ...",
+      "startTime": 231,
+      "endTime": 233
+    },
+    {
+      "index": 510,
+      "speaker": "STOLZ",
+      "text": "... hier raus.",
+      "startTime": 233,
+      "endTime": 235
+    },
+    {
+      "index": 520,
+      "speaker": "STOLZ",
+      "text": "Wenn Sie nochmal da unten warten und Ihren Sohn abfangen...",
+      "startTime": 235,
+      "endTime": 238
+    },
+    {
+      "index": 530,
+      "speaker": "MARK",
+      "text": "Ich habe den nicht abgefangen.",
+      "startTime": 238,
+      "endTime": 240
+    },
+    {
+      "index": 540,
+      "speaker": "MARK",
+      "text": "Ich habe da gestanden...",
+      "startTime": 240,
+      "endTime": 242
+    },
+    {
+      "index": 550,
+      "speaker": "STOLZ",
+      "text": "Hören Sie mir jetzt zu, oder ich schmeiße Sie jetzt raus.\n[GOTTKOMPLEX MODUS]",
+      "startTime": 242,
+      "endTime": 244
+    },
+    {
+      "index": 560,
+      "speaker": "MARK",
+      "text": "Das haben Sie jetzt schon dreimal gesagt.",
+      "startTime": 244,
+      "endTime": 246
+    },
+    {
+      "index": 570,
+      "speaker": "STOLZ",
+      "text": "dann ist das heut erledigt und wir warten die Verhandlung ab.",
+      "startTime": 246,
+      "endTime": 248
+    },
+    {
+      "index": 580,
+      "speaker": "MARK",
+      "text": "das gibs doch net",
+      "startTime": 248,
+      "endTime": 250
+    },
+    {
+      "index": 590,
+      "speaker": "MARK",
+      "text": "Das gibt es doch nicht.",
+      "startTime": 250,
+      "endTime": 252
+    },
+    {
+      "index": 600,
+      "speaker": "STOLZ",
+      "text": "SO!",
+      "startTime": 252,
+      "endTime": 254
+    },
+    {
+      "index": 610,
+      "speaker": "MARK",
+      "text": "Ich stehe da draußen, ich da geparkt habe STOLZ: DAS INTERESSIERT UNS NET",
+      "startTime": 254,
+      "endTime": 256
+    },
+    {
+      "index": 620,
+      "speaker": "UNKNOWN",
+      "text": "Ach, das interessiert Sie nicht.",
+      "startTime": 256,
+      "endTime": 258
+    },
+    {
+      "index": 630,
+      "speaker": "STOLZ",
+      "text": "Das interessiert uns nicht. wir wollen",
+      "startTime": 258,
+      "endTime": 260
+    },
+    {
+      "index": 640,
+      "speaker": "MARK",
+      "text": "Ich habe geparkt da draußen.",
+      "startTime": 260,
+      "endTime": 262
+    },
+    {
+      "index": 650,
+      "speaker": "MARK",
+      "text": "Ich habe Kaffee getrunken.",
+      "startTime": 262,
+      "endTime": 264
+    },
+    {
+      "index": 660,
+      "speaker": "MARK",
+      "text": "Ich habe mit meiner Schwester telefoniert.",
+      "startTime": 264,
+      "endTime": 266
+    },
+    {
+      "index": 670,
+      "speaker": "MARK",
+      "text": "Da läuft die an mir vorbei.",
+      "startTime": 266,
+      "endTime": 268
+    },
+    {
+      "index": 680,
+      "speaker": "STOLZ",
+      "text": "ei ja Weil sie halt raus muss.",
+      "startTime": 268,
+      "endTime": 270
+    },
+    {
+      "index": 690,
+      "speaker": "STOLZ",
+      "text": "Dann werden wir es ab sofort so machen,",
+      "startTime": 270,
+      "endTime": 272
+    },
+    {
+      "index": 700,
+      "speaker": "STOLZ",
+      "text": "dass wir die erste Frau Kaptschek mit ihrem Sohn weglassen.",
+      "startTime": 272,
+      "endTime": 274
+    },
+    {
+      "index": 710,
+      "speaker": "STOLZ",
+      "text": "Und Sie warten hier bitte, bis das weg ist.",
+      "startTime": 274,
+      "endTime": 276
+    },
+    {
+      "index": 720,
+      "speaker": "MARK",
+      "text": "Okay, alles klar.",
+      "startTime": 276,
+      "endTime": 278
+    },
+    {
+      "index": 730,
+      "speaker": "STOLZ",
+      "text": "Und sollte das nochmal so eskalieren...",
+      "startTime": 278,
+      "endTime": 280
+    },
+    {
+      "index": 740,
+      "speaker": "MARK",
+      "text": "Eskalieren?",
+      "startTime": 280,
+      "endTime": 282
+    },
+    {
+      "index": 750,
+      "speaker": "STOLZ",
+      "text": "Sollte das Nummer eskalieren, egal von wem,",
+      "startTime": 282,
+      "endTime": 284
+    },
+    {
+      "index": 760,
+      "speaker": "STOLZ",
+      "text": "werden wir die Umgänge hier nicht mehr begleiten,",
+      "startTime": 284,
+      "endTime": 286
+    },
+    {
+      "index": 770,
+      "speaker": "STOLZ",
+      "text": "weil wir die Sicherheit Ihres Sohnes nicht sicherstellen können.",
+      "startTime": 286,
+      "endTime": 288
+    },
+    {
+      "index": 780,
+      "speaker": "MARK",
+      "text": "Ach, du Schande.",
+      "startTime": 288,
+      "endTime": 290
+    },
+    {
+      "index": 790,
+      "speaker": "STOLZ",
+      "text": "Sie können jetzt weiterhin so machen, dann ist das hier",
+      "startTime": 290,
+      "endTime": 292
+    },
+    {
+      "index": 800,
+      "speaker": "STOLZ",
+      "text": "beendet und erledigt",
+      "startTime": 292,
+      "endTime": 293
+    },
+    {
+      "index": 810,
+      "speaker": "STOLZ",
+      "text": "gut dann warten Sie bitte vorne [JO IS KLAR *FASSUNGSLOSES LACHEN*]",
+      "startTime": 293,
+      "endTime": 296
+    },
+    {
+      "index": 820,
+      "speaker": "MARK",
+      "text": "... genau",
+      "startTime": 296,
+      "endTime": 298
+    },
+    {
+      "index": 830,
+      "speaker": "STOLZ",
+      "text": "Das ganze Theater führen Sie auf !",
+      "startTime": 298,
+      "endTime": 300
+    },
+    {
+      "index": 840,
+      "speaker": "MARK",
+      "text": "Wieso?",
+      "startTime": 300,
+      "endTime": 302
+    },
+    {
+      "index": 850,
+      "speaker": "MEISER",
+      "text": "Warten Sie draußen.",
+      "startTime": 302,
+      "endTime": 304
+    },
+    {
+      "index": 860,
+      "speaker": "STOLZ",
+      "text": "Ich höre ihnen gar nicht zu. MEISER: NEE!",
+      "startTime": 304,
+      "endTime": 306
+    },
+    {
+      "index": 870,
+      "speaker": "STOLZ",
+      "text": "Wenn Sie normal mit mir reden wollen, höre ich Ihnen gern zu.",
+      "startTime": 306,
+      "endTime": 308
+    },
+    {
+      "index": 880,
+      "speaker": "MARK",
+      "text": "Ja, versuche ich.",
+      "startTime": 308,
+      "endTime": 310
+    },
+    {
+      "index": 890,
+      "speaker": "STOLZ",
+      "text": "Wenn Sie hier anfangen, mich zu beleidigen oder mich als lächerlich darzustellen",
+      "startTime": 310,
+      "endTime": 312
+    },
+    {
+      "index": 900,
+      "speaker": "STOLZ",
+      "text": "DANN IST DAS HIER BEENDET - SO EINFACH IST ES !",
+      "startTime": 312,
+      "endTime": 314
+    },
+    {
+      "index": 910,
+      "speaker": "STOLZ",
+      "text": "So wollen Sie jetzt normal was sagen oder ...",
+      "startTime": 314,
+      "endTime": 316
+    },
+    {
+      "index": 920,
+      "speaker": "MARK",
+      "text": "Ja will ich: ich steh da draußen",
+      "startTime": 316,
+      "endTime": 318
+    },
+    {
+      "index": 930,
+      "speaker": "MARK",
+      "text": "Trink meinen Kaffee, rauch eine Zigarette ...",
+      "startTime": 318,
+      "endTime": 320
+    },
+    {
+      "index": 940,
+      "speaker": "MARK",
+      "text": "weil ich im Auto nicht rauche und telefonier mit meiner Schwester.",
+      "startTime": 320,
+      "endTime": 322
+    },
+    {
+      "index": 950,
+      "speaker": "MARK",
+      "text": "weil die nachgefragt hatte: wie liefs mit dem Kleinen?",
+      "startTime": 322,
+      "endTime": 324
+    },
+    {
+      "index": 960,
+      "speaker": "MARK",
+      "text": "so, Und dann läuft die an mir vorbei.",
+      "startTime": 324,
+      "endTime": 326
+    },
+    {
+      "index": 970,
+      "speaker": "STOLZ",
+      "text": "Das spielt überhaupt keine Rolle.",
+      "startTime": 326,
+      "endTime": 328
+    },
+    {
+      "index": 980,
+      "speaker": "STOLZ",
+      "text": "Wollen Sie jetzt hören, was wir erwarten?",
+      "startTime": 328,
+      "endTime": 330
+    },
+    {
+      "index": 990,
+      "speaker": "STOLZ",
+      "text": "Dass Sie sich nicht mehr über die Füße laufen, weil Sie sich nicht ...",
+      "startTime": 330,
+      "endTime": 332
+    },
+    {
+      "index": 1000,
+      "speaker": "STOLZ",
+      "text": "... wie Erwachsene benehmen können.",
+      "startTime": 332,
+      "endTime": 334
+    },
+    {
+      "index": 1010,
+      "speaker": "STOLZ",
+      "text": "Sie haben um Hilfe gerufen.",
+      "startTime": 334,
+      "endTime": 336
+    },
+    {
+      "index": 1020,
+      "speaker": "STOLZ",
+      "text": "Wie ein...",
+      "startTime": 336,
+      "endTime": 338
+    },
+    {
+      "index": 1030,
+      "speaker": "STOLZ",
+      "text": "\"Helfen Sie mir! Helfen Sie mir!\"",
+      "startTime": 340,
+      "endTime": 342
+    },
+    {
+      "index": 1040,
+      "speaker": "MARK",
+      "text": "Das ist, um das darzustellen,",
+      "startTime": 342,
+      "endTime": 344
+    },
+    {
+      "index": 1050,
+      "speaker": "MARK",
+      "text": "was Sie macht",
+      "startTime": 344,
+      "endTime": 346
+    },
+    {
+      "index": 1060,
+      "speaker": "STOLZ",
+      "text": "Nein, das ist albern.",
+      "startTime": 346,
+      "endTime": 348
+    },
+    {
+      "index": 1070,
+      "speaker": "STOLZ",
+      "text": "\"albern und kindisch\" Das hört auf, sonst beenden wir. ..",
+      "startTime": 348,
+      "endTime": 350
+    },
+    {
+      "index": 1080,
+      "speaker": "STOLZ",
+      "text": "\"albern und kindisch\" - genau dann beenden wir das Ganze!",
+      "startTime": 350,
+      "endTime": 352
+    },
+    {
+      "index": 1090,
+      "speaker": "STOLZ",
+      "text": "Dann beenden wir das Ganze.\n\nUND DAS KÖNNEN WIR !!!",
+      "startTime": 352,
+      "endTime": 354
+    },
+    {
+      "index": 1100,
+      "speaker": "MARK",
+      "text": "Eine Alkoholikerin.",
+      "startTime": 354,
+      "endTime": 356
+    },
+    {
+      "index": 1110,
+      "speaker": "MARK",
+      "text": "... darf mit meinem Kind machen, was sie will...",
+      "startTime": 356,
+      "endTime": 358
+    },
+    {
+      "index": 1120,
+      "speaker": "MARK",
+      "text": "Sie haben das drei Jahre lang einfach so hingenommen!",
+      "startTime": 358,
+      "endTime": 360
+    },
+    {
+      "index": 1130,
+      "speaker": "MARK",
+      "text": "Nee ich habe es drei Jahre lang verdrängt.",
+      "startTime": 360,
+      "endTime": 362
+    },
+    {
+      "index": 1140,
+      "speaker": "MARK",
+      "text": "Ich habe die Frau geliebt.",
+      "startTime": 362,
+      "endTime": 364
+    },
+    {
+      "index": 1150,
+      "speaker": "STOLZ",
+      "text": "Das haben Sie ja Gott sei Dank sehr deutlich dokumentiert.",
+      "startTime": 364,
+      "endTime": 366
+    },
+    {
+      "index": 1160,
+      "speaker": "STOLZ",
+      "text": "\"JA\" und auch dem Gericht zukommen lassen - \"JA\"",
+      "startTime": 366,
+      "endTime": 368
+    },
+    {
+      "index": 1170,
+      "speaker": "STOLZ",
+      "text": "... dass Sie das als Vater ...",
+      "startTime": 368,
+      "endTime": 370
+    },
+    {
+      "index": 1180,
+      "speaker": "STOLZ",
+      "text": "mehrere Jahre lang geduldet haben. So! Gut!",
+      "startTime": 370,
+      "endTime": 371.2
+    },
+    {
+      "index": 1190,
+      "speaker": "MARK",
+      "text": "habe ich geduldet ...",
+      "startTime": 372,
+      "endTime": 374
+    },
+    {
+      "index": 1200,
+      "speaker": "MARK",
+      "text": "... weil ich die Frau geliebt hab?",
+      "startTime": 374,
+      "endTime": 376
+    },
+    {
+      "index": 1210,
+      "speaker": "MARK",
+      "text": "\"Ja genau!\"",
+      "startTime": 376,
+      "endTime": 377.3
+    },
+    {
+      "index": 1220,
+      "speaker": "STOLZ",
+      "text": "Sie hatten nicht das Kindeswohl im Blick gehabt!",
+      "startTime": 378,
+      "endTime": 379.5
+    },
+    {
+      "index": 1230,
+      "speaker": "MARK",
+      "text": "WAS HATTE ICH ???",
+      "startTime": 382,
+      "endTime": 384
+    },
+    {
+      "index": 1240,
+      "speaker": "MARK",
+      "text": "Mal gucken, ob alles aufgenommen ist.",
+      "startTime": 388,
+      "endTime": 390
+    },
+    {
+      "index": 1250,
+      "speaker": "STOLZ",
+      "text": "Das können Sie gerne aufnehmen.",
+      "startTime": 390,
+      "endTime": 392
+    },
+    {
+      "index": 1260,
+      "speaker": "MARK",
+      "text": "Alles klar, gut.",
+      "startTime": 392,
+      "endTime": 394
+    },
+    {
+      "index": 1270,
+      "speaker": "MARK",
+      "text": "ja, alles schön. Alles schön drauf!",
+      "startTime": 406,
+      "endTime": 408
+    }
+  ]
+};
+
+            // ===== STATE =====
+            let currentSnippetIndex = 0;
+            let isPlaying = false;
+
+            // ===== DOM ELEMENTS =====
+            const audioElement = document.getElementById('audio-element');
+            const playBtn = document.getElementById('play-btn');
+            const prevBtn = document.getElementById('prev-btn');
+            const nextBtn = document.getElementById('next-btn');
+            const progressBar = document.getElementById('progress-bar');
+            const progressFill = document.getElementById('progress-fill');
+            const timeDisplay = document.getElementById('time-display');
+            const speakerName = document.getElementById('speaker-name');
+            const snippetText = document.getElementById('snippet-text');
+
+            // ===== HIGHLIGHT NICOLAS =====
+            function highlightNicolas(text) {
+                return text.replace(
+                    /\b(Nicolas)\b/gi,
+                    '<span class="highlight-nicolas">$1</span>'
+                );
+            }
+
+            // ===== INITIALIZE =====
+            function init() {
+                audioElement.src = AUDIO_DATA.audioFile;
+                updateSnippetDisplay();
+            }
+
+            // ===== UPDATE SNIPPET DISPLAY =====
+            function updateSnippetDisplay() {
+                const snippets = AUDIO_DATA.snippets;
+
+                if (snippets.length === 0) {
+                    snippetText.textContent = 'Keine Snippets verfügbar';
+                    speakerName.textContent = '-';
+                    return;
+                }
+
+                const snippet = snippets[currentSnippetIndex];
+                if (snippet) {
+                    snippetText.innerHTML = highlightNicolas(snippet.text);
+                    speakerName.textContent = snippet.speaker;
+                }
+            }
+
+            // ===== FORMAT TIME =====
+            function formatTime(seconds) {
+                if (!seconds || isNaN(seconds)) return '0:00';
+                const mins = Math.floor(seconds / 60);
+                const secs = Math.floor(seconds % 60);
+                return `${mins}:${secs.toString().padStart(2, '0')}`;
+            }
+
+            // ===== AUDIO EVENT HANDLERS =====
+            audioElement.addEventListener('timeupdate', () => {
+                const currentTime = audioElement.currentTime;
+                const duration = audioElement.duration || 0;
+
+                if (duration > 0) {
+                    progressFill.style.width = `${(currentTime / duration) * 100}%`;
+                }
+
+                timeDisplay.textContent = `${formatTime(currentTime)} / ${formatTime(duration)}`;
+
+                // Find current snippet based on time
+                const snippets = AUDIO_DATA.snippets;
+                const newIndex = snippets.findIndex((s) => {
+                    return currentTime >= s.startTime && currentTime <= s.endTime;
+                });
+
+                if (newIndex !== -1 && newIndex !== currentSnippetIndex) {
+                    currentSnippetIndex = newIndex;
+                    updateSnippetDisplay();
+                }
+            });
+
+            audioElement.addEventListener('ended', () => {
+                isPlaying = false;
+                playBtn.textContent = 'PLAY';
+            });
+
+            audioElement.addEventListener('loadedmetadata', () => {
+                timeDisplay.textContent = `0:00 / ${formatTime(audioElement.duration)}`;
+            });
+
+            // ===== CONTROL HANDLERS =====
+            playBtn.addEventListener('click', () => {
+                if (isPlaying) {
+                    audioElement.pause();
+                    isPlaying = false;
+                    playBtn.textContent = 'PLAY';
+                } else {
+                    audioElement.play();
+                    isPlaying = true;
+                    playBtn.textContent = 'STOP';
+                }
+            });
+
+            prevBtn.addEventListener('click', () => {
+                if (currentSnippetIndex > 0) {
+                    currentSnippetIndex--;
+                    const snippet = AUDIO_DATA.snippets[currentSnippetIndex];
+                    audioElement.currentTime = snippet.startTime;
+                    updateSnippetDisplay();
+                }
+            });
+
+            nextBtn.addEventListener('click', () => {
+                if (currentSnippetIndex < AUDIO_DATA.snippets.length - 1) {
+                    currentSnippetIndex++;
+                    const snippet = AUDIO_DATA.snippets[currentSnippetIndex];
+                    audioElement.currentTime = snippet.startTime;
+                    updateSnippetDisplay();
+                }
+            });
+
+            // Progress bar click
+            progressBar.addEventListener('click', (e) => {
+                const rect = progressBar.getBoundingClientRect();
+                const percent = (e.clientX - rect.left) / rect.width;
+                audioElement.currentTime = percent * audioElement.duration;
+            });
+
+            // ===== KEYBOARD SHORTCUTS =====
+            document.addEventListener('keydown', (e) => {
+                switch(e.key) {
+                    case ' ':
+                        e.preventDefault();
+                        playBtn.click();
+                        break;
+                    case 'ArrowLeft':
+                        e.preventDefault();
+                        audioElement.currentTime = Math.max(0, audioElement.currentTime - 5);
+                        break;
+                    case 'ArrowRight':
+                        e.preventDefault();
+                        audioElement.currentTime = Math.min(audioElement.duration, audioElement.currentTime + 5);
+                        break;
+                    case 'ArrowUp':
+                        e.preventDefault();
+                        prevBtn.click();
+                        break;
+                    case 'ArrowDown':
+                        e.preventDefault();
+                        nextBtn.click();
+                        break;
+                }
+            });
+
+            // ===== RUN =====
+            init();
+        })();
+    </script>
+</body>
+</html>

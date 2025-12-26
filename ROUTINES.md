@@ -119,6 +119,26 @@ persons/{CANONICAL_NAME}/
 
 ---
 
+## ROUTINE 7: EXTERNE FUNDE EINPFLEGEN
+
+**Wann:** Wenn relevante Beweise ausserhalb des Repos gefunden werden (z.B. in `I:\data\Madenreich\`)
+
+**Workflow:**
+1. **KOPIEREN** nach `evidence/audio-transcript/{DATUM}_{THEMA}/` oder passenden Unterordner
+2. **REFERENZ** in der Person-Datei auf den repo-internen Pfad aendern
+3. Fertig.
+
+**Warum:** Das Repo muss autark sein - ein Export fuer den Generalbundesanwalt ohne externe Abhaengigkeiten.
+
+**Beispiel:**
+```
+Fund:    I:\data\Madenreich\...\2022-09-24_Transkript.tcl
+Ziel:    evidence/audio-transcript/2022-09-24_48h-Falle/transkript.txt
+Referenz: evidence/audio-transcript/2022-09-24_48h-Falle/transkript.txt
+```
+
+---
+
 ## CHECKLISTE: NEUE SESSION
 
 - [ ] **[DIE_GESCHICHTE.md](DIE_GESCHICHTE.md)** gelesen?
