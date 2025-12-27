@@ -42,6 +42,7 @@ persons/{CANONICAL_NAME}/
 - Jede Aussage braucht: Wortlaut, Datum, Genesis-Quelle, Factcheck-Quelle, Beweiswert
 - Unreviewte Audios IMMER kennzeichnen
 - 08_beweisketten.md verknuepft zu evidence/beweisketten/
+- **KREUZREFERENZEN:** Siehe ROUTINE 8!
 
 ---
 
@@ -139,6 +140,37 @@ Referenz: evidence/audio-transcript/2022-09-24_48h-Falle/transkript.txt
 
 ---
 
+## ROUTINE 8: KREUZREFERENZEN (KRITISCH!)
+
+**Problem:** Verbindungen werden nur bei EINER Person eingetragen, die andere vergessen.
+
+**Regel:** Jede Verbindung in 05_verbindungen.md ist BIDIREKTIONAL.
+
+**Workflow:**
+1. Verbindung bei Person A eintragen
+2. **SOFORT** auch bei Person B eintragen (Kreuzreferenz!)
+3. Kreuzreferenz-Tabelle in beiden Dateien aktualisieren
+
+**Kreuzreferenz-Tabelle** (in jeder 05_verbindungen.md fuehren):
+```markdown
+| Person | Deren Datei | Hier erwaehnt? |
+|--------|-------------|----------------|
+| Person_X | 05_verbindungen.md | ✅ Ja |
+| Person_Y | 05_verbindungen.md | ⬜ Noch nicht |
+```
+
+**Unterschied 00_basis vs 05_verbindungen:**
+- 00_basis = WER (Stammdaten, einfache Liste)
+- 05_verbindungen = WIE + BEWEIS (qualifiziert, mit Quelle und Staerke)
+
+**00_basis.md NICHT anfassen** - nur 05_verbindungen.md updaten!
+
+**Beispiel:** Siehe `/persons/Adrian_Stolz/` und `/persons/Nina_Meiser/`
+
+**Details:** `persons/ANALYSE_ROUTINE.md` Abschnitt KREUZREFERENZEN
+
+---
+
 ## CHECKLISTE: NEUE SESSION
 
 - [ ] **[DIE_GESCHICHTE.md](DIE_GESCHICHTE.md)** gelesen?
@@ -146,6 +178,7 @@ Referenz: evidence/audio-transcript/2022-09-24_48h-Falle/transkript.txt
 - [ ] `evidence/beweisketten/INDEX.md` pruefen?
 - [ ] Welche Person soll analysiert werden?
 - [ ] Sind 06_aussagen.md UND 08_beweisketten.md vorhanden?
+- [ ] **KREUZREFERENZEN:** Bei Updates 05_verbindungen.md BEIDER Personen aktualisieren!
 
 ---
 
@@ -155,12 +188,15 @@ Referenz: evidence/audio-transcript/2022-09-24_48h-Falle/transkript.txt
 - evidence/beweisketten/ UEBERSEHEN <- HAUPTFEHLER!
 - Dateien ohne Backup bearbeiten
 - Antworten aus Interviews nicht verifizieren
+- **Kreuzreferenzen vergessen** <- NEUER HAUPTFEHLER!
+- 00_basis.md anfassen wenn 05_verbindungen.md gemeint ist
 
 **IMMER tun:**
 - DIE_GESCHICHTE.md lesen fuer Kontext
 - TASKS/ zuerst pruefen
 - evidence/beweisketten/INDEX.md pruefen
 - 08_beweisketten.md pro Person pflegen
+- **05_verbindungen.md BIDIREKTIONAL updaten**
 - Bei Sync-Problemen: NEUE Datei erstellen
 
 ---

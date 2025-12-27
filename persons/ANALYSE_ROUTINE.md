@@ -182,6 +182,58 @@ Nach Review durch Mark:
 3. **Zitate** - immer mit Snippet-Nummer oder Dokument-Datum
 4. **Review-Status** - unreviewte Audios kennzeichnen
 5. **Diskrepanzen** - das ist der Kern der Analyse
+6. **KREUZREFERENZEN** - siehe unten!
+
+---
+
+## KREUZREFERENZEN (KRITISCH!)
+
+**Problem:** Verbindungen werden nur bei EINER Person eingetragen, die andere vergessen.
+
+**Regel:** Jede Verbindung ist BIDIREKTIONAL.
+
+Wenn du in `Person_A/05_verbindungen.md` eintraegst:
+> "Verbindung zu Person_B am 05.10.2022"
+
+Dann MUSST du auch in `Person_B/05_verbindungen.md` eintragen:
+> "Verbindung zu Person_A am 05.10.2022"
+
+### Kreuzreferenz-Tabelle fuehren
+
+Jede 05_verbindungen.md sollte eine Tabelle enthalten:
+
+```markdown
+## Kreuzreferenzen
+
+| Person | Deren Datei | Hier erwaehnt? |
+|--------|-------------|----------------|
+| Person_X | 05_verbindungen.md | ✅ Ja |
+| Person_Y | 05_verbindungen.md | ⬜ Noch nicht |
+```
+
+### Checkliste bei jedem Update
+
+- [ ] Verbindung bei Person A eingetragen?
+- [ ] Verbindung bei Person B eingetragen? (KREUZREFERENZ!)
+- [ ] Kreuzreferenz-Tabelle aktualisiert?
+- [ ] Cipher informiert? (falls genutzt)
+
+### Beispiel
+
+Siehe: `/persons/Nina_Meiser/05_verbindungen.md` und `/persons/Adrian_Stolz/05_verbindungen.md`
+
+Beide enthalten die Verbindung 05.10.2022 mit Verweis aufeinander.
+
+### Unterschied 00_basis vs 05_verbindungen
+
+| 00_basis.md | 05_verbindungen.md |
+|-------------|--------------------|
+| WER ist das (Stammdaten) | WIE ist die Verbindung |
+| Einfache Beziehungsliste | Qualifiziert mit Richtung |
+| Keine Quellen noetig | Mit Beweis und Staerke |
+| Name, Rolle, Institution | ERTEILT/GESCHUETZT/KOOPERIERT |
+
+**00_basis.md NICHT anfassen** wenn 05_verbindungen.md aktualisiert wird.
 
 ---
 

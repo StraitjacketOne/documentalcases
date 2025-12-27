@@ -133,3 +133,20 @@ Mark verweist auf Videoaufnahmen, die seine Version stuetzen.
 ---
 
 **Aktualisiert:** 20.12.2025
+
+---
+
+## GOLDGRUBE-ANALYSE (importiert aus Madenreich)
+
+**Vollstaendige Analyse:** `evidence/beweisketten/ANALYSE_Meiser_Verleumdung_2022-10-05.md`
+
+Diese Analyse verknuepft:
+- **48-Stunden-Falle** (22.-24.09.2022) mit Meisers Schreiben vom 05.10.2022
+- **Koordinierter Justiz-Betrug** durch Jugendamt Saarbruecken
+- **Beweiskette:** Audio 24.09. -> Polizei 22.09./24.09. -> Meiser-Schreiben 05.10.
+
+**Straftaten:** 258 (Strafvereitelung), 164 (Falsche Verdaechtigung), 339 (Rechtsbeugung), 263 (Prozessbetrug)
+
+---
+
+**Aktualisiert:** 26.12.2025
